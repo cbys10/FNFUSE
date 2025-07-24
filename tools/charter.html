@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>FNFUSE Key To Chart Tool</title>
+  <style>
+    body {
+      background: #111;
+      color: #fff;
+      font-family: sans-serif;
+      text-align: center;
+    }
+    input, button, select {
+      margin: 10px;
+    }
+    #countdown {
+      font-size: 48px;
+      color: #00ff00;
+    }
+  </style>
+</head>
+<body>
+  <h1>FNFUSE Key To Chart Tool</h1>
+
+  <div>
+    <label>Background (.ogg): <input type="file" id="bgInput" accept=".ogg"></label><br>
+    <label>Voice Track 1 (.ogg): <input type="file" id="voice1Input" accept=".ogg"></label><br>
+    <label>Voice Track 2 (.ogg): <input type="file" id="voice2Input" accept=".ogg"></label><br>
+    <label>Mode:
+      <select id="modeSelect">
+        <option value="bf">Boyfriend</option>
+        <option value="op">Opponent</option>
+      </select>
+    </label><br>
+
+    <button onclick="startCharter()">Start Charter</button>
+  </div>
+
+  <div id="countdown"></div>
+
+  <script>
+    alert("Made by soundgod, click d(left), f(down), j(up), k (right) to the music and a chart will download.")
+    let bgAudio, voiceAudios = [], bfNotes = [], opNotes = [], keyHoldStart = {}, startTime = 0;
+    let mode = 'bf';
+  
+    const keyMap = {
+      'd': 'left',
+      'f': 'down',
+      'j': 'up',
+      'k': 'right'
+    };
+  
+    document.getElementById('modeSelect').addEventListener('change', e => {
+      mode = e.target.value;
+    });
+  
+    function startCharter() {
+      const bgFile = document.getElementById('bgInput').files[0];
+      const v1File = document.getElementById('voice1Input').files[0];
+      const v2File = document.getElementById('voice2Input').files[0];
+  
+      if (!bgFile || !v1File) {
+        alert("Please upload at least a background and one voice track.");
+        return;
+      }
+  
+      bgAudio = new Audio(URL.createObjectURL(bgFile));
+      voiceAudios = [new Audio(URL.createObjectURL(v1File))];
+      if (v2File) voiceAudios.push(new Audio(URL.createObjectURL(v2File)));
+  
+      bgAudio.onended = () => {
+        console.log("Charting done.");
+        promptDownload();
+      };
+  
+      bfNotes = [];
+      opNotes = [];
+      keyHoldStart = {};
+  
+      countdown(3, () => {
+        startTime = performance.now();
+        bgAudio.play();
+        voiceAudios.forEach(a => a.play());
+      });
+    }
+  
+    function countdown(seconds, onDone) {
+      const el = document.getElementById("countdown");
+      el.textContent = seconds;
+      const interval = setInterval(() => {
+        seconds--;
+        if (seconds <= 0) {
+          clearInterval(interval);
+          el.textContent = "";
+          onDone();
+        } else {
+          el.textContent = seconds;
+        }
+      }, 1000);
+    }
+  
+    document.addEventListener("keydown", e => {
+      const note = keyMap[e.key];
+      if (note && keyHoldStart[e.key] === undefined) {
+        keyHoldStart[e.key] = getCurrentTime();
+      }
+    });
+  
+    document.addEventListener("keyup", e => {
+      const note = keyMap[e.key];
+      if (note && keyHoldStart[e.key] !== undefined) {
+        const start = keyHoldStart[e.key];
+        const end = getCurrentTime();
+        delete keyHoldStart[e.key];
+  
+        const entry = {
+          note,
+          time: start
+        };
+  
+        const duration = end - start;
+        if (duration > 0.1) {
+          entry.hold = duration;
+        }
+  
+        if (mode === "bf") {
+          bfNotes.push(entry);
+        } else {
+          opNotes.push(entry);
+        }
+      }
+    });
+  
+    function getCurrentTime() {
+      return (performance.now() - startTime) / 1000;
+    }
+  
+    function promptDownload() {
+      const songName = prompt("Enter a song name for the chart file:");
+      if (!songName) return;
+  
+      const finalChart = {
+        song: songName,
+        bfNotes,
+        opNotes
+      };
+  
+      const json = JSON.stringify(finalChart, null, 2);
+      const blob = new Blob([json], { type: 'application/json' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      a.href = url;
+      a.download = `${songName}.json`;
+      a.click();
+      URL.revokeObjectURL(url);
+    }
+  </script>
+  
+</body>
+</html>
