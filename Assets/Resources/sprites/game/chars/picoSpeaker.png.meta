@@ -1,0 +1,4351 @@
+fileFormatVersion: 2
+guid: 84bb00c6f3804914089b166030f9e6f8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pico shoot 10000
+      rect:
+        serializedVersion: 2
+        x: 6865
+        y: 2718
+        width: 899
+        height: 711
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0f4a96e1ffb5850800000000000000
+      internalID: 6366963004304847094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 10001
+      rect:
+        serializedVersion: 2
+        x: 2326
+        y: 2718
+        width: 901
+        height: 711
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ffae3d9e369b2c0800000000000000
+      internalID: -4415388103726137505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 10002
+      rect:
+        serializedVersion: 2
+        x: 3604
+        y: 3305
+        width: 1066
+        height: 791
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e12558a630189680800000000000000
+      internalID: -8748224449228758553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 10003
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3305
+        width: 1176
+        height: 791
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab32b452200db8d0800000000000000
+      internalID: -2829104843468948573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 10004
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1303
+        width: 700
+        height: 719
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fea92bd653d04af0800000000000000
+      internalID: -414098795720495368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 10005
+      rect:
+        serializedVersion: 2
+        x: 4803
+        y: 1946
+        width: 743
+        height: 711
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b479790d374e4680800000000000000
+      internalID: -8768993096966245191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 10006
+      rect:
+        serializedVersion: 2
+        x: 3231
+        y: 2549
+        width: 752
+        height: 752
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e59e24952cc8740800000000000000
+      internalID: 5155709362062843484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 10007
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1303
+        width: 700
+        height: 719
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b009240dc4718870800000000000000
+      internalID: 8683349980433940662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 10008
+      rect:
+        serializedVersion: 2
+        x: 4803
+        y: 1946
+        width: 743
+        height: 711
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc927163ac0a80d80800000000000000
+      internalID: -8284194724196701745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 10009
+      rect:
+        serializedVersion: 2
+        x: 3231
+        y: 2549
+        width: 752
+        height: 752
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9347cf9017e42f0800000000000000
+      internalID: -986726980643440162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 10010
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1303
+        width: 700
+        height: 719
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900645bd081f74d10800000000000000
+      internalID: 2109920486184214537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 10011
+      rect:
+        serializedVersion: 2
+        x: 4803
+        y: 1946
+        width: 743
+        height: 711
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8ae87eecfa5c780800000000000000
+      internalID: -8663325004994270981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 10012
+      rect:
+        serializedVersion: 2
+        x: 3231
+        y: 2549
+        width: 752
+        height: 752
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44436d6f85e4f4c0800000000000000
+      internalID: -4254523343779969970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 10013
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1303
+        width: 700
+        height: 719
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d20b99d79ac2da0800000000000000
+      internalID: -5968209049258283625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 10014
+      rect:
+        serializedVersion: 2
+        x: 4803
+        y: 1946
+        width: 743
+        height: 711
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90283f3cc75765c0800000000000000
+      internalID: -4222309590890962785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 10015
+      rect:
+        serializedVersion: 2
+        x: 3231
+        y: 2549
+        width: 752
+        height: 752
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d8ce59a35845190800000000000000
+      internalID: -7974602553496400571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 10016
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1303
+        width: 700
+        height: 719
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4504f924416c18590800000000000000
+      internalID: -7673634499743236012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 10017
+      rect:
+        serializedVersion: 2
+        x: 4803
+        y: 1946
+        width: 743
+        height: 711
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88dc462921b0bfe30800000000000000
+      internalID: 4538233223899303304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 10018
+      rect:
+        serializedVersion: 2
+        x: 3231
+        y: 2549
+        width: 752
+        height: 752
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6834d286f31489f60800000000000000
+      internalID: 8041248875256562566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 10019
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1303
+        width: 700
+        height: 719
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d22d161f4afdd630800000000000000
+      internalID: 3953591265481532120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 10020
+      rect:
+        serializedVersion: 2
+        x: 4803
+        y: 1946
+        width: 743
+        height: 711
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e548827f2ec2fbdf0800000000000000
+      internalID: -162361708241189794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 10021
+      rect:
+        serializedVersion: 2
+        x: 3231
+        y: 2549
+        width: 752
+        height: 752
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d5d51b06e94e940800000000000000
+      internalID: 5324554797588503953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 10022
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1303
+        width: 700
+        height: 719
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f629cef2f343175e0800000000000000
+      internalID: -1913690920664133009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 10023
+      rect:
+        serializedVersion: 2
+        x: 4803
+        y: 1946
+        width: 743
+        height: 711
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6064d7e9492cf830800000000000000
+      internalID: 4106202357653856362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 10024
+      rect:
+        serializedVersion: 2
+        x: 3231
+        y: 2549
+        width: 752
+        height: 752
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22589f2c59b1d8410800000000000000
+      internalID: 1480870182509970722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 10025
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1303
+        width: 700
+        height: 719
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59a84daf69669440800000000000000
+      internalID: 4942253569455204699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2648
+        width: 868
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb566cd73bdc5780800000000000000
+      internalID: -8692832147764519997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20001
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 2061
+        width: 866
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8489e2ff3ba259eb0800000000000000
+      internalID: -4713814482404599736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20002
+      rect:
+        serializedVersion: 2
+        x: 6865
+        y: 3433
+        width: 1154
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606b59d27b7dbba20800000000000000
+      internalID: 3079291951981639174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20003
+      rect:
+        serializedVersion: 2
+        x: 2326
+        y: 3433
+        width: 1274
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f497e7b3378f4a30800000000000000
+      internalID: 4201725633558451442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20004
+      rect:
+        serializedVersion: 2
+        x: 6319
+        y: 1305
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7e94c8ac58939b0800000000000000
+      internalID: -5099897998036834371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20005
+      rect:
+        serializedVersion: 2
+        x: 7023
+        y: 1300
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d6dc5aa56f304d0800000000000000
+      internalID: -3169418843549504158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20006
+      rect:
+        serializedVersion: 2
+        x: 5550
+        y: 1299
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1580b46db39bfb30800000000000000
+      internalID: 4322210709039514907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20007
+      rect:
+        serializedVersion: 2
+        x: 6319
+        y: 1305
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df380caac154b6bf0800000000000000
+      internalID: -330094158255455235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20008
+      rect:
+        serializedVersion: 2
+        x: 7023
+        y: 1300
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63b3aa60b4d39b20800000000000000
+      internalID: 3140087219375813483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20009
+      rect:
+        serializedVersion: 2
+        x: 5550
+        y: 1299
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4481f3a00aaaf9d80800000000000000
+      internalID: -8241681188721321916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20010
+      rect:
+        serializedVersion: 2
+        x: 6319
+        y: 1305
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53384a0cc452629a0800000000000000
+      internalID: -6258273620604976331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20011
+      rect:
+        serializedVersion: 2
+        x: 7023
+        y: 1300
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c01518d828bebf10800000000000000
+      internalID: 2287468146314252488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20012
+      rect:
+        serializedVersion: 2
+        x: 5550
+        y: 1299
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86f3adf60081c760800000000000000
+      internalID: 7476397623925274254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20013
+      rect:
+        serializedVersion: 2
+        x: 6319
+        y: 1305
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ada0b945f4a06ae0800000000000000
+      internalID: -1558064097659933272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20014
+      rect:
+        serializedVersion: 2
+        x: 7023
+        y: 1300
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3fcf16d6e999170800000000000000
+      internalID: 8185747990355178471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20015
+      rect:
+        serializedVersion: 2
+        x: 5550
+        y: 1299
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7cfef64ef2e527b0800000000000000
+      internalID: -5249540208889758597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20016
+      rect:
+        serializedVersion: 2
+        x: 6319
+        y: 1305
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f2fa3bc055af680800000000000000
+      internalID: -8720564215406973128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20017
+      rect:
+        serializedVersion: 2
+        x: 7023
+        y: 1300
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5847ba5881602ad0800000000000000
+      internalID: -2729074135921112997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20018
+      rect:
+        serializedVersion: 2
+        x: 5550
+        y: 1299
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985a6a9e6c0c70100800000000000000
+      internalID: 74239879430972809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20019
+      rect:
+        serializedVersion: 2
+        x: 6319
+        y: 1305
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580a768f19e59ac10800000000000000
+      internalID: 2065285885156892805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20020
+      rect:
+        serializedVersion: 2
+        x: 7023
+        y: 1300
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ddaab8b3db216a0800000000000000
+      internalID: -6479908850388771484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20021
+      rect:
+        serializedVersion: 2
+        x: 5550
+        y: 1299
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a97a55e0cdf97600800000000000000
+      internalID: 466683041333016992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20022
+      rect:
+        serializedVersion: 2
+        x: 6319
+        y: 1305
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd48aae076813fad0800000000000000
+      internalID: -2669763323193817892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20023
+      rect:
+        serializedVersion: 2
+        x: 4385
+        y: 1279
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55dcabeab7e58f80800000000000000
+      internalID: -8104817164379433638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20024
+      rect:
+        serializedVersion: 2
+        x: 3677
+        y: 1329
+        width: 704
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f53cd14a4de60e00800000000000000
+      internalID: 1010756069579568628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20025
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1230
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda68ce9c34f24e20800000000000000
+      internalID: 3333495215406738141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20026
+      rect:
+        serializedVersion: 2
+        x: 7023
+        y: 1300
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c49dfc3339b74890800000000000000
+      internalID: -7473801426880326455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20027
+      rect:
+        serializedVersion: 2
+        x: 5550
+        y: 1299
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eac679c691060910800000000000000
+      internalID: 1803130447945190119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20028
+      rect:
+        serializedVersion: 2
+        x: 6319
+        y: 1305
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fb39ecdea8e6d50800000000000000
+      internalID: 6732471246943141649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20029
+      rect:
+        serializedVersion: 2
+        x: 7023
+        y: 1300
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168557c3e557f48f0800000000000000
+      internalID: -554095181541582751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20030
+      rect:
+        serializedVersion: 2
+        x: 5550
+        y: 1299
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc491c1fcf0473ff0800000000000000
+      internalID: -56505015186910005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20031
+      rect:
+        serializedVersion: 2
+        x: 6319
+        y: 1305
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19f4f5fc2c33e5b0800000000000000
+      internalID: -5340358569328576225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20032
+      rect:
+        serializedVersion: 2
+        x: 7023
+        y: 1300
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b3e821a3d919db0800000000000000
+      internalID: -4786872056173151352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20033
+      rect:
+        serializedVersion: 2
+        x: 5550
+        y: 1299
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a612077d9dd262fd0800000000000000
+      internalID: -2367154140491013782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20034
+      rect:
+        serializedVersion: 2
+        x: 6319
+        y: 1305
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b31f9422cf6bf50800000000000000
+      internalID: 6896977103564126993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20035
+      rect:
+        serializedVersion: 2
+        x: 7023
+        y: 1300
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125241728cfcfa420800000000000000
+      internalID: 2643559964845810977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20036
+      rect:
+        serializedVersion: 2
+        x: 5550
+        y: 1299
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65a4c115d116e770800000000000000
+      internalID: 8639612541980681578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20037
+      rect:
+        serializedVersion: 2
+        x: 6319
+        y: 1305
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953ed5930aa0acd10800000000000000
+      internalID: 2146539855668962137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20038
+      rect:
+        serializedVersion: 2
+        x: 7023
+        y: 1300
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34cf470d07afa4c0800000000000000
+      internalID: -4274013846952229830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20039
+      rect:
+        serializedVersion: 2
+        x: 5550
+        y: 1299
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd27b26b4ea3c400800000000000000
+      internalID: 343309635412241885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20040
+      rect:
+        serializedVersion: 2
+        x: 6319
+        y: 1305
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e54ace6c50b7aa30800000000000000
+      internalID: 4226540686352729568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20041
+      rect:
+        serializedVersion: 2
+        x: 7023
+        y: 1300
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1418c19c720b93940800000000000000
+      internalID: 5276442123365548353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20042
+      rect:
+        serializedVersion: 2
+        x: 5550
+        y: 1299
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1f1273befd3a2d0800000000000000
+      internalID: -3268522703205568045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20043
+      rect:
+        serializedVersion: 2
+        x: 6319
+        y: 1305
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31dc7d592cadc2a70800000000000000
+      internalID: 8803651900874935571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20044
+      rect:
+        serializedVersion: 2
+        x: 7023
+        y: 1300
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4ca2dd8277d1890800000000000000
+      internalID: -7485695988226931459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20045
+      rect:
+        serializedVersion: 2
+        x: 5550
+        y: 1299
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d979e307fdb6ee0800000000000000
+      internalID: -1266673196995207921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20046
+      rect:
+        serializedVersion: 2
+        x: 6319
+        y: 1305
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974b63a0a0716aa90800000000000000
+      internalID: -7303124413846211463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20047
+      rect:
+        serializedVersion: 2
+        x: 4385
+        y: 1279
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7313def0ab5560040800000000000000
+      internalID: 4613469125907132727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20048
+      rect:
+        serializedVersion: 2
+        x: 3677
+        y: 1329
+        width: 704
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e59e0e7ed0f5200800000000000000
+      internalID: 170870600425365061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20049
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1230
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069f428e13593a940800000000000000
+      internalID: 5306248827553249632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20050
+      rect:
+        serializedVersion: 2
+        x: 7023
+        y: 1300
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8106b1531021fb0800000000000000
+      internalID: -4678675735280346944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20051
+      rect:
+        serializedVersion: 2
+        x: 5550
+        y: 1299
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56ede8d8e7234080800000000000000
+      internalID: -9204469332389796262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20052
+      rect:
+        serializedVersion: 2
+        x: 6319
+        y: 1305
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e900d81e6ee44d0800000000000000
+      internalID: -3148325233077739995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20053
+      rect:
+        serializedVersion: 2
+        x: 7023
+        y: 1300
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03466e8bb3e6b3480800000000000000
+      internalID: -8918413434292902864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20054
+      rect:
+        serializedVersion: 2
+        x: 5550
+        y: 1299
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40fc6b9dcba059230800000000000000
+      internalID: 3644831279649050372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20055
+      rect:
+        serializedVersion: 2
+        x: 6319
+        y: 1305
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbcd43ee99a4161c0800000000000000
+      internalID: -4512243326661632837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20056
+      rect:
+        serializedVersion: 2
+        x: 7023
+        y: 1300
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59dff74100afbc1a0800000000000000
+      internalID: -6788057135080014443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20057
+      rect:
+        serializedVersion: 2
+        x: 5550
+        y: 1299
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c853253d319b530800000000000000
+      internalID: 3871147153039920165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20058
+      rect:
+        serializedVersion: 2
+        x: 6319
+        y: 1305
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee20df256e487dbc0800000000000000
+      internalID: -3758389239247731986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 20059
+      rect:
+        serializedVersion: 2
+        x: 7023
+        y: 1300
+        width: 700
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee52b995e71d18be0800000000000000
+      internalID: -1476668862201387538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30000
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 2026
+        width: 814
+        height: 661
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5876466ae494420800000000000000
+      internalID: 2614707535221327344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30001
+      rect:
+        serializedVersion: 2
+        x: 3987
+        y: 1996
+        width: 812
+        height: 661
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e80310c63554e100800000000000000
+      internalID: 136327582367025376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30002
+      rect:
+        serializedVersion: 2
+        x: 5746
+        y: 2712
+        width: 952
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372314367bdf07d00800000000000000
+      internalID: 968552883970716275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30003
+      rect:
+        serializedVersion: 2
+        x: 5746
+        y: 3369
+        width: 1115
+        height: 727
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9bf96a0e0ee0520800000000000000
+      internalID: 2670318884550064616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30004
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 689
+        width: 700
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee21b47d4c4ed9c0800000000000000
+      internalID: -3900596331702309138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30005
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 672
+        width: 700
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a3ba769cce59da0800000000000000
+      internalID: -5938580183846274497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30006
+      rect:
+        serializedVersion: 2
+        x: 6254
+        y: 648
+        width: 700
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b129e886181502f0800000000000000
+      internalID: -1007372456582110792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30007
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 689
+        width: 700
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6445d9d17fec820800000000000000
+      internalID: 2940559313285170874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30008
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 672
+        width: 700
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1debf486d55eee50800000000000000
+      internalID: 6840499263864827167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30009
+      rect:
+        serializedVersion: 2
+        x: 6254
+        y: 648
+        width: 700
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a8a94ab6b1b4730800000000000000
+      internalID: 3984308444476377742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30010
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 689
+        width: 700
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6bf2127f6c5c5350800000000000000
+      internalID: 6006777636730370926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30011
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 672
+        width: 700
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77471ededee1cb10800000000000000
+      internalID: 2000142350505428858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30012
+      rect:
+        serializedVersion: 2
+        x: 6254
+        y: 648
+        width: 700
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690f426fbb689ba60800000000000000
+      internalID: 7690325980558454934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30013
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 689
+        width: 700
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd72d1a994eb8a470800000000000000
+      internalID: 8406177927814522844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30014
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 672
+        width: 700
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451268c083b279540800000000000000
+      internalID: 5014524229828616532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30015
+      rect:
+        serializedVersion: 2
+        x: 6254
+        y: 648
+        width: 700
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae53a42a46c50060800000000000000
+      internalID: 6919154424269201056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30016
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 689
+        width: 700
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4a5ddeda80ad450800000000000000
+      internalID: 6114208987221435619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30017
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 672
+        width: 700
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6edc6edcd3286db70800000000000000
+      internalID: 8923462913640287718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30018
+      rect:
+        serializedVersion: 2
+        x: 6254
+        y: 648
+        width: 700
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd5ba91d6681ff10800000000000000
+      internalID: 2301768687703252446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30019
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 689
+        width: 700
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d50f0fe8208fa3d0800000000000000
+      internalID: -3193192697484605991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30020
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 672
+        width: 700
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99866f9ae12c137c0800000000000000
+      internalID: -4093277149346764647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30021
+      rect:
+        serializedVersion: 2
+        x: 6254
+        y: 648
+        width: 700
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ed9f94677712aa0800000000000000
+      internalID: -6187533063099392478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30022
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 689
+        width: 700
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea71b1c50d8ece80800000000000000
+      internalID: -8156426819257402645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30023
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 646
+        width: 700
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f002de282e4fac10800000000000000
+      internalID: 2066956688477520121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30024
+      rect:
+        serializedVersion: 2
+        x: 2422
+        y: 1177
+        width: 704
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889ca7d551f5b5a70800000000000000
+      internalID: 8816745240875157896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30025
+      rect:
+        serializedVersion: 2
+        x: 6958
+        y: 643
+        width: 700
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0ad884f74232d10800000000000000
+      internalID: 2099561980381470923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30026
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 672
+        width: 700
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d96cf44e82bbab10800000000000000
+      internalID: 1993883584154069462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30027
+      rect:
+        serializedVersion: 2
+        x: 6254
+        y: 648
+        width: 700
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8181a514d2e2e240800000000000000
+      internalID: 4819663951763702158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30028
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 689
+        width: 700
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23581823cbfb18cf0800000000000000
+      internalID: -251709289133931214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30029
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 672
+        width: 700
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd414678d0e3bfb80800000000000000
+      internalID: -8360020055456213797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30030
+      rect:
+        serializedVersion: 2
+        x: 6254
+        y: 648
+        width: 700
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7457c5243ab8bc9a0800000000000000
+      internalID: -6211717727718181561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30031
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 689
+        width: 700
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ccc925f90d257e0800000000000000
+      internalID: -1778129520153539450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30032
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 672
+        width: 700
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b8b81934c895510800000000000000
+      internalID: 1538414969556273946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30033
+      rect:
+        serializedVersion: 2
+        x: 6254
+        y: 648
+        width: 700
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4add0d2aa72e245b0800000000000000
+      internalID: -5385493188036207196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30034
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 689
+        width: 700
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9510603d15a3a3ff0800000000000000
+      internalID: -55667922281561767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30035
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 672
+        width: 700
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11420b7bf1cd16fd0800000000000000
+      internalID: -2350355501726817263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30036
+      rect:
+        serializedVersion: 2
+        x: 6254
+        y: 648
+        width: 700
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf9eb3f9eca559d0800000000000000
+      internalID: -2786130673642070083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30037
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 689
+        width: 700
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753449269b44c0330800000000000000
+      internalID: 3678390558668374871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30038
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 672
+        width: 700
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d9fcac04ce79830800000000000000
+      internalID: 4077987750631939338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30039
+      rect:
+        serializedVersion: 2
+        x: 6254
+        y: 648
+        width: 700
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e032df08c4e585440800000000000000
+      internalID: 4924789875204236046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30040
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 689
+        width: 700
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd9f384f230c1910800000000000000
+      internalID: 1809324651906571731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30041
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 672
+        width: 700
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aff12780ec60d650800000000000000
+      internalID: 6255619594013245353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30042
+      rect:
+        serializedVersion: 2
+        x: 6254
+        y: 648
+        width: 700
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32556b6c3a8a95080800000000000000
+      internalID: -9198135342560553693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30043
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 689
+        width: 700
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aec78de29a35aee0800000000000000
+      internalID: -1250528918800707929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30044
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 672
+        width: 700
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41e931cfa16ca700800000000000000
+      internalID: 552924261748695375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30045
+      rect:
+        serializedVersion: 2
+        x: 6254
+        y: 648
+        width: 700
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c802bf53e888a70800000000000000
+      internalID: 8829463431957482598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30046
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 689
+        width: 700
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a169d39b244f1e30800000000000000
+      internalID: 4476371508584341923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30047
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 646
+        width: 700
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01bcc7e45ad5d3e80800000000000000
+      internalID: -8197292782176646384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30048
+      rect:
+        serializedVersion: 2
+        x: 2422
+        y: 1177
+        width: 704
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29379cf2122fcb90800000000000000
+      internalID: -7219514212709091028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30049
+      rect:
+        serializedVersion: 2
+        x: 6958
+        y: 643
+        width: 700
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164a92f7c20108880800000000000000
+      internalID: -8610864704234347423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30050
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 672
+        width: 700
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdc1ed9ff6ebe4a0800000000000000
+      internalID: -6562898046422495805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30051
+      rect:
+        serializedVersion: 2
+        x: 6254
+        y: 648
+        width: 700
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4dbc79d4abb6dc0800000000000000
+      internalID: -3644614631004318528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 30052
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 689
+        width: 700
+        height: 653
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c784d5fbfd61f540800000000000000
+      internalID: 5039930386932860867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40000
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 2691
+        width: 891
+        height: 659
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a798daa5728a2420800000000000000
+      internalID: 2606038776276359073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40001
+      rect:
+        serializedVersion: 2
+        x: 4674
+        y: 2661
+        width: 889
+        height: 659
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8ace7f991b75cd0800000000000000
+      internalID: -2569389787543983964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40002
+      rect:
+        serializedVersion: 2
+        x: 4674
+        y: 3324
+        width: 1068
+        height: 772
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f2817ea6465d980800000000000000
+      internalID: -8514789110167621829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40003
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 3354
+        width: 1142
+        height: 742
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed581c45b85042510800000000000000
+      internalID: 1523348669938632158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40004
+      rect:
+        serializedVersion: 2
+        x: 7456
+        y: 1967
+        width: 700
+        height: 747
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9c9195bc67600f0800000000000000
+      internalID: -1151102039001282066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40005
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 1834
+        width: 728
+        height: 711
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4671a265822fb10800000000000000
+      internalID: 2013716333926507711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40006
+      rect:
+        serializedVersion: 2
+        x: 5567
+        y: 1966
+        width: 748
+        height: 742
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d8a1c0041568af0800000000000000
+      internalID: -394538581825516249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40007
+      rect:
+        serializedVersion: 2
+        x: 7456
+        y: 1967
+        width: 700
+        height: 747
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8527a2a492baf90800000000000000
+      internalID: -6941409002145031979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40008
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 1834
+        width: 728
+        height: 711
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7ad020a5f30b620800000000000000
+      internalID: 2787797825156392919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40009
+      rect:
+        serializedVersion: 2
+        x: 5567
+        y: 1966
+        width: 748
+        height: 742
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93f434ece4bf78f0800000000000000
+      internalID: -540514500727213156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40010
+      rect:
+        serializedVersion: 2
+        x: 7456
+        y: 1967
+        width: 700
+        height: 747
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7d4c061a2c9a1e0800000000000000
+      internalID: -2186002145742628891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40011
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 1834
+        width: 728
+        height: 711
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f7b452224be5230800000000000000
+      internalID: 3629536408454790939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40012
+      rect:
+        serializedVersion: 2
+        x: 5567
+        y: 1966
+        width: 748
+        height: 742
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890a3e256f4cf35d0800000000000000
+      internalID: -3080527057866481512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40013
+      rect:
+        serializedVersion: 2
+        x: 7456
+        y: 1967
+        width: 700
+        height: 747
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2aa72bda9a7a0e10800000000000000
+      internalID: 2164677376425306671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40014
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 1834
+        width: 728
+        height: 711
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642bd3863a84aab10800000000000000
+      internalID: 1993485651730608710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40015
+      rect:
+        serializedVersion: 2
+        x: 5567
+        y: 1966
+        width: 748
+        height: 742
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a720c290235db5f0800000000000000
+      internalID: -739343364452767832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40016
+      rect:
+        serializedVersion: 2
+        x: 7456
+        y: 1967
+        width: 700
+        height: 747
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6cabd8d798fd3640800000000000000
+      internalID: 5061474887296330862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40017
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 1834
+        width: 728
+        height: 711
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64178bcda5dc4e240800000000000000
+      internalID: 4820203291327099206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40018
+      rect:
+        serializedVersion: 2
+        x: 5567
+        y: 1966
+        width: 748
+        height: 742
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6a3242ec0b40aa0800000000000000
+      internalID: -6195632787938892082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40019
+      rect:
+        serializedVersion: 2
+        x: 7456
+        y: 1967
+        width: 700
+        height: 747
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5ae8df33e761ad0800000000000000
+      internalID: -2731857362191211045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40020
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 1834
+        width: 728
+        height: 711
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295497523cc15cb70800000000000000
+      internalID: 8918566261550040466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40021
+      rect:
+        serializedVersion: 2
+        x: 5567
+        y: 1966
+        width: 748
+        height: 742
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241f51e70e0f128e0800000000000000
+      internalID: -1719828735700111038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40022
+      rect:
+        serializedVersion: 2
+        x: 7456
+        y: 1967
+        width: 700
+        height: 747
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1ab9351b5643f40800000000000000
+      internalID: 5707298440071586262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40023
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1346
+        width: 728
+        height: 711
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30a92d10fa1d6bc0800000000000000
+      internalID: -3788342092964978629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40024
+      rect:
+        serializedVersion: 2
+        x: 6702
+        y: 1972
+        width: 750
+        height: 742
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0327005b4fe48ae0800000000000000
+      internalID: -1547849265164377334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40025
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1897
+        width: 700
+        height: 747
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264e12fb4f7ddb7f0800000000000000
+      internalID: -595082129564375966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40026
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 1834
+        width: 728
+        height: 711
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ef75b8b64866840800000000000000
+      internalID: 5217002815789465121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40027
+      rect:
+        serializedVersion: 2
+        x: 5567
+        y: 1966
+        width: 748
+        height: 742
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7c1579e97955e10800000000000000
+      internalID: 2185819901557589956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40028
+      rect:
+        serializedVersion: 2
+        x: 7456
+        y: 1967
+        width: 700
+        height: 747
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75caccfbb0763b40800000000000000
+      internalID: 5419643154289313148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40029
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 1834
+        width: 728
+        height: 711
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144c4379d2b947b30800000000000000
+      internalID: 4284219765648835649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40030
+      rect:
+        serializedVersion: 2
+        x: 5567
+        y: 1966
+        width: 748
+        height: 742
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da36595da7a94ac0800000000000000
+      internalID: -3870378041778226472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40031
+      rect:
+        serializedVersion: 2
+        x: 7456
+        y: 1967
+        width: 700
+        height: 747
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273ac5ed91cc5d9e0800000000000000
+      internalID: -1597146081356110990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40032
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 1834
+        width: 728
+        height: 711
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1216ce0ae78cf2340800000000000000
+      internalID: 4841308570637852961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40033
+      rect:
+        serializedVersion: 2
+        x: 5567
+        y: 1966
+        width: 748
+        height: 742
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee4d7b9bf0c76a20800000000000000
+      internalID: 3055623059072175851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40034
+      rect:
+        serializedVersion: 2
+        x: 7456
+        y: 1967
+        width: 700
+        height: 747
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c95853c7f24e830800000000000000
+      internalID: 4099453771334392971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40035
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 1834
+        width: 728
+        height: 711
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09b801a394b67220800000000000000
+      internalID: 2483370790696302863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40036
+      rect:
+        serializedVersion: 2
+        x: 5567
+        y: 1966
+        width: 748
+        height: 742
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7e84a438ce92f50800000000000000
+      internalID: 6857271956279453635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40037
+      rect:
+        serializedVersion: 2
+        x: 7456
+        y: 1967
+        width: 700
+        height: 747
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce6cc6996f95ca80800000000000000
+      internalID: -8447170250213134654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40038
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 1834
+        width: 728
+        height: 711
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6ff23184e4e29b0800000000000000
+      internalID: -5103055256297670994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40039
+      rect:
+        serializedVersion: 2
+        x: 5567
+        y: 1966
+        width: 748
+        height: 742
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01671bff3c01b0d80800000000000000
+      internalID: -8283508655623408112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40040
+      rect:
+        serializedVersion: 2
+        x: 7456
+        y: 1967
+        width: 700
+        height: 747
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea72f01783cebdfa0800000000000000
+      internalID: -5774762370013386834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40041
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 1834
+        width: 728
+        height: 711
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68793d7d5769bb80800000000000000
+      internalID: -8378551980515559316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40042
+      rect:
+        serializedVersion: 2
+        x: 5567
+        y: 1966
+        width: 748
+        height: 742
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ac00eab122f42b0800000000000000
+      internalID: -5598218309519488415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40043
+      rect:
+        serializedVersion: 2
+        x: 7456
+        y: 1967
+        width: 700
+        height: 747
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2d1cb8d93929bf0800000000000000
+      internalID: -319030318725999892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40044
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 1834
+        width: 728
+        height: 711
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c294bac3f25f0610800000000000000
+      internalID: 1589580400516436681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40045
+      rect:
+        serializedVersion: 2
+        x: 5567
+        y: 1966
+        width: 748
+        height: 742
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9475f2c8c33f2d90800000000000000
+      internalID: -7120415548492122981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40046
+      rect:
+        serializedVersion: 2
+        x: 7456
+        y: 1967
+        width: 700
+        height: 747
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc4a9cb8632d6280800000000000000
+      internalID: -9048537143569658678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40047
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 1346
+        width: 728
+        height: 711
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd877ec7c149e9c0800000000000000
+      internalID: -3897511676094214663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40048
+      rect:
+        serializedVersion: 2
+        x: 6702
+        y: 1972
+        width: 750
+        height: 742
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18d51be88ea70e90800000000000000
+      internalID: -7059481987797100515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40049
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1897
+        width: 700
+        height: 747
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32855dff92e78a00800000000000000
+      internalID: 758824239013134910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40050
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 1834
+        width: 728
+        height: 711
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cbb4300822e5b20800000000000000
+      internalID: 3124973124648156239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40051
+      rect:
+        serializedVersion: 2
+        x: 5567
+        y: 1966
+        width: 748
+        height: 742
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c650ba54a96180f0800000000000000
+      internalID: -1116495077994113341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pico shoot 40052
+      rect:
+        serializedVersion: 2
+        x: 7456
+        y: 1967
+        width: 700
+        height: 747
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac7a79522ee6f7c0800000000000000
+      internalID: -4037778184593572704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pico shoot 10000: 6366963004304847094
+      Pico shoot 10001: -4415388103726137505
+      Pico shoot 10002: -8748224449228758553
+      Pico shoot 10003: -2829104843468948573
+      Pico shoot 10004: -414098795720495368
+      Pico shoot 10005: -8768993096966245191
+      Pico shoot 10006: 5155709362062843484
+      Pico shoot 10007: 8683349980433940662
+      Pico shoot 10008: -8284194724196701745
+      Pico shoot 10009: -986726980643440162
+      Pico shoot 10010: 2109920486184214537
+      Pico shoot 10011: -8663325004994270981
+      Pico shoot 10012: -4254523343779969970
+      Pico shoot 10013: -5968209049258283625
+      Pico shoot 10014: -4222309590890962785
+      Pico shoot 10015: -7974602553496400571
+      Pico shoot 10016: -7673634499743236012
+      Pico shoot 10017: 4538233223899303304
+      Pico shoot 10018: 8041248875256562566
+      Pico shoot 10019: 3953591265481532120
+      Pico shoot 10020: -162361708241189794
+      Pico shoot 10021: 5324554797588503953
+      Pico shoot 10022: -1913690920664133009
+      Pico shoot 10023: 4106202357653856362
+      Pico shoot 10024: 1480870182509970722
+      Pico shoot 10025: 4942253569455204699
+      Pico shoot 20000: -8692832147764519997
+      Pico shoot 20001: -4713814482404599736
+      Pico shoot 20002: 3079291951981639174
+      Pico shoot 20003: 4201725633558451442
+      Pico shoot 20004: -5099897998036834371
+      Pico shoot 20005: -3169418843549504158
+      Pico shoot 20006: 4322210709039514907
+      Pico shoot 20007: -330094158255455235
+      Pico shoot 20008: 3140087219375813483
+      Pico shoot 20009: -8241681188721321916
+      Pico shoot 20010: -6258273620604976331
+      Pico shoot 20011: 2287468146314252488
+      Pico shoot 20012: 7476397623925274254
+      Pico shoot 20013: -1558064097659933272
+      Pico shoot 20014: 8185747990355178471
+      Pico shoot 20015: -5249540208889758597
+      Pico shoot 20016: -8720564215406973128
+      Pico shoot 20017: -2729074135921112997
+      Pico shoot 20018: 74239879430972809
+      Pico shoot 20019: 2065285885156892805
+      Pico shoot 20020: -6479908850388771484
+      Pico shoot 20021: 466683041333016992
+      Pico shoot 20022: -2669763323193817892
+      Pico shoot 20023: -8104817164379433638
+      Pico shoot 20024: 1010756069579568628
+      Pico shoot 20025: 3333495215406738141
+      Pico shoot 20026: -7473801426880326455
+      Pico shoot 20027: 1803130447945190119
+      Pico shoot 20028: 6732471246943141649
+      Pico shoot 20029: -554095181541582751
+      Pico shoot 20030: -56505015186910005
+      Pico shoot 20031: -5340358569328576225
+      Pico shoot 20032: -4786872056173151352
+      Pico shoot 20033: -2367154140491013782
+      Pico shoot 20034: 6896977103564126993
+      Pico shoot 20035: 2643559964845810977
+      Pico shoot 20036: 8639612541980681578
+      Pico shoot 20037: 2146539855668962137
+      Pico shoot 20038: -4274013846952229830
+      Pico shoot 20039: 343309635412241885
+      Pico shoot 20040: 4226540686352729568
+      Pico shoot 20041: 5276442123365548353
+      Pico shoot 20042: -3268522703205568045
+      Pico shoot 20043: 8803651900874935571
+      Pico shoot 20044: -7485695988226931459
+      Pico shoot 20045: -1266673196995207921
+      Pico shoot 20046: -7303124413846211463
+      Pico shoot 20047: 4613469125907132727
+      Pico shoot 20048: 170870600425365061
+      Pico shoot 20049: 5306248827553249632
+      Pico shoot 20050: -4678675735280346944
+      Pico shoot 20051: -9204469332389796262
+      Pico shoot 20052: -3148325233077739995
+      Pico shoot 20053: -8918413434292902864
+      Pico shoot 20054: 3644831279649050372
+      Pico shoot 20055: -4512243326661632837
+      Pico shoot 20056: -6788057135080014443
+      Pico shoot 20057: 3871147153039920165
+      Pico shoot 20058: -3758389239247731986
+      Pico shoot 20059: -1476668862201387538
+      Pico shoot 30000: 2614707535221327344
+      Pico shoot 30001: 136327582367025376
+      Pico shoot 30002: 968552883970716275
+      Pico shoot 30003: 2670318884550064616
+      Pico shoot 30004: -3900596331702309138
+      Pico shoot 30005: -5938580183846274497
+      Pico shoot 30006: -1007372456582110792
+      Pico shoot 30007: 2940559313285170874
+      Pico shoot 30008: 6840499263864827167
+      Pico shoot 30009: 3984308444476377742
+      Pico shoot 30010: 6006777636730370926
+      Pico shoot 30011: 2000142350505428858
+      Pico shoot 30012: 7690325980558454934
+      Pico shoot 30013: 8406177927814522844
+      Pico shoot 30014: 5014524229828616532
+      Pico shoot 30015: 6919154424269201056
+      Pico shoot 30016: 6114208987221435619
+      Pico shoot 30017: 8923462913640287718
+      Pico shoot 30018: 2301768687703252446
+      Pico shoot 30019: -3193192697484605991
+      Pico shoot 30020: -4093277149346764647
+      Pico shoot 30021: -6187533063099392478
+      Pico shoot 30022: -8156426819257402645
+      Pico shoot 30023: 2066956688477520121
+      Pico shoot 30024: 8816745240875157896
+      Pico shoot 30025: 2099561980381470923
+      Pico shoot 30026: 1993883584154069462
+      Pico shoot 30027: 4819663951763702158
+      Pico shoot 30028: -251709289133931214
+      Pico shoot 30029: -8360020055456213797
+      Pico shoot 30030: -6211717727718181561
+      Pico shoot 30031: -1778129520153539450
+      Pico shoot 30032: 1538414969556273946
+      Pico shoot 30033: -5385493188036207196
+      Pico shoot 30034: -55667922281561767
+      Pico shoot 30035: -2350355501726817263
+      Pico shoot 30036: -2786130673642070083
+      Pico shoot 30037: 3678390558668374871
+      Pico shoot 30038: 4077987750631939338
+      Pico shoot 30039: 4924789875204236046
+      Pico shoot 30040: 1809324651906571731
+      Pico shoot 30041: 6255619594013245353
+      Pico shoot 30042: -9198135342560553693
+      Pico shoot 30043: -1250528918800707929
+      Pico shoot 30044: 552924261748695375
+      Pico shoot 30045: 8829463431957482598
+      Pico shoot 30046: 4476371508584341923
+      Pico shoot 30047: -8197292782176646384
+      Pico shoot 30048: -7219514212709091028
+      Pico shoot 30049: -8610864704234347423
+      Pico shoot 30050: -6562898046422495805
+      Pico shoot 30051: -3644614631004318528
+      Pico shoot 30052: 5039930386932860867
+      Pico shoot 40000: 2606038776276359073
+      Pico shoot 40001: -2569389787543983964
+      Pico shoot 40002: -8514789110167621829
+      Pico shoot 40003: 1523348669938632158
+      Pico shoot 40004: -1151102039001282066
+      Pico shoot 40005: 2013716333926507711
+      Pico shoot 40006: -394538581825516249
+      Pico shoot 40007: -6941409002145031979
+      Pico shoot 40008: 2787797825156392919
+      Pico shoot 40009: -540514500727213156
+      Pico shoot 40010: -2186002145742628891
+      Pico shoot 40011: 3629536408454790939
+      Pico shoot 40012: -3080527057866481512
+      Pico shoot 40013: 2164677376425306671
+      Pico shoot 40014: 1993485651730608710
+      Pico shoot 40015: -739343364452767832
+      Pico shoot 40016: 5061474887296330862
+      Pico shoot 40017: 4820203291327099206
+      Pico shoot 40018: -6195632787938892082
+      Pico shoot 40019: -2731857362191211045
+      Pico shoot 40020: 8918566261550040466
+      Pico shoot 40021: -1719828735700111038
+      Pico shoot 40022: 5707298440071586262
+      Pico shoot 40023: -3788342092964978629
+      Pico shoot 40024: -1547849265164377334
+      Pico shoot 40025: -595082129564375966
+      Pico shoot 40026: 5217002815789465121
+      Pico shoot 40027: 2185819901557589956
+      Pico shoot 40028: 5419643154289313148
+      Pico shoot 40029: 4284219765648835649
+      Pico shoot 40030: -3870378041778226472
+      Pico shoot 40031: -1597146081356110990
+      Pico shoot 40032: 4841308570637852961
+      Pico shoot 40033: 3055623059072175851
+      Pico shoot 40034: 4099453771334392971
+      Pico shoot 40035: 2483370790696302863
+      Pico shoot 40036: 6857271956279453635
+      Pico shoot 40037: -8447170250213134654
+      Pico shoot 40038: -5103055256297670994
+      Pico shoot 40039: -8283508655623408112
+      Pico shoot 40040: -5774762370013386834
+      Pico shoot 40041: -8378551980515559316
+      Pico shoot 40042: -5598218309519488415
+      Pico shoot 40043: -319030318725999892
+      Pico shoot 40044: 1589580400516436681
+      Pico shoot 40045: -7120415548492122981
+      Pico shoot 40046: -9048537143569658678
+      Pico shoot 40047: -3897511676094214663
+      Pico shoot 40048: -7059481987797100515
+      Pico shoot 40049: 758824239013134910
+      Pico shoot 40050: 3124973124648156239
+      Pico shoot 40051: -1116495077994113341
+      Pico shoot 40052: -4037778184593572704
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,11 @@
+{
+    "title": "LEARNING TIME",
+    "songs":["Tutorial"],
+    "diffs": ["easy","normal","hard"],
+    "story":{
+        "op": "gf",
+        "bf": "bf",
+        "gf": "none",
+        "titleImg": "0.png"
+    }
+}

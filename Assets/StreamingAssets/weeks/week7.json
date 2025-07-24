@@ -1,0 +1,11 @@
+{
+    "title": "TANKMAN FT. JOHNNYUTAH",
+    "songs":["Ugh","Guns", "Stress"],
+    "diffs": ["easy","normal","hard"],
+    "story":{
+        "op": "tankman",
+        "bf": "bf",
+        "gf": "gf",
+        "titleImg": "7.png"
+    }
+}

@@ -1,0 +1,1447 @@
+fileFormatVersion: 2
+guid: b82a69b08588cce43970f2149df18b77
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BG fangirls dissuaded0000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 928
+        width: 451
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e3aba4d65fde1f0800000000000000
+      internalID: -1013884491334533617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG fangirls dissuaded0001
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 928
+        width: 451
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800b69ae13ee8bba0800000000000000
+      internalID: -6072842199352561656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG fangirls dissuaded0002
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 928
+        width: 451
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac278055eb546890800000000000000
+      internalID: -7465741241816765277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG fangirls dissuaded0003
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 928
+        width: 451
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130a6c3eb842eed60800000000000000
+      internalID: 7921308977831780401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG fangirls dissuaded0004
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 928
+        width: 451
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6405b78a0d18e93d0800000000000000
+      internalID: -3197975952206639034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG fangirls dissuaded0005
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 928
+        width: 451
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff06bd01a5211ea00800000000000000
+      internalID: 783927988178346239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG fangirls dissuaded0006
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 822
+        width: 451
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e74491532238e240800000000000000
+      internalID: 4821158528374032361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG fangirls dissuaded0007
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 822
+        width: 451
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0460d1cd93c146600800000000000000
+      internalID: 460524096730236480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG fangirls dissuaded0008
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 822
+        width: 451
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659204162c2801270800000000000000
+      internalID: 8219213091318016342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG fangirls dissuaded0009
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 822
+        width: 451
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cce730406e608460800000000000000
+      internalID: 7241909560485080262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG fangirls dissuaded0010
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 822
+        width: 451
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b31999a5bb8db80800000000000000
+      internalID: -8369733909670184050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG fangirls dissuaded0011
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 822
+        width: 451
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77c4a7209535f190800000000000000
+      internalID: -7929372675659217026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG fangirls dissuaded0012
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 822
+        width: 451
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d295c6b4521e100800000000000000
+      internalID: 135430469668384144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG fangirls dissuaded0013
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 822
+        width: 451
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a7908dbcbc0cba0800000000000000
+      internalID: -6070628221332129246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG fangirls dissuaded0014
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 822
+        width: 451
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca52b1297ece5e00800000000000000
+      internalID: 1035491983993494215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG fangirls dissuaded0015
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 822
+        width: 451
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041b0f3cea1554400800000000000000
+      internalID: 307741960598237504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG fangirls dissuaded0016
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 716
+        width: 451
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1699730fb882a80800000000000000
+      internalID: -8491383233565859373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG fangirls dissuaded0017
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 716
+        width: 451
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e5bed06e967b7f0800000000000000
+      internalID: -596891988806377886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG fangirls dissuaded0018
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 716
+        width: 451
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f34bc1cb1b5fc10800000000000000
+      internalID: 2086769423849635678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG fangirls dissuaded0019
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 716
+        width: 451
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2bf2a239df92f890800000000000000
+      internalID: -7425697080374265041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG fangirls dissuaded0020
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 610
+        width: 451
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2def9f34216bb3c10800000000000000
+      internalID: 2034419846254034642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG fangirls dissuaded0021
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 610
+        width: 451
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921048f48bfb4f950800000000000000
+      internalID: 6482016562021925161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG fangirls dissuaded0022
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 610
+        width: 451
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06fba512d9e5c0ee0800000000000000
+      internalID: -1293554963999703200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG fangirls dissuaded0023
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 610
+        width: 451
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e68d87f36cd4380800000000000000
+      internalID: -8985307705621582224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG fangirls dissuaded0024
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 610
+        width: 451
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda0f8b65522dccd0800000000000000
+      internalID: -2536333264867620133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG fangirls dissuaded0025
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 610
+        width: 451
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1cab90863be1630800000000000000
+      internalID: 3899751586770633141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG fangirls dissuaded0026
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 610
+        width: 451
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640b9eb05ccdaf2d0800000000000000
+      internalID: -3244037842700488634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG fangirls dissuaded0027
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 610
+        width: 451
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def6200a2a88b53c0800000000000000
+      internalID: -4369748781382340627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG fangirls dissuaded0028
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 610
+        width: 451
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b58983326d7a3c70800000000000000
+      internalID: 8951605070077199798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG fangirls dissuaded0029
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 610
+        width: 451
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730375d37ca74e1d0800000000000000
+      internalID: -3322395628946378697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG girls group0000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 450
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba208233330d0090800000000000000
+      internalID: -8066787839125214542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG girls group0001
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 450
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f31f7e0ec268a70800000000000000
+      internalID: 8828793463982079782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG girls group0002
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 504
+        width: 450
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3769f40bb971d35d0800000000000000
+      internalID: -3081280612606175629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG girls group0003
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 504
+        width: 450
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcac9c629a3b8650800000000000000
+      internalID: 6236142509586427056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG girls group0004
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 504
+        width: 450
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f0e473e91a35710800000000000000
+      internalID: 1680864786844094272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG girls group0005
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 504
+        width: 450
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41991a75c4eac1bd0800000000000000
+      internalID: -2658058037144479468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG girls group0006
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 398
+        width: 450
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df846194f40fdd6d0800000000000000
+      internalID: -2963948756420638467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG girls group0007
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 398
+        width: 450
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978e5033ba1cf70d0800000000000000
+      internalID: -3422804250738694023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG girls group0008
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 398
+        width: 450
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7126faf602f835f40800000000000000
+      internalID: 5716069721538781719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG girls group0009
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 398
+        width: 450
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857daaa27a9eefad0800000000000000
+      internalID: -2666437025172105384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG girls group0010
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 398
+        width: 450
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19277cd2370d89100800000000000000
+      internalID: 115070983605809809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG girls group0011
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 398
+        width: 450
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e637f501ee02b6690800000000000000
+      internalID: -7607950938663324818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG girls group0012
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 398
+        width: 450
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513efccd9896e8cd0800000000000000
+      internalID: -2553987897836444907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG girls group0013
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 398
+        width: 450
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1240dac01eb53190800000000000000
+      internalID: -7983265785112935910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG girls group0014
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 398
+        width: 450
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1048eefffda8999d0800000000000000
+      internalID: -2767027801366297599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG girls group0015
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 398
+        width: 450
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17feec0b2fe365b90800000000000000
+      internalID: -7253540937764245647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG girls group0016
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 292
+        width: 450
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c65268cf8bd82780800000000000000
+      internalID: -8707468468932159806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG girls group0017
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 292
+        width: 450
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc6bab7437d3e550800000000000000
+      internalID: 6189026933350296824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG girls group0018
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 398
+        width: 450
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b7eafd504c74950800000000000000
+      internalID: 6433326122228677520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG girls group0019
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 398
+        width: 450
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3187879c8415b7b0800000000000000
+      internalID: -5209234799913893570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG girls group0020
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 292
+        width: 450
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5541d5f6cb1eef580800000000000000
+      internalID: -8791341223142157227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG girls group0021
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 292
+        width: 450
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19cb7ccd99c43660800000000000000
+      internalID: 7364732970235316510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG girls group0022
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 504
+        width: 450
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f20bed1342126380800000000000000
+      internalID: -8979594627549297927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG girls group0023
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 504
+        width: 450
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b956e71a0dba400800000000000000
+      internalID: 336591989198134042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG girls group0024
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 504
+        width: 450
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f612bd5a64d92080800000000000000
+      internalID: -9211598009506064649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG girls group0025
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 504
+        width: 450
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3670d582d0c1e7a70800000000000000
+      internalID: 8826523162530088803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG girls group0026
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 504
+        width: 450
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9a70c4672338190800000000000000
+      internalID: -7961464232597804618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG girls group0027
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 504
+        width: 450
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9116ba24a8f297d0800000000000000
+      internalID: -2912992624980389473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG girls group0028
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 504
+        width: 450
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724f8067641c46a10800000000000000
+      internalID: 1901857451029361703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG girls group0029
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 504
+        width: 450
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1422d9da2796d5110800000000000000
+      internalID: 1251272212738810433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BG fangirls dissuaded0000: -1013884491334533617
+      BG fangirls dissuaded0001: -6072842199352561656
+      BG fangirls dissuaded0002: -7465741241816765277
+      BG fangirls dissuaded0003: 7921308977831780401
+      BG fangirls dissuaded0004: -3197975952206639034
+      BG fangirls dissuaded0005: 783927988178346239
+      BG fangirls dissuaded0006: 4821158528374032361
+      BG fangirls dissuaded0007: 460524096730236480
+      BG fangirls dissuaded0008: 8219213091318016342
+      BG fangirls dissuaded0009: 7241909560485080262
+      BG fangirls dissuaded0010: -8369733909670184050
+      BG fangirls dissuaded0011: -7929372675659217026
+      BG fangirls dissuaded0012: 135430469668384144
+      BG fangirls dissuaded0013: -6070628221332129246
+      BG fangirls dissuaded0014: 1035491983993494215
+      BG fangirls dissuaded0015: 307741960598237504
+      BG fangirls dissuaded0016: -8491383233565859373
+      BG fangirls dissuaded0017: -596891988806377886
+      BG fangirls dissuaded0018: 2086769423849635678
+      BG fangirls dissuaded0019: -7425697080374265041
+      BG fangirls dissuaded0020: 2034419846254034642
+      BG fangirls dissuaded0021: 6482016562021925161
+      BG fangirls dissuaded0022: -1293554963999703200
+      BG fangirls dissuaded0023: -8985307705621582224
+      BG fangirls dissuaded0024: -2536333264867620133
+      BG fangirls dissuaded0025: 3899751586770633141
+      BG fangirls dissuaded0026: -3244037842700488634
+      BG fangirls dissuaded0027: -4369748781382340627
+      BG fangirls dissuaded0028: 8951605070077199798
+      BG fangirls dissuaded0029: -3322395628946378697
+      BG girls group0000: -8066787839125214542
+      BG girls group0001: 8828793463982079782
+      BG girls group0002: -3081280612606175629
+      BG girls group0003: 6236142509586427056
+      BG girls group0004: 1680864786844094272
+      BG girls group0005: -2658058037144479468
+      BG girls group0006: -2963948756420638467
+      BG girls group0007: -3422804250738694023
+      BG girls group0008: 5716069721538781719
+      BG girls group0009: -2666437025172105384
+      BG girls group0010: 115070983605809809
+      BG girls group0011: -7607950938663324818
+      BG girls group0012: -2553987897836444907
+      BG girls group0013: -7983265785112935910
+      BG girls group0014: -2767027801366297599
+      BG girls group0015: -7253540937764245647
+      BG girls group0016: -8707468468932159806
+      BG girls group0017: 6189026933350296824
+      BG girls group0018: 6433326122228677520
+      BG girls group0019: -5209234799913893570
+      BG girls group0020: -8791341223142157227
+      BG girls group0021: 7364732970235316510
+      BG girls group0022: -8979594627549297927
+      BG girls group0023: 336591989198134042
+      BG girls group0024: -9211598009506064649
+      BG girls group0025: 8826523162530088803
+      BG girls group0026: -7961464232597804618
+      BG girls group0027: -2912992624980389473
+      BG girls group0028: 1901857451029361703
+      BG girls group0029: 1251272212738810433
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2446 @@
+fileFormatVersion: 2
+guid: f2836b97b2279f4479bb6a2a69909dce
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SingDOWN0001
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 710
+        width: 464
+        height: 409
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917501134257afbf0800000000000000
+      internalID: -289790427709548775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingDOWN0003
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 710
+        width: 450
+        height: 409
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cc68f59290ad5d0800000000000000
+      internalID: -3037104925406999431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingRIGHT0001
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 595
+        width: 442
+        height: 524
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324d28d7305cdca40800000000000000
+      internalID: 5390180947813651491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingLEFT0001
+      rect:
+        serializedVersion: 2
+        x: 2551
+        y: 592
+        width: 557
+        height: 527
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8e92cef92ffd950800000000000000
+      internalID: 6476161557857953961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingLEFT0003
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 588
+        width: 558
+        height: 531
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642556d6553b35be0800000000000000
+      internalID: -1489649872240553402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingRIGHT0003
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 92
+        width: 438
+        height: 533
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1de869dfe25b840800000000000000
+      internalID: 5239145408202985957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheer0003
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 37
+        width: 619
+        height: 558
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a649619f9a42f1f40800000000000000
+      internalID: 5701315965721416810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingUP0003
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 30
+        width: 405
+        height: 565
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122941a251d190c60800000000000000
+      internalID: 7784785407624122913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheer0005
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 26
+        width: 630
+        height: 566
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017ea96238e3fcad0800000000000000
+      internalID: -2679854520252831984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingUP0001
+      rect:
+        serializedVersion: 2
+        x: 2967
+        y: 17
+        width: 399
+        height: 571
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590f837479560cbe0800000000000000
+      internalID: -1459054578858659691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheer0001
+      rect:
+        serializedVersion: 2
+        x: 3366
+        y: 0
+        width: 644
+        height: 578
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f17ad2bca01cc800800000000000000
+      internalID: 633899981473477112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheer0002
+      rect:
+        serializedVersion: 2
+        x: 3366
+        y: 0
+        width: 644
+        height: 578
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5c2b1e41a96f610800000000000000
+      internalID: 1654679327581849028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheer0004
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 37
+        width: 619
+        height: 558
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d414aff2f908fc20800000000000000
+      internalID: 3240350871168750802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheer0006
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 26
+        width: 630
+        height: 566
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bf7638817b39750800000000000000
+      internalID: 6310588818787924777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheer0007
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 26
+        width: 630
+        height: 566
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a96e527fed903fa0800000000000000
+      internalID: -5822980666448516695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheer0008
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 26
+        width: 630
+        height: 566
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1494a683474e380800000000000000
+      internalID: -8942895174400785929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheer0009
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 26
+        width: 630
+        height: 566
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2f66254ae88d2f0800000000000000
+      internalID: -947850885153230155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheer0010
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 26
+        width: 630
+        height: 566
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810a4b358a0146c40800000000000000
+      internalID: 5504542959698485272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheer0011
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 26
+        width: 630
+        height: 566
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce752541a63b2a420800000000000000
+      internalID: 2639869599781378028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheer0012
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 26
+        width: 630
+        height: 566
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f929efa6ee289b0800000000000000
+      internalID: -5079235286415532152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheer0013
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 26
+        width: 630
+        height: 566
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b28ac534123eb60800000000000000
+      internalID: 7774093954972658464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheer0014
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 26
+        width: 630
+        height: 566
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e341fb9f8c3a580800000000000000
+      internalID: -8816982670483112415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheer0015
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 26
+        width: 630
+        height: 566
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd448f5a5fcc8df10800000000000000
+      internalID: 2294809365568832731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheer0016
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 26
+        width: 630
+        height: 566
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1149d2f634c2c40800000000000000
+      internalID: 5488836190642901447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheer0017
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 26
+        width: 630
+        height: 566
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbb21c8d38f33ed0800000000000000
+      internalID: -2435330030250574903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheer0018
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 26
+        width: 630
+        height: 566
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637f980590faffc10800000000000000
+      internalID: 2089581206663984950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheer0019
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 26
+        width: 630
+        height: 566
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ddc0f5eb992dd00800000000000000
+      internalID: 996027510519815432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheer0020
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 26
+        width: 630
+        height: 566
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4287c84dbdcfc50800000000000000
+      internalID: 6700472051556689072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle0001
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 161
+        width: 382
+        height: 549
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63b59168a4fcb4d0800000000000000
+      internalID: -3117347838018342036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle0002
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 161
+        width: 382
+        height: 549
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7de2f2b0f085c70800000000000000
+      internalID: 8959927999364257707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle0003
+      rect:
+        serializedVersion: 2
+        x: 3666
+        y: 578
+        width: 380
+        height: 541
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c419df74114c36ba0800000000000000
+      internalID: -6096813892028231348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle0004
+      rect:
+        serializedVersion: 2
+        x: 3666
+        y: 578
+        width: 380
+        height: 541
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabe4d9c9c677d830800000000000000
+      internalID: 4095872995163433903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle0005
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 635
+        width: 358
+        height: 484
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74144d4cfe5f1560800000000000000
+      internalID: 7286647159829828735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle0006
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 635
+        width: 358
+        height: 484
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efbb4253ccb02480800000000000000
+      internalID: -8925926914362982429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle0007
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 625
+        width: 355
+        height: 494
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fab4c220bbc96280800000000000000
+      internalID: -9049478018866300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle0008
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 625
+        width: 355
+        height: 494
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aadc123bc57f3ea50800000000000000
+      internalID: 6549350260641222058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle0009
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 178
+        width: 493
+        height: 532
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc63a82f0006364d0800000000000000
+      internalID: -3142562557789063476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle0010
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 178
+        width: 493
+        height: 532
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ed2fbf3e8ab5740800000000000000
+      internalID: 5141889096711593577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle0011
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 595
+        width: 482
+        height: 524
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00559a24adab80da0800000000000000
+      internalID: -5978323058750302976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle0012
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 595
+        width: 482
+        height: 524
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ac8a811c7d415f0800000000000000
+      internalID: -786766810540619196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle0013
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 635
+        width: 358
+        height: 484
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3fe58aab705b860800000000000000
+      internalID: 7544945248999240629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle0014
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 635
+        width: 358
+        height: 484
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b325a23e79842390800000000000000
+      internalID: -7843993475863993423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle0015
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 625
+        width: 355
+        height: 494
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7f590b1bc7ba530800000000000000
+      internalID: 3867321807641376694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle0016
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 625
+        width: 355
+        height: 494
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dafab9a1bf82e5d00800000000000000
+      internalID: 963252429252177837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingDOWN0002
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 710
+        width: 464
+        height: 409
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c3154ceca3643a0800000000000000
+      internalID: -6681588337426219955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingDOWN0004
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 710
+        width: 450
+        height: 409
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4878b103fba9f20800000000000000
+      internalID: 3430264279537255604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingDOWN0005
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 710
+        width: 450
+        height: 409
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22cc0d28813357c0800000000000000
+      internalID: -4083865976153783764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingDOWN0006
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 710
+        width: 450
+        height: 409
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130432bcc0d483be0800000000000000
+      internalID: -1497362158757658575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingDOWN0007
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 710
+        width: 450
+        height: 409
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c4b28be556d23e0800000000000000
+      internalID: -2076892395656754136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingDOWN0008
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 710
+        width: 450
+        height: 409
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31e3391dcc5d9090800000000000000
+      internalID: -8026156924943474371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingDOWN0009
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 710
+        width: 450
+        height: 409
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0851ffc188030c5f0800000000000000
+      internalID: -738536977728596608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingDOWN0010
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 710
+        width: 450
+        height: 409
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad79a5a1a3517a540800000000000000
+      internalID: 5019003649022138330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingDOWN0011
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 710
+        width: 450
+        height: 409
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ec69ad6717c16d0800000000000000
+      internalID: -3018412894957678985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingDOWN0012
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 710
+        width: 450
+        height: 409
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aef0e1eb09c72ac0800000000000000
+      internalID: -3879911501084950871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingDOWN0013
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 710
+        width: 450
+        height: 409
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6a5ff76782bc360800000000000000
+      internalID: 7190885719445186279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingDOWN0014
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 710
+        width: 450
+        height: 409
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e73c23094ef1580800000000000000
+      internalID: -8854107034409009548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingDOWN0015
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 710
+        width: 450
+        height: 409
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15617c9ee822fe80800000000000000
+      internalID: -8146403770667801317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingDOWN0016
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 710
+        width: 450
+        height: 409
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5724b86b0c836a440800000000000000
+      internalID: 4946703641060524661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingDOWN0017
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 710
+        width: 450
+        height: 409
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8c7270dc1053380800000000000000
+      internalID: -8992279100875355992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingDOWN0018
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 710
+        width: 450
+        height: 409
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4741601c325397a00800000000000000
+      internalID: 754692840239797364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingDOWN0019
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 710
+        width: 450
+        height: 409
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d76cedcd5abb4c0800000000000000
+      internalID: -4270637453581845135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingDOWN0020
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 710
+        width: 450
+        height: 409
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a24a3e8dd67ea7f0800000000000000
+      internalID: -599411006447664473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingDOWN0021
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 710
+        width: 450
+        height: 409
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96792ebb091f8cf0800000000000000
+      internalID: -247951916256364901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingDOWN0022
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 710
+        width: 450
+        height: 409
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5078fbde8c621ce0800000000000000
+      internalID: -1435965970346119077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingDOWN0023
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 710
+        width: 450
+        height: 409
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30aa26945fb2d23e0800000000000000
+      internalID: -2076955520649745917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingDOWN0024
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 710
+        width: 450
+        height: 409
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa9ca75120768960800000000000000
+      internalID: 7603888309368822443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingDOWN0025
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 710
+        width: 450
+        height: 409
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6226dc68d2c7ebd20800000000000000
+      internalID: 3296208512258761254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingLEFT0002
+      rect:
+        serializedVersion: 2
+        x: 2551
+        y: 592
+        width: 557
+        height: 527
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779881528735a3510800000000000000
+      internalID: 1529626798929250679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingLEFT0004
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 588
+        width: 558
+        height: 531
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09628693703cc1bb0800000000000000
+      internalID: -4963878253473814896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingLEFT0005
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 588
+        width: 558
+        height: 531
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f5b4c06a0d19680800000000000000
+      internalID: -8749983189414748347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingLEFT0006
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 588
+        width: 558
+        height: 531
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670b935f2ce1a5c20800000000000000
+      internalID: 3195900708259475574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingLEFT0007
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 588
+        width: 558
+        height: 531
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f671bbd95f63bbf20800000000000000
+      internalID: 3439403168968677231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingLEFT0008
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 588
+        width: 558
+        height: 531
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c766e09006c59c4f0800000000000000
+      internalID: -808013090597738884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingLEFT0009
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 588
+        width: 558
+        height: 531
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3df4b4babccfe710800000000000000
+      internalID: 1724822284573932858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingLEFT0010
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 588
+        width: 558
+        height: 531
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70bcd4baabeceb2a0800000000000000
+      internalID: -6719706292856960249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingLEFT0011
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 588
+        width: 558
+        height: 531
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2043f950c132dd220800000000000000
+      internalID: 2512202770402980866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingLEFT0012
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 588
+        width: 558
+        height: 531
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b271c87ee4acfc700800000000000000
+      internalID: 562890918685579051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingLEFT0013
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 588
+        width: 558
+        height: 531
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48148320fdf96f640800000000000000
+      internalID: 5113450207089541508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingLEFT0014
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 588
+        width: 558
+        height: 531
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e449736f5913ef130800000000000000
+      internalID: 3602371272093701198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingLEFT0015
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 588
+        width: 558
+        height: 531
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1194881995b8df6c0800000000000000
+      internalID: -4107974068282046191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingRIGHT0002
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 595
+        width: 442
+        height: 524
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be726634782eb2e80800000000000000
+      internalID: -8202213225745995797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingRIGHT0004
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 92
+        width: 438
+        height: 533
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15505e0f3f8f3ec90800000000000000
+      internalID: -7141590857477192367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingRIGHT0005
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 92
+        width: 438
+        height: 533
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78526ef03be25cc20800000000000000
+      internalID: 3226036054681593223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingRIGHT0006
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 92
+        width: 438
+        height: 533
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f5fbb04d4881940800000000000000
+      internalID: 5267105810474819397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingRIGHT0007
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 92
+        width: 438
+        height: 533
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e734d995744d96650800000000000000
+      internalID: 6226741362727666558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingRIGHT0008
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 92
+        width: 438
+        height: 533
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742cb217685609b10800000000000000
+      internalID: 1986199063769104967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingRIGHT0009
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 92
+        width: 438
+        height: 533
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16dd507ad5bde5d80800000000000000
+      internalID: -8259923471270290079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingRIGHT0010
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 92
+        width: 438
+        height: 533
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb79d05377ce7c50800000000000000
+      internalID: 6664983796646509502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingRIGHT0011
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 92
+        width: 438
+        height: 533
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433ec76a3d01abc80800000000000000
+      internalID: -8306308061514112204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingRIGHT0012
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 92
+        width: 438
+        height: 533
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb6de1548e1ed2a0800000000000000
+      internalID: -6710892841076429843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingRIGHT0013
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 92
+        width: 438
+        height: 533
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719c5eefe927a3550800000000000000
+      internalID: 6141347069079963927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingRIGHT0014
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 92
+        width: 438
+        height: 533
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b2454f276ea8ab0800000000000000
+      internalID: -5004934654469067950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingRIGHT0015
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 92
+        width: 438
+        height: 533
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10dd5f68c43840ee0800000000000000
+      internalID: -1295766428070847231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingRIGHT0016
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 92
+        width: 438
+        height: 533
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6342f940f5a322260800000000000000
+      internalID: 7071278544698942518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingRIGHT0017
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 92
+        width: 438
+        height: 533
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de89044bc3e0e3620800000000000000
+      internalID: 2755655675882281197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingRIGHT0018
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 92
+        width: 438
+        height: 533
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3327ec0ce4da060800000000000000
+      internalID: 6966310788616303532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingRIGHT0019
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 92
+        width: 438
+        height: 533
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c20dd5ac8cdc810800000000000000
+      internalID: 1787305398618827890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingRIGHT0020
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 92
+        width: 438
+        height: 533
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1653b7d557a7e0da0800000000000000
+      internalID: -5976705010975951519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingRIGHT0021
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 92
+        width: 438
+        height: 533
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a78484d864f68ba0800000000000000
+      internalID: -6086909115265415264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingRIGHT0022
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 92
+        width: 438
+        height: 533
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32560ebc1cca8e170800000000000000
+      internalID: 8208000269231875363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingRIGHT0023
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 92
+        width: 438
+        height: 533
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c68333099a9918d0800000000000000
+      internalID: -2875096905124968761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingRIGHT0024
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 92
+        width: 438
+        height: 533
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46bffa569d6e1360800000000000000
+      internalID: 7142266551595415117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingRIGHT0025
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 92
+        width: 438
+        height: 533
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ceca012fe44da00800000000000000
+      internalID: 780335437010758768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingUP0002
+      rect:
+        serializedVersion: 2
+        x: 2967
+        y: 17
+        width: 399
+        height: 571
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c870918d172da410800000000000000
+      internalID: 1489890059410766021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingUP0004
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 30
+        width: 405
+        height: 565
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b8505ad77005390800000000000000
+      internalID: -7831751515776382133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SingUP0005
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 30
+        width: 405
+        height: 565
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38913cacd4532d010800000000000000
+      internalID: 1212089857946622339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Cheer0001: 633899981473477112
+      Cheer0002: 1654679327581849028
+      Cheer0003: 5701315965721416810
+      Cheer0004: 3240350871168750802
+      Cheer0005: -2679854520252831984
+      Cheer0006: 6310588818787924777
+      Cheer0007: -5822980666448516695
+      Cheer0008: -8942895174400785929
+      Cheer0009: -947850885153230155
+      Cheer0010: 5504542959698485272
+      Cheer0011: 2639869599781378028
+      Cheer0012: -5079235286415532152
+      Cheer0013: 7774093954972658464
+      Cheer0014: -8816982670483112415
+      Cheer0015: 2294809365568832731
+      Cheer0016: 5488836190642901447
+      Cheer0017: -2435330030250574903
+      Cheer0018: 2089581206663984950
+      Cheer0019: 996027510519815432
+      Cheer0020: 6700472051556689072
+      Idle0001: -3117347838018342036
+      Idle0002: 8959927999364257707
+      Idle0003: -6096813892028231348
+      Idle0004: 4095872995163433903
+      Idle0005: 7286647159829828735
+      Idle0006: -8925926914362982429
+      Idle0007: -9049478018866300172
+      Idle0008: 6549350260641222058
+      Idle0009: -3142562557789063476
+      Idle0010: 5141889096711593577
+      Idle0011: -5978323058750302976
+      Idle0012: -786766810540619196
+      Idle0013: 7544945248999240629
+      Idle0014: -7843993475863993423
+      Idle0015: 3867321807641376694
+      Idle0016: 963252429252177837
+      SingDOWN0001: -289790427709548775
+      SingDOWN0002: -6681588337426219955
+      SingDOWN0003: -3037104925406999431
+      SingDOWN0004: 3430264279537255604
+      SingDOWN0005: -4083865976153783764
+      SingDOWN0006: -1497362158757658575
+      SingDOWN0007: -2076892395656754136
+      SingDOWN0008: -8026156924943474371
+      SingDOWN0009: -738536977728596608
+      SingDOWN0010: 5019003649022138330
+      SingDOWN0011: -3018412894957678985
+      SingDOWN0012: -3879911501084950871
+      SingDOWN0013: 7190885719445186279
+      SingDOWN0014: -8854107034409009548
+      SingDOWN0015: -8146403770667801317
+      SingDOWN0016: 4946703641060524661
+      SingDOWN0017: -8992279100875355992
+      SingDOWN0018: 754692840239797364
+      SingDOWN0019: -4270637453581845135
+      SingDOWN0020: -599411006447664473
+      SingDOWN0021: -247951916256364901
+      SingDOWN0022: -1435965970346119077
+      SingDOWN0023: -2076955520649745917
+      SingDOWN0024: 7603888309368822443
+      SingDOWN0025: 3296208512258761254
+      SingLEFT0001: 6476161557857953961
+      SingLEFT0002: 1529626798929250679
+      SingLEFT0003: -1489649872240553402
+      SingLEFT0004: -4963878253473814896
+      SingLEFT0005: -8749983189414748347
+      SingLEFT0006: 3195900708259475574
+      SingLEFT0007: 3439403168968677231
+      SingLEFT0008: -808013090597738884
+      SingLEFT0009: 1724822284573932858
+      SingLEFT0010: -6719706292856960249
+      SingLEFT0011: 2512202770402980866
+      SingLEFT0012: 562890918685579051
+      SingLEFT0013: 5113450207089541508
+      SingLEFT0014: 3602371272093701198
+      SingLEFT0015: -4107974068282046191
+      SingRIGHT0001: 5390180947813651491
+      SingRIGHT0002: -8202213225745995797
+      SingRIGHT0003: 5239145408202985957
+      SingRIGHT0004: -7141590857477192367
+      SingRIGHT0005: 3226036054681593223
+      SingRIGHT0006: 5267105810474819397
+      SingRIGHT0007: 6226741362727666558
+      SingRIGHT0008: 1986199063769104967
+      SingRIGHT0009: -8259923471270290079
+      SingRIGHT0010: 6664983796646509502
+      SingRIGHT0011: -8306308061514112204
+      SingRIGHT0012: -6710892841076429843
+      SingRIGHT0013: 6141347069079963927
+      SingRIGHT0014: -5004934654469067950
+      SingRIGHT0015: -1295766428070847231
+      SingRIGHT0016: 7071278544698942518
+      SingRIGHT0017: 2755655675882281197
+      SingRIGHT0018: 6966310788616303532
+      SingRIGHT0019: 1787305398618827890
+      SingRIGHT0020: -5976705010975951519
+      SingRIGHT0021: -6086909115265415264
+      SingRIGHT0022: 8208000269231875363
+      SingRIGHT0023: -2875096905124968761
+      SingRIGHT0024: 7142266551595415117
+      SingRIGHT0025: 780335437010758768
+      SingUP0001: -1459054578858659691
+      SingUP0002: 1489890059410766021
+      SingUP0003: 7784785407624122913
+      SingUP0004: -7831751515776382133
+      SingUP0005: 1212089857946622339
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

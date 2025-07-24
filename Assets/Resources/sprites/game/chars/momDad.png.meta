@@ -1,0 +1,3075 @@
+fileFormatVersion: 2
+guid: 273ac3a883860c34cbf989f3f19b5f78
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Parent Christmas Idle0000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7415
+        width: 873
+        height: 777
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcc27e1503f06870800000000000000
+      internalID: 8674200085626801328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Christmas Idle0001
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7415
+        width: 873
+        height: 777
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146716d520c800580800000000000000
+      internalID: -8862930124880644543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Christmas Idle0002
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 7432
+        width: 876
+        height: 760
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c707c2392f6f195a0800000000000000
+      internalID: -6516155664116715396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Christmas Idle0003
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 7432
+        width: 876
+        height: 760
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b99c08bd30f64a0800000000000000
+      internalID: -6598050687781070001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Christmas Idle0004
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 7426
+        width: 877
+        height: 766
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20acc44d20f128db0800000000000000
+      internalID: -4791232956556588542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Christmas Idle0005
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 7426
+        width: 877
+        height: 766
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a465edfc98927a10800000000000000
+      internalID: 1905753392373130408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Christmas Idle0006
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 7415
+        width: 866
+        height: 777
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9775abc423681dc00800000000000000
+      internalID: 923666949181429625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Christmas Idle0007
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 7415
+        width: 866
+        height: 777
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02505527ae2b9ece0800000000000000
+      internalID: -1375371491174709984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Christmas Idle0008
+      rect:
+        serializedVersion: 2
+        x: 3532
+        y: 7411
+        width: 865
+        height: 781
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3aab826d8e2c28c0800000000000000
+      internalID: -4022789182370108865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Christmas Idle0009
+      rect:
+        serializedVersion: 2
+        x: 3532
+        y: 7411
+        width: 865
+        height: 781
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f09937174a960a0800000000000000
+      internalID: -6887793347908792458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Christmas Idle0010
+      rect:
+        serializedVersion: 2
+        x: 4407
+        y: 7410
+        width: 865
+        height: 782
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086ecd54302cac9a0800000000000000
+      internalID: -6211939416691382656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Christmas Idle0011
+      rect:
+        serializedVersion: 2
+        x: 4407
+        y: 7410
+        width: 865
+        height: 782
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8766bb7c3c1a80290800000000000000
+      internalID: -7923905682116745608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Christmas Idle0012
+      rect:
+        serializedVersion: 2
+        x: 5282
+        y: 7410
+        width: 865
+        height: 782
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d79957c26a14fe40800000000000000
+      internalID: 5689201240829433813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Christmas Idle0013
+      rect:
+        serializedVersion: 2
+        x: 5282
+        y: 7410
+        width: 865
+        height: 782
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0198f2bce5a7b870800000000000000
+      internalID: 8698603641322901773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Down Note Dad0000
+      rect:
+        serializedVersion: 2
+        x: 6157
+        y: 7439
+        width: 844
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d71a1b86ef64ec70800000000000000
+      internalID: 8999440991359997912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Down Note Dad0001
+      rect:
+        serializedVersion: 2
+        x: 7011
+        y: 7439
+        width: 844
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f83d89803240a0e0800000000000000
+      internalID: -2260734236706391819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Down Note Dad0002
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6650
+        width: 850
+        height: 750
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f823051fabd3f1f80800000000000000
+      internalID: -8133714528886050161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Down Note Dad0003
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 6650
+        width: 850
+        height: 750
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11ff273297d94980800000000000000
+      internalID: -8554068994222460646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Down Note Dad0004
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 6642
+        width: 850
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f960b91fe30d63960800000000000000
+      internalID: 7581475991484827295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Down Note Dad0005
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 6642
+        width: 850
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522585b56268913d0800000000000000
+      internalID: -3235407357989596635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Down Note Dad0006
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 6642
+        width: 850
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d8e763f9e6ecda0800000000000000
+      internalID: -5922674829852504799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Down Note Dad0007
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 6642
+        width: 850
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d465a9f360ca4e60800000000000000
+      internalID: 7947376028071322841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Down Note Dad0008
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 6642
+        width: 850
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb9bb3319a9929e0800000000000000
+      internalID: -1645614240398337040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Down Note Dad0009
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 6642
+        width: 850
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d350b9a38ff433ca0800000000000000
+      internalID: -6038394747819981507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Down Note Dad0010
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 6642
+        width: 850
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8403c07e6f06966a0800000000000000
+      internalID: -6455521977304338360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Down Note Dad0011
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 6642
+        width: 850
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9cb3bf69acde500800000000000000
+      internalID: 427220289478969789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Down Note Dad0012
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 6642
+        width: 850
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7e3de63901dc2e0800000000000000
+      internalID: -2104007225506535433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Down Note Dad0013
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 6642
+        width: 850
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53530f0140afd1ad0800000000000000
+      internalID: -2729750903745661643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Down Note Dad0014
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 6642
+        width: 850
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528c44f50419251d0800000000000000
+      internalID: -3363466266030061531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Down Note Mom0000
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 6648
+        width: 844
+        height: 752
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2013c2a6fc4b510800000000000000
+      internalID: 1564103025519297190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Down Note Mom0001
+      rect:
+        serializedVersion: 2
+        x: 4294
+        y: 6648
+        width: 844
+        height: 752
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f47f9df81e2b510800000000000000
+      internalID: 1563560028604419923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Down Note Mom0002
+      rect:
+        serializedVersion: 2
+        x: 5148
+        y: 6647
+        width: 850
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa3a1c8e040ecb70800000000000000
+      internalID: 8921072372394113790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Down Note Mom0003
+      rect:
+        serializedVersion: 2
+        x: 6008
+        y: 6647
+        width: 850
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4d5bf6923be29f0800000000000000
+      internalID: -491258318787586835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Down Note Mom0004
+      rect:
+        serializedVersion: 2
+        x: 6868
+        y: 6642
+        width: 850
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69a37e16a18e9ac0800000000000000
+      internalID: -3846494481252374163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Down Note Mom0005
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5874
+        width: 850
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154cb38a53dc30dc0800000000000000
+      internalID: -3673867240664742831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Down Note Mom0006
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 5874
+        width: 850
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd631775417a412e0800000000000000
+      internalID: -2155914615795403041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Down Note Mom0007
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 5874
+        width: 850
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1207f04962432880800000000000000
+      internalID: -8636986640537550307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Down Note Mom0008
+      rect:
+        serializedVersion: 2
+        x: 6868
+        y: 6642
+        width: 850
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c1276d5b85afa80800000000000000
+      internalID: -8432329814287704940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Down Note Mom0009
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5874
+        width: 850
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0cbc87cbe0247fb0800000000000000
+      internalID: -4651056318129587185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Down Note Mom0010
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 5874
+        width: 850
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea6f58f1de2b4b00800000000000000
+      internalID: 813795637020551905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Down Note Mom0011
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 5874
+        width: 850
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ed9a07ed4d4e690800000000000000
+      internalID: -7573694621492322706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Down Note Mom0012
+      rect:
+        serializedVersion: 2
+        x: 6868
+        y: 6642
+        width: 850
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d27e9b19dfe09fe0800000000000000
+      internalID: -1184182986248129836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Down Note Mom0013
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5874
+        width: 850
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e7ce00980d21240800000000000000
+      internalID: 4761097042928631425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Down Note Mom0014
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 5874
+        width: 850
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba26e4c5f1502da80800000000000000
+      internalID: -8443680719115492693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Left Note Dad0000
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 5831
+        width: 784
+        height: 801
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea3af7f8179ac150800000000000000
+      internalID: 5893689195863096039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Left Note Dad0001
+      rect:
+        serializedVersion: 2
+        x: 3374
+        y: 5831
+        width: 784
+        height: 801
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3e8dbac07fd8d90800000000000000
+      internalID: -7093742204243876947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Left Note Dad0002
+      rect:
+        serializedVersion: 2
+        x: 4168
+        y: 5841
+        width: 796
+        height: 791
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5d3c6ae3fb00160800000000000000
+      internalID: 6989796897485739441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Left Note Dad0003
+      rect:
+        serializedVersion: 2
+        x: 4974
+        y: 5841
+        width: 796
+        height: 791
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7bb4f25452de200800000000000000
+      internalID: 210865736632743928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Left Note Dad0004
+      rect:
+        serializedVersion: 2
+        x: 5780
+        y: 5833
+        width: 796
+        height: 799
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306f13e3547b658c0800000000000000
+      internalID: -4010816910102759933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Left Note Dad0005
+      rect:
+        serializedVersion: 2
+        x: 6586
+        y: 5833
+        width: 796
+        height: 799
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61401c9b47bb4e770800000000000000
+      internalID: 8639236095210488854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Left Note Dad0006
+      rect:
+        serializedVersion: 2
+        x: 7392
+        y: 5833
+        width: 796
+        height: 799
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03d105c7af6bff60800000000000000
+      internalID: 8069165923719828239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Left Note Dad0007
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5022
+        width: 796
+        height: 799
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e98dc9878488b780800000000000000
+      internalID: -8667031765207119383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Left Note Dad0008
+      rect:
+        serializedVersion: 2
+        x: 5780
+        y: 5833
+        width: 796
+        height: 799
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248d535bd3819dbc0800000000000000
+      internalID: -3757945760751691710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Left Note Dad0009
+      rect:
+        serializedVersion: 2
+        x: 6586
+        y: 5833
+        width: 796
+        height: 799
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ba5e544cbd24cc0800000000000000
+      internalID: -3728175905476596940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Left Note Dad0010
+      rect:
+        serializedVersion: 2
+        x: 7392
+        y: 5833
+        width: 796
+        height: 799
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6a258b2d0062880800000000000000
+      internalID: -8636214330400790844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Left Note Dad0011
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5022
+        width: 796
+        height: 799
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8002f6429d3cad720800000000000000
+      internalID: 2871823049788694536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Left Note Dad0012
+      rect:
+        serializedVersion: 2
+        x: 5780
+        y: 5833
+        width: 796
+        height: 799
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3469befddaed1ab50800000000000000
+      internalID: 6602803367069324867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Left Note Dad0013
+      rect:
+        serializedVersion: 2
+        x: 6586
+        y: 5833
+        width: 796
+        height: 799
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9d83134d202ab40800000000000000
+      internalID: 5449921609453853158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Left Note Dad0014
+      rect:
+        serializedVersion: 2
+        x: 7392
+        y: 5833
+        width: 796
+        height: 799
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3e7d35cbc1ee850800000000000000
+      internalID: 6408090914980881315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Left Note Dad0015
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5022
+        width: 796
+        height: 799
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ed066bbd17b0230800000000000000
+      internalID: 3606101115111792285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Left Note Mom0000
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 5021
+        width: 784
+        height: 800
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632e22b0d10151480800000000000000
+      internalID: -8929212969265208778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Left Note Mom0001
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 5021
+        width: 784
+        height: 800
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3261e8b5d3a039e0800000000000000
+      internalID: -1643633725665091011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Left Note Mom0002
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 5030
+        width: 796
+        height: 791
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc8d04a716ed5360800000000000000
+      internalID: 7160131971799944375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Left Note Mom0003
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 5030
+        width: 796
+        height: 791
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb13abe399cb66400800000000000000
+      internalID: 317148190144606652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Left Note Mom0004
+      rect:
+        serializedVersion: 2
+        x: 4006
+        y: 5022
+        width: 796
+        height: 799
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074a58ad1be191430800000000000000
+      internalID: 3754065513614255216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Left Note Mom0005
+      rect:
+        serializedVersion: 2
+        x: 4812
+        y: 5022
+        width: 796
+        height: 799
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c4139158a916430800000000000000
+      internalID: 3774467859157175402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Left Note Mom0006
+      rect:
+        serializedVersion: 2
+        x: 5618
+        y: 5022
+        width: 796
+        height: 799
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e31151e14bd02710800000000000000
+      internalID: 1666572938126627816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Left Note Mom0007
+      rect:
+        serializedVersion: 2
+        x: 6424
+        y: 5022
+        width: 796
+        height: 799
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5793b301d14944f00800000000000000
+      internalID: 1100167061532522869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Left Note Mom0008
+      rect:
+        serializedVersion: 2
+        x: 4006
+        y: 5022
+        width: 796
+        height: 799
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d30cca935665180800000000000000
+      internalID: -9126996296433910451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Left Note Mom0009
+      rect:
+        serializedVersion: 2
+        x: 4812
+        y: 5022
+        width: 796
+        height: 799
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f284b27c5c3a870800000000000000
+      internalID: 8693009164970504018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Left Note Mom0010
+      rect:
+        serializedVersion: 2
+        x: 5618
+        y: 5022
+        width: 796
+        height: 799
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1446d77321c0f170800000000000000
+      internalID: 8210274478774961179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Left Note Mom0011
+      rect:
+        serializedVersion: 2
+        x: 6424
+        y: 5022
+        width: 796
+        height: 799
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b448e6f64c96b0a0800000000000000
+      internalID: -6866128753275681614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Left Note Mom0012
+      rect:
+        serializedVersion: 2
+        x: 4006
+        y: 5022
+        width: 796
+        height: 799
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc2df86e6e13cf60800000000000000
+      internalID: 8053314018225237191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Left Note Mom0013
+      rect:
+        serializedVersion: 2
+        x: 4812
+        y: 5022
+        width: 796
+        height: 799
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ab2ccc8c928c4d0800000000000000
+      internalID: -3114193199921186230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Left Note Mom0014
+      rect:
+        serializedVersion: 2
+        x: 5618
+        y: 5022
+        width: 796
+        height: 799
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f0189a139e4a9f0800000000000000
+      internalID: -457984862578471029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Right Note Dad0000
+      rect:
+        serializedVersion: 2
+        x: 7230
+        y: 5075
+        width: 951
+        height: 746
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68733308b66707e10800000000000000
+      internalID: 2193383222613849990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Right Note Dad0001
+      rect:
+        serializedVersion: 2
+        x: 7230
+        y: 5075
+        width: 951
+        height: 746
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b83f2a538fb22440800000000000000
+      internalID: 4909697114661927093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Right Note Dad0002
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4249
+        width: 952
+        height: 762
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313adee5c3876b790800000000000000
+      internalID: -7514686727535090925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Right Note Dad0003
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4249
+        width: 952
+        height: 762
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a534890f8ce79f2b0800000000000000
+      internalID: -5550265664262356134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Right Note Dad0004
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 4250
+        width: 952
+        height: 761
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b91a60892e060d0800000000000000
+      internalID: -3431493773482157232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Right Note Dad0005
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 4250
+        width: 952
+        height: 761
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dce90f104cc1c640800000000000000
+      internalID: 5098580828930829527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Right Note Dad0006
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 4250
+        width: 952
+        height: 761
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a8ff2a4b629fa80800000000000000
+      internalID: -8432666270003918238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Right Note Dad0007
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 4250
+        width: 952
+        height: 761
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1f7a7a57e86e0f0800000000000000
+      internalID: -1088025623988276740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Right Note Dad0008
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 4250
+        width: 952
+        height: 761
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f6db4f6077bffb0800000000000000
+      internalID: -4612962521551376595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Right Note Dad0009
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 4250
+        width: 952
+        height: 761
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a66f6c211862c750800000000000000
+      internalID: 6323731249750828704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Right Note Dad0010
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 4250
+        width: 952
+        height: 761
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08696bfd8752ced00800000000000000
+      internalID: 1003218018076366464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Right Note Dad0011
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 4250
+        width: 952
+        height: 761
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dcfe361fd86b5a70800000000000000
+      internalID: 8816756002868100305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Right Note Dad0012
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 4250
+        width: 952
+        height: 761
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5d873e7705719b0800000000000000
+      internalID: -5109526776380860966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Right Note Dad0013
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 4250
+        width: 952
+        height: 761
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736161796ea288730800000000000000
+      internalID: 4001495438784337463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Right Note Dad0014
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 4250
+        width: 952
+        height: 761
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bdccea93d586950800000000000000
+      internalID: 6442501769280674701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Right Note Dad0015
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 4250
+        width: 952
+        height: 761
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62daeb3dae47e82a0800000000000000
+      internalID: -6733315840948654810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Right Note Mom0000
+      rect:
+        serializedVersion: 2
+        x: 2886
+        y: 4261
+        width: 951
+        height: 750
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdcd5a825e627ab0800000000000000
+      internalID: -5011822134522163770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Right Note Mom0001
+      rect:
+        serializedVersion: 2
+        x: 2886
+        y: 4261
+        width: 951
+        height: 750
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba4b35dbcc2a1eb0800000000000000
+      internalID: -4748433603141350731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Right Note Mom0002
+      rect:
+        serializedVersion: 2
+        x: 3847
+        y: 4248
+        width: 952
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a964e482586d864d0800000000000000
+      internalID: -3141024872695708006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Right Note Mom0003
+      rect:
+        serializedVersion: 2
+        x: 3847
+        y: 4248
+        width: 952
+        height: 763
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb226ddfa3f46030800000000000000
+      internalID: 3487179948150631401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Right Note Mom0004
+      rect:
+        serializedVersion: 2
+        x: 4809
+        y: 4250
+        width: 952
+        height: 761
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a19a10ee3655630800000000000000
+      internalID: 3915145324949740086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Right Note Mom0005
+      rect:
+        serializedVersion: 2
+        x: 4809
+        y: 4250
+        width: 952
+        height: 761
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1540c7acde0673d10800000000000000
+      internalID: 2105257925239637073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Right Note Mom0006
+      rect:
+        serializedVersion: 2
+        x: 5771
+        y: 4250
+        width: 952
+        height: 761
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6be17e6d7c225390800000000000000
+      internalID: -7831147884808377492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Right Note Mom0007
+      rect:
+        serializedVersion: 2
+        x: 5771
+        y: 4250
+        width: 952
+        height: 761
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da789d64932f8690800000000000000
+      internalID: -7597814925949895978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Right Note Mom0008
+      rect:
+        serializedVersion: 2
+        x: 4809
+        y: 4250
+        width: 952
+        height: 761
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d80f1efca3332bc0800000000000000
+      internalID: -3809144041734469415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Right Note Mom0009
+      rect:
+        serializedVersion: 2
+        x: 4809
+        y: 4250
+        width: 952
+        height: 761
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16e0736f2c5f1670800000000000000
+      internalID: 8511623179355088412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Right Note Mom0010
+      rect:
+        serializedVersion: 2
+        x: 5771
+        y: 4250
+        width: 952
+        height: 761
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e385f12dfd16200800000000000000
+      internalID: 171664354378792458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Right Note Mom0011
+      rect:
+        serializedVersion: 2
+        x: 5771
+        y: 4250
+        width: 952
+        height: 761
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8daa020e590e67650800000000000000
+      internalID: 6230414068828646104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Right Note Mom0012
+      rect:
+        serializedVersion: 2
+        x: 4809
+        y: 4250
+        width: 952
+        height: 761
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83184874692f38030800000000000000
+      internalID: 3495904463028519224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Right Note Mom0013
+      rect:
+        serializedVersion: 2
+        x: 4809
+        y: 4250
+        width: 952
+        height: 761
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0abcef6ecb91c50800000000000000
+      internalID: 6636543226210394282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Right Note Mom0014
+      rect:
+        serializedVersion: 2
+        x: 5771
+        y: 4250
+        width: 952
+        height: 761
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c950f49943d6ea910800000000000000
+      internalID: 1850536569573672348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Up Note Dad0000
+      rect:
+        serializedVersion: 2
+        x: 6733
+        y: 4204
+        width: 787
+        height: 807
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9229f6f11b122fc50800000000000000
+      internalID: 6697452640473682473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Up Note Dad0001
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3387
+        width: 787
+        height: 807
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ed217501ba2d7d0800000000000000
+      internalID: -2895063523777126820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Up Note Dad0002
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 3389
+        width: 799
+        height: 805
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e47fd169952d3e0800000000000000
+      internalID: -2030461980707959207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Up Note Dad0003
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 3389
+        width: 799
+        height: 805
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a928045d4989df0a0800000000000000
+      internalID: -6846148093532929382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Up Note Dad0004
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 3386
+        width: 799
+        height: 808
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321bf71113722e5d0800000000000000
+      internalID: -3034820107193831133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Up Note Dad0005
+      rect:
+        serializedVersion: 2
+        x: 3224
+        y: 3386
+        width: 799
+        height: 808
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc97a2a45ba4af70800000000000000
+      internalID: 9197664718991891699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Up Note Dad0006
+      rect:
+        serializedVersion: 2
+        x: 4033
+        y: 3386
+        width: 799
+        height: 808
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4cf752c93bef330800000000000000
+      internalID: 3746629423244231876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Up Note Dad0007
+      rect:
+        serializedVersion: 2
+        x: 4842
+        y: 3386
+        width: 799
+        height: 808
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b29b3eac020c6840800000000000000
+      internalID: 5218548321701565107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Up Note Dad0008
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 3386
+        width: 799
+        height: 808
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec497505919ba920800000000000000
+      internalID: 3002653645800557798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Up Note Dad0009
+      rect:
+        serializedVersion: 2
+        x: 3224
+        y: 3386
+        width: 799
+        height: 808
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3678b6f5684f37750800000000000000
+      internalID: 6301649161585133411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Up Note Dad0010
+      rect:
+        serializedVersion: 2
+        x: 4033
+        y: 3386
+        width: 799
+        height: 808
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639469bece713e930800000000000000
+      internalID: 4171203986207426870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Up Note Dad0011
+      rect:
+        serializedVersion: 2
+        x: 4842
+        y: 3386
+        width: 799
+        height: 808
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf34286c888576d10800000000000000
+      internalID: 2118759494170330108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Up Note Dad0012
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 3386
+        width: 799
+        height: 808
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df54dab24ad3bc760800000000000000
+      internalID: 7479139381495547389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Up Note Dad0013
+      rect:
+        serializedVersion: 2
+        x: 3224
+        y: 3386
+        width: 799
+        height: 808
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4395f144287424c50800000000000000
+      internalID: 6647954624766499124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Up Note Mom0000
+      rect:
+        serializedVersion: 2
+        x: 5651
+        y: 3383
+        width: 787
+        height: 811
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2ce1052994d8ed0800000000000000
+      internalID: -2410189332815101248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Up Note Mom0001
+      rect:
+        serializedVersion: 2
+        x: 6448
+        y: 3383
+        width: 787
+        height: 811
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2bedb290ec96c4b0800000000000000
+      internalID: -5420472613145285842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Up Note Mom0002
+      rect:
+        serializedVersion: 2
+        x: 7245
+        y: 3389
+        width: 799
+        height: 805
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ad0d141b7cd0690800000000000000
+      internalID: -7634226229195777424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Up Note Mom0003
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2568
+        width: 799
+        height: 805
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7447a255ff2e700800000000000000
+      internalID: 568297244251670504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Up Note Mom0004
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 2565
+        width: 799
+        height: 808
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1b4d81acb28a580800000000000000
+      internalID: -8815748123577765431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Up Note Mom0005
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 2565
+        width: 799
+        height: 808
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01dde484fba81a6b0800000000000000
+      internalID: -5286791933399737072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Up Note Mom0006
+      rect:
+        serializedVersion: 2
+        x: 2427
+        y: 2565
+        width: 799
+        height: 808
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b77507eddc24e480800000000000000
+      internalID: -8870916034437744718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Up Note Mom0007
+      rect:
+        serializedVersion: 2
+        x: 3236
+        y: 2565
+        width: 799
+        height: 808
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00819ab7a61c1380800000000000000
+      internalID: -8999293045747646449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Up Note Mom0008
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 2565
+        width: 799
+        height: 808
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf9014152f9a4a80800000000000000
+      internalID: -8481791966599667746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Up Note Mom0009
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 2565
+        width: 799
+        height: 808
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f454cd06c9e6bf0800000000000000
+      internalID: -329153782925144179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Up Note Mom0010
+      rect:
+        serializedVersion: 2
+        x: 2427
+        y: 2565
+        width: 799
+        height: 808
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae512adce58508d0800000000000000
+      internalID: -2880749134315168090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Up Note Mom0011
+      rect:
+        serializedVersion: 2
+        x: 3236
+        y: 2565
+        width: 799
+        height: 808
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a1da3f23eb96ea0800000000000000
+      internalID: -5878958712509621612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Up Note Mom0012
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 2565
+        width: 799
+        height: 808
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c094ed8d1a9e44fd0800000000000000
+      internalID: -2358503423497844468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parent Up Note Mom0013
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 2565
+        width: 799
+        height: 808
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64b88f37c38ad560800000000000000
+      internalID: 7339323434541298799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Parent Christmas Idle0000: 8674200085626801328
+      Parent Christmas Idle0001: -8862930124880644543
+      Parent Christmas Idle0002: -6516155664116715396
+      Parent Christmas Idle0003: -6598050687781070001
+      Parent Christmas Idle0004: -4791232956556588542
+      Parent Christmas Idle0005: 1905753392373130408
+      Parent Christmas Idle0006: 923666949181429625
+      Parent Christmas Idle0007: -1375371491174709984
+      Parent Christmas Idle0008: -4022789182370108865
+      Parent Christmas Idle0009: -6887793347908792458
+      Parent Christmas Idle0010: -6211939416691382656
+      Parent Christmas Idle0011: -7923905682116745608
+      Parent Christmas Idle0012: 5689201240829433813
+      Parent Christmas Idle0013: 8698603641322901773
+      Parent Down Note Dad0000: 8999440991359997912
+      Parent Down Note Dad0001: -2260734236706391819
+      Parent Down Note Dad0002: -8133714528886050161
+      Parent Down Note Dad0003: -8554068994222460646
+      Parent Down Note Dad0004: 7581475991484827295
+      Parent Down Note Dad0005: -3235407357989596635
+      Parent Down Note Dad0006: -5922674829852504799
+      Parent Down Note Dad0007: 7947376028071322841
+      Parent Down Note Dad0008: -1645614240398337040
+      Parent Down Note Dad0009: -6038394747819981507
+      Parent Down Note Dad0010: -6455521977304338360
+      Parent Down Note Dad0011: 427220289478969789
+      Parent Down Note Dad0012: -2104007225506535433
+      Parent Down Note Dad0013: -2729750903745661643
+      Parent Down Note Dad0014: -3363466266030061531
+      Parent Down Note Mom0000: 1564103025519297190
+      Parent Down Note Mom0001: 1563560028604419923
+      Parent Down Note Mom0002: 8921072372394113790
+      Parent Down Note Mom0003: -491258318787586835
+      Parent Down Note Mom0004: -3846494481252374163
+      Parent Down Note Mom0005: -3673867240664742831
+      Parent Down Note Mom0006: -2155914615795403041
+      Parent Down Note Mom0007: -8636986640537550307
+      Parent Down Note Mom0008: -8432329814287704940
+      Parent Down Note Mom0009: -4651056318129587185
+      Parent Down Note Mom0010: 813795637020551905
+      Parent Down Note Mom0011: -7573694621492322706
+      Parent Down Note Mom0012: -1184182986248129836
+      Parent Down Note Mom0013: 4761097042928631425
+      Parent Down Note Mom0014: -8443680719115492693
+      Parent Left Note Dad0000: 5893689195863096039
+      Parent Left Note Dad0001: -7093742204243876947
+      Parent Left Note Dad0002: 6989796897485739441
+      Parent Left Note Dad0003: 210865736632743928
+      Parent Left Note Dad0004: -4010816910102759933
+      Parent Left Note Dad0005: 8639236095210488854
+      Parent Left Note Dad0006: 8069165923719828239
+      Parent Left Note Dad0007: -8667031765207119383
+      Parent Left Note Dad0008: -3757945760751691710
+      Parent Left Note Dad0009: -3728175905476596940
+      Parent Left Note Dad0010: -8636214330400790844
+      Parent Left Note Dad0011: 2871823049788694536
+      Parent Left Note Dad0012: 6602803367069324867
+      Parent Left Note Dad0013: 5449921609453853158
+      Parent Left Note Dad0014: 6408090914980881315
+      Parent Left Note Dad0015: 3606101115111792285
+      Parent Left Note Mom0000: -8929212969265208778
+      Parent Left Note Mom0001: -1643633725665091011
+      Parent Left Note Mom0002: 7160131971799944375
+      Parent Left Note Mom0003: 317148190144606652
+      Parent Left Note Mom0004: 3754065513614255216
+      Parent Left Note Mom0005: 3774467859157175402
+      Parent Left Note Mom0006: 1666572938126627816
+      Parent Left Note Mom0007: 1100167061532522869
+      Parent Left Note Mom0008: -9126996296433910451
+      Parent Left Note Mom0009: 8693009164970504018
+      Parent Left Note Mom0010: 8210274478774961179
+      Parent Left Note Mom0011: -6866128753275681614
+      Parent Left Note Mom0012: 8053314018225237191
+      Parent Left Note Mom0013: -3114193199921186230
+      Parent Left Note Mom0014: -457984862578471029
+      Parent Right Note Dad0000: 2193383222613849990
+      Parent Right Note Dad0001: 4909697114661927093
+      Parent Right Note Dad0002: -7514686727535090925
+      Parent Right Note Dad0003: -5550265664262356134
+      Parent Right Note Dad0004: -3431493773482157232
+      Parent Right Note Dad0005: 5098580828930829527
+      Parent Right Note Dad0006: -8432666270003918238
+      Parent Right Note Dad0007: -1088025623988276740
+      Parent Right Note Dad0008: -4612962521551376595
+      Parent Right Note Dad0009: 6323731249750828704
+      Parent Right Note Dad0010: 1003218018076366464
+      Parent Right Note Dad0011: 8816756002868100305
+      Parent Right Note Dad0012: -5109526776380860966
+      Parent Right Note Dad0013: 4001495438784337463
+      Parent Right Note Dad0014: 6442501769280674701
+      Parent Right Note Dad0015: -6733315840948654810
+      Parent Right Note Mom0000: -5011822134522163770
+      Parent Right Note Mom0001: -4748433603141350731
+      Parent Right Note Mom0002: -3141024872695708006
+      Parent Right Note Mom0003: 3487179948150631401
+      Parent Right Note Mom0004: 3915145324949740086
+      Parent Right Note Mom0005: 2105257925239637073
+      Parent Right Note Mom0006: -7831147884808377492
+      Parent Right Note Mom0007: -7597814925949895978
+      Parent Right Note Mom0008: -3809144041734469415
+      Parent Right Note Mom0009: 8511623179355088412
+      Parent Right Note Mom0010: 171664354378792458
+      Parent Right Note Mom0011: 6230414068828646104
+      Parent Right Note Mom0012: 3495904463028519224
+      Parent Right Note Mom0013: 6636543226210394282
+      Parent Right Note Mom0014: 1850536569573672348
+      Parent Up Note Dad0000: 6697452640473682473
+      Parent Up Note Dad0001: -2895063523777126820
+      Parent Up Note Dad0002: -2030461980707959207
+      Parent Up Note Dad0003: -6846148093532929382
+      Parent Up Note Dad0004: -3034820107193831133
+      Parent Up Note Dad0005: 9197664718991891699
+      Parent Up Note Dad0006: 3746629423244231876
+      Parent Up Note Dad0007: 5218548321701565107
+      Parent Up Note Dad0008: 3002653645800557798
+      Parent Up Note Dad0009: 6301649161585133411
+      Parent Up Note Dad0010: 4171203986207426870
+      Parent Up Note Dad0011: 2118759494170330108
+      Parent Up Note Dad0012: 7479139381495547389
+      Parent Up Note Dad0013: 6647954624766499124
+      Parent Up Note Mom0000: -2410189332815101248
+      Parent Up Note Mom0001: -5420472613145285842
+      Parent Up Note Mom0002: -7634226229195777424
+      Parent Up Note Mom0003: 568297244251670504
+      Parent Up Note Mom0004: -8815748123577765431
+      Parent Up Note Mom0005: -5286791933399737072
+      Parent Up Note Mom0006: -8870916034437744718
+      Parent Up Note Mom0007: -8999293045747646449
+      Parent Up Note Mom0008: -8481791966599667746
+      Parent Up Note Mom0009: -329153782925144179
+      Parent Up Note Mom0010: -2880749134315168090
+      Parent Up Note Mom0011: -5878958712509621612
+      Parent Up Note Mom0012: -2358503423497844468
+      Parent Up Note Mom0013: 7339323434541298799
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

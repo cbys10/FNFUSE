@@ -1,0 +1,11 @@
+{
+    "title": "SPOOKY MONTH",
+    "songs":["Spookeez","South", "Monster"],
+    "diffs": ["easy","normal","hard"],
+    "story":{
+        "op": "spoopykids",
+        "bf": "bf",
+        "gf": "gf",
+        "titleImg": "2.png"
+    }
+}

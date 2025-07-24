@@ -1,0 +1,2987 @@
+fileFormatVersion: 2
+guid: d2562924b7c38964a89f185c38035fc3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10000
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 2353
+        width: 432
+        height: 563
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a538b6523819eae00800000000000000
+      internalID: 1057942954933191514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10001
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2347
+        width: 432
+        height: 563
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8470b55b0f812ab40800000000000000
+      internalID: 5449945921185580872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10002
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 1920
+        width: 403
+        height: 589
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aecba7aaa68c0840800000000000000
+      internalID: 5191672537966956194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10003
+      rect:
+        serializedVersion: 2
+        x: 3337
+        y: 1892
+        width: 403
+        height: 589
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320835086620a2010800000000000000
+      internalID: 1164746092891570211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10004
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1810
+        width: 404
+        height: 580
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478518bcb046c55b0800000000000000
+      internalID: -5378313853165545356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10005
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1810
+        width: 404
+        height: 580
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823c823400c090850800000000000000
+      internalID: 6343614745394332456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10006
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1810
+        width: 404
+        height: 580
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0fa43a7b7516760800000000000000
+      internalID: 7449331704877740210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10007
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1810
+        width: 404
+        height: 580
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc43af7e6a12a3f0800000000000000
+      internalID: -891120714375803696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10008
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1810
+        width: 404
+        height: 580
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6cf5d398b5833040800000000000000
+      internalID: 4626188270040382571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10009
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1810
+        width: 404
+        height: 580
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc44b7dac63358580800000000000000
+      internalID: -8825591352902597427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10010
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1810
+        width: 404
+        height: 580
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd43152672960a90800000000000000
+      internalID: -7348024705882567244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10011
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1810
+        width: 404
+        height: 580
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1380292f11d2355d0800000000000000
+      internalID: -3075064565456566223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10012
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1810
+        width: 404
+        height: 580
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532f33b7b8cf35d40800000000000000
+      internalID: 5572074839985091125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10013
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1810
+        width: 404
+        height: 580
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03de6a2152bdfb40800000000000000
+      internalID: 5475728783626392335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10014
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1810
+        width: 404
+        height: 580
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81bbab750545c8370800000000000000
+      internalID: 8326122515147176728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10015
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1810
+        width: 404
+        height: 580
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ad7a5f6938a5380800000000000000
+      internalID: -8981721822447281513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10016
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1810
+        width: 404
+        height: 580
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab9ba3e53818d390800000000000000
+      internalID: -7793452535432635486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10017
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1810
+        width: 404
+        height: 580
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d023f60d949f6c0e0800000000000000
+      internalID: -2249836868400106995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10018
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1810
+        width: 404
+        height: 580
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee51cdf18e4b95b40800000000000000
+      internalID: 5429569734831773166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10019
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1810
+        width: 404
+        height: 580
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa1cbee075773f90800000000000000
+      internalID: -6973976370057831692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10020
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1810
+        width: 404
+        height: 580
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56504c9ae84de7300800000000000000
+      internalID: 251872338377966949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10021
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1810
+        width: 404
+        height: 580
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e3b78c0e5567f10800000000000000
+      internalID: 2267093886352178797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10022
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1810
+        width: 404
+        height: 580
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5352a86b9b804d40800000000000000
+      internalID: 5566602639021593436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10023
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1810
+        width: 404
+        height: 580
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b9f18e5003a5c50800000000000000
+      internalID: 6654684201320684326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10024
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1810
+        width: 404
+        height: 580
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c09649e93649af0800000000000000
+      internalID: -390577734928495616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10025
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1810
+        width: 404
+        height: 580
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befa612187966abe0800000000000000
+      internalID: -1466368664242049045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10026
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1810
+        width: 404
+        height: 580
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f71e577e7956640800000000000000
+      internalID: 5072627575673683870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10027
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1810
+        width: 404
+        height: 580
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19bb7a3d610d4bc90800000000000000
+      internalID: -7154865111526032495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10028
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1810
+        width: 404
+        height: 580
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc5fe9989fcf4ef0800000000000000
+      internalID: -121650410591134530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10029
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1810
+        width: 404
+        height: 580
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eac33e5ac3315120800000000000000
+      internalID: 2400757020622047972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10030
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1810
+        width: 404
+        height: 580
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39d15550133d5c40800000000000000
+      internalID: 5502610464960534843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10031
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1810
+        width: 404
+        height: 580
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98159fa9d2f296950800000000000000
+      internalID: 6442732614850269577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10032
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1810
+        width: 404
+        height: 580
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b45ca894f410ee0800000000000000
+      internalID: -1296668040426599580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10033
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1810
+        width: 404
+        height: 580
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266c08ae912250780800000000000000
+      internalID: -8717524009001892254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10034
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1810
+        width: 404
+        height: 580
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01744f544e9c9e8c0800000000000000
+      internalID: -3969419614287018224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10035
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1810
+        width: 404
+        height: 580
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df861955500930290800000000000000
+      internalID: -7925332566657111811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10036
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1810
+        width: 404
+        height: 580
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c87a91b5178e940800000000000000
+      internalID: 5325631195451985011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10037
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1810
+        width: 404
+        height: 580
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d89bf334c4246e0800000000000000
+      internalID: -1854836244807578328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10038
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1810
+        width: 404
+        height: 580
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1105cf29d9e6200800000000000000
+      internalID: 175250690137919928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10039
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1769
+        width: 404
+        height: 580
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0b918f0f80081f0800000000000000
+      internalID: -1044825282502348597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10040
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 1360
+        width: 408
+        height: 556
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f70012cb6da0e80800000000000000
+      internalID: -8211514867060801771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10041
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 1332
+        width: 408
+        height: 556
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee65cc666bdbe0e0800000000000000
+      internalID: -2239455156728664341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10042
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 3535
+        width: 528
+        height: 561
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1dc4f29e75c30f0800000000000000
+      internalID: -1135936346971647567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10043
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 3535
+        width: 528
+        height: 561
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873fdda843cea5be0800000000000000
+      internalID: -1487617016480271496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10044
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 3535
+        width: 524
+        height: 561
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bd5ae0cd31e4960800000000000000
+      internalID: 7588024258025347912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10045
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 3535
+        width: 524
+        height: 561
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb66b0509438ce5e0800000000000000
+      internalID: -1878982594879854917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10046
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 3535
+        width: 524
+        height: 561
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dadaadf5a7dd60c0800000000000000
+      internalID: -4580768138040517935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10047
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 3535
+        width: 524
+        height: 561
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94eb13fdc42d34f30800000000000000
+      internalID: 4558718475433000521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10048
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 3535
+        width: 524
+        height: 561
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3966ec8467ff9d790800000000000000
+      internalID: -7504686420543510893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10049
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 3535
+        width: 524
+        height: 561
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bdbad0d75d857440800000000000000
+      internalID: 4933004375159913906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10050
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 2970
+        width: 524
+        height: 561
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bfb5b3e5185ce20800000000000000
+      internalID: 3370242137879477023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10051
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 2970
+        width: 524
+        height: 561
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a2adcd550367840800000000000000
+      internalID: 5221413963318307401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10052
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 2970
+        width: 524
+        height: 561
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c6b9e5799e46e70800000000000000
+      internalID: 9107661182786563094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10053
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 2970
+        width: 524
+        height: 561
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4ed7597fe50fc70800000000000000
+      internalID: 9002800072571610346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10054
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 2970
+        width: 524
+        height: 561
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f7ac6bcb21bcd70800000000000000
+      internalID: 9064359276743130953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10055
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 2970
+        width: 524
+        height: 561
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849323ff42413e5e0800000000000000
+      internalID: -1881638070177875640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10056
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 2970
+        width: 524
+        height: 561
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d197823c61ca9a70800000000000000
+      internalID: 8834586289489023442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10057
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 2970
+        width: 524
+        height: 561
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f047a06b06fd4b00800000000000000
+      internalID: 814577636350574837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10058
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 3535
+        width: 524
+        height: 561
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6674e91bacb8e0280800000000000000
+      internalID: -9075162496425375898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10059
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 3535
+        width: 524
+        height: 561
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d19f5e65068f7120800000000000000
+      internalID: 2413795283178590679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10060
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 3535
+        width: 524
+        height: 561
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1498b7f5a35bf1c0800000000000000
+      internalID: -4468886232944307170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PRETTY GOOD tankman instance 10061
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 3535
+        width: 524
+        height: 561
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06f12501c33c2d50800000000000000
+      internalID: 6713798048610383375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman DOWN note instance 10000
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 2513
+        width: 565
+        height: 453
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b23f9ce0e823010800000000000000
+      internalID: 1167151447611222831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman DOWN note instance 10001
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 2513
+        width: 565
+        height: 453
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b47169aa4ff81b40800000000000000
+      internalID: 5411355648420050105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman DOWN note instance 10002
+      rect:
+        serializedVersion: 2
+        x: 3111
+        y: 3062
+        width: 580
+        height: 469
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2754a44997e5ba20800000000000000
+      internalID: 3077620565845235501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman DOWN note instance 10003
+      rect:
+        serializedVersion: 2
+        x: 3111
+        y: 3062
+        width: 580
+        height: 469
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555f97e0b85225930800000000000000
+      internalID: 4130405087425721685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman DOWN note instance 10004
+      rect:
+        serializedVersion: 2
+        x: 3111
+        y: 3062
+        width: 580
+        height: 469
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f373cfd2796bcbb60800000000000000
+      internalID: 7763280618107713343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman DOWN note instance 10005
+      rect:
+        serializedVersion: 2
+        x: 3111
+        y: 3062
+        width: 580
+        height: 469
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43955fd5640a51350800000000000000
+      internalID: 5986867503743457588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman DOWN note instance 10006
+      rect:
+        serializedVersion: 2
+        x: 3111
+        y: 3062
+        width: 580
+        height: 469
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a463fe675374e7ff0800000000000000
+      internalID: -36513452018158006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman DOWN note instance 10007
+      rect:
+        serializedVersion: 2
+        x: 3111
+        y: 3062
+        width: 580
+        height: 469
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489b73aaa513eec30800000000000000
+      internalID: 4390500952205408644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman DOWN note instance 10008
+      rect:
+        serializedVersion: 2
+        x: 3111
+        y: 3062
+        width: 580
+        height: 469
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52314c5e862674110800000000000000
+      internalID: 1245072024662184741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman DOWN note instance 10009
+      rect:
+        serializedVersion: 2
+        x: 3111
+        y: 3062
+        width: 580
+        height: 469
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0a39dd0e55ace80800000000000000
+      internalID: -8157613350749757258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman Idle Dance instance 10000
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1866
+        width: 426
+        height: 554
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91dec651f3a6d3c80800000000000000
+      internalID: -8341394115645346535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman Idle Dance instance 10001
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1866
+        width: 426
+        height: 554
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2521f203ef41840800000000000000
+      internalID: 5194055753166639844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman Idle Dance instance 10002
+      rect:
+        serializedVersion: 2
+        x: 2905
+        y: 1973
+        width: 428
+        height: 556
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9036b86edb9cf470800000000000000
+      internalID: 8429783982072541339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman Idle Dance instance 10003
+      rect:
+        serializedVersion: 2
+        x: 2905
+        y: 1973
+        width: 428
+        height: 556
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9eddc736a4946f10800000000000000
+      internalID: 2262096354468552348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman Idle Dance instance 10004
+      rect:
+        serializedVersion: 2
+        x: 3643
+        y: 3536
+        width: 425
+        height: 560
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1bbdbaa84173f40800000000000000
+      internalID: 5708053638536737188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman Idle Dance instance 10005
+      rect:
+        serializedVersion: 2
+        x: 3643
+        y: 3536
+        width: 425
+        height: 560
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465739447412615e0800000000000000
+      internalID: -1939325999559510684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman Idle Dance instance 10006
+      rect:
+        serializedVersion: 2
+        x: 2474
+        y: 2394
+        width: 427
+        height: 572
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc986dfad7c469ec0800000000000000
+      internalID: -3560574352685102645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman Idle Dance instance 10007
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 2394
+        width: 428
+        height: 572
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd23627991a7ca80800000000000000
+      internalID: -8446604895688905272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman Idle Dance instance 10008
+      rect:
+        serializedVersion: 2
+        x: 3617
+        y: 2485
+        width: 428
+        height: 573
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fce31c3817bfb990800000000000000
+      internalID: -7367969150639805199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman Idle Dance instance 10009
+      rect:
+        serializedVersion: 2
+        x: 3617
+        y: 2485
+        width: 428
+        height: 573
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596510bb4e6f5b2a0800000000000000
+      internalID: -6722195406530193771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman Idle Dance instance 10010
+      rect:
+        serializedVersion: 2
+        x: 3617
+        y: 2485
+        width: 428
+        height: 573
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6619d60c209d30f10800000000000000
+      internalID: 2234868445947466086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman Idle Dance instance 10011
+      rect:
+        serializedVersion: 2
+        x: 3617
+        y: 2485
+        width: 428
+        height: 573
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b17131d5b3088c0800000000000000
+      internalID: -3999131198166721694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman Idle Dance instance 10012
+      rect:
+        serializedVersion: 2
+        x: 3617
+        y: 2485
+        width: 428
+        height: 573
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19cdb3e1e2c33bcb0800000000000000
+      internalID: -4849466204974490479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman Idle Dance instance 10013
+      rect:
+        serializedVersion: 2
+        x: 3617
+        y: 2485
+        width: 428
+        height: 573
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0896e5237134a3a40800000000000000
+      internalID: 5348661274364242304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman Note Left instance 10000
+      rect:
+        serializedVersion: 2
+        x: 3111
+        y: 2533
+        width: 502
+        height: 525
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceed98fa4305a2380800000000000000
+      internalID: -8995289118505574676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman Note Left instance 10001
+      rect:
+        serializedVersion: 2
+        x: 3111
+        y: 2533
+        width: 502
+        height: 525
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46919d8365ba1f640800000000000000
+      internalID: 5112055438851512676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman Note Left instance 10002
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 2424
+        width: 486
+        height: 542
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a3c4ca68bd471c0800000000000000
+      internalID: -4506735955628246432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman Note Left instance 10003
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 2424
+        width: 486
+        height: 542
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d6230c80acf71d0800000000000000
+      internalID: -3350737458807280282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman Note Left instance 10004
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 2424
+        width: 486
+        height: 542
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03bff6efd7571a10800000000000000
+      internalID: 1880067988615312143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman Note Left instance 10005
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 2424
+        width: 486
+        height: 542
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73221fadf1b67600800000000000000
+      internalID: 465755314601468796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman Note Left instance 10006
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 2424
+        width: 486
+        height: 542
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d51a550a1633760800000000000000
+      internalID: 7436394750978121002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman Note Left instance 10007
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 2424
+        width: 486
+        height: 542
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075cb8c3d4e755880800000000000000
+      internalID: -8622847041337571984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman Right Note instance 10000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2914
+        width: 483
+        height: 557
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca5cd8bcc4664a90800000000000000
+      internalID: -7330060513061348659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman Right Note instance 10001
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2914
+        width: 483
+        height: 557
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2989d28738810f0800000000000000
+      internalID: -1146021552981503312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman Right Note instance 10002
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2920
+        width: 483
+        height: 560
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bcb313f7f7aed2f0800000000000000
+      internalID: -946134188324307789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman Right Note instance 10003
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2920
+        width: 483
+        height: 560
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d559eac3ca5a99bb0800000000000000
+      internalID: -4928726158009264803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman Right Note instance 10004
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2920
+        width: 483
+        height: 560
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fe770b867b5ec80800000000000000
+      internalID: -8294021478467768508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman Right Note instance 10005
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2920
+        width: 483
+        height: 560
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aec6911fe8118500800000000000000
+      internalID: 396625657256660648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman Right Note instance 10006
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2920
+        width: 483
+        height: 560
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5d05b5c79ffd370800000000000000
+      internalID: 8349666546671474092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman Right Note instance 10007
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2920
+        width: 483
+        height: 560
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e153b37bae7770e0800000000000000
+      internalID: -2272208212139486750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman Right Note instance 10008
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2920
+        width: 483
+        height: 560
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a31aafc485880a0800000000000000
+      internalID: -6879151343162803685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman Right Note instance 10009
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2920
+        width: 483
+        height: 560
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: effa4397155f74650800000000000000
+      internalID: 6217207540882911230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANKMAN UGH instance 10000
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1307
+        width: 391
+        height: 555
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a914de8edd4c44a40800000000000000
+      internalID: 5351618714597671322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANKMAN UGH instance 10001
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1307
+        width: 391
+        height: 555
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928d1a9e660fc0bf0800000000000000
+      internalID: -356645945672083415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANKMAN UGH instance 10002
+      rect:
+        serializedVersion: 2
+        x: 3515
+        y: 1326
+        width: 401
+        height: 562
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbe1665dacc625c0800000000000000
+      internalID: -4240476954272076834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANKMAN UGH instance 10003
+      rect:
+        serializedVersion: 2
+        x: 3515
+        y: 1326
+        width: 401
+        height: 562
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f25054c21e481540800000000000000
+      internalID: 4978815230568059635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANKMAN UGH instance 10004
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1779
+        width: 403
+        height: 564
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbae0057c936d1e0800000000000000
+      internalID: -2173486241955271758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANKMAN UGH instance 10005
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1779
+        width: 403
+        height: 564
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051ee7401adc996b0800000000000000
+      internalID: -5288970195921084080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANKMAN UGH instance 10006
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 1405
+        width: 403
+        height: 564
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f296ab3c51e6440800000000000000
+      internalID: 4930902572407533417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANKMAN UGH instance 10007
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 1405
+        width: 403
+        height: 564
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72518cb9e275c5a30800000000000000
+      internalID: 4205332009750893863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANKMAN UGH instance 10008
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 1405
+        width: 403
+        height: 564
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a10404525bf8f80800000000000000
+      internalID: -8102058033019872628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANKMAN UGH instance 10009
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 1405
+        width: 403
+        height: 564
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56af7fa81800f9e40800000000000000
+      internalID: 5665247412637661797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANKMAN UGH instance 10010
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 1405
+        width: 403
+        height: 564
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0cb558fcbc3b81c0800000000000000
+      internalID: -4500436620308792307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANKMAN UGH instance 10011
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 1405
+        width: 403
+        height: 564
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30580ee92a1bc3b40800000000000000
+      internalID: 5421403363455567107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANKMAN UGH instance 10012
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 1405
+        width: 403
+        height: 564
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12cb0a716131ab030800000000000000
+      internalID: 3511139845095341089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANKMAN UGH instance 10013
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 1405
+        width: 403
+        height: 564
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69cc45e68ee0d230800000000000000
+      internalID: 3661688760192256365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANKMAN UGH instance 10014
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 1405
+        width: 403
+        height: 564
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6458b64d466a1bd10800000000000000
+      internalID: 2139674249968452934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TANKMAN UGH instance 10015
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 1405
+        width: 403
+        height: 564
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4161bab7966e09ce0800000000000000
+      internalID: -1400366143391459820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman UP note instance 10000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3475
+        width: 492
+        height: 621
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cd29b48a5596800800000000000000
+      internalID: 606109806168824991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman UP note instance 10001
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3475
+        width: 492
+        height: 621
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d685df31eae91c200800000000000000
+      internalID: 198614329077880941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman UP note instance 10002
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 3484
+        width: 499
+        height: 612
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b869f705748a51890800000000000000
+      internalID: -7487893781186898293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman UP note instance 10003
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 3484
+        width: 499
+        height: 612
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13d1aa13de488f60800000000000000
+      internalID: 8036760203634529051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman UP note instance 10004
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 3484
+        width: 499
+        height: 612
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016a224cef85ef200800000000000000
+      internalID: 215707683395905040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman UP note instance 10005
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 3484
+        width: 499
+        height: 612
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1865c9736260050800000000000000
+      internalID: 5766338393182470649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman UP note instance 10006
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 3484
+        width: 499
+        height: 612
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02fab57a371f6ce0800000000000000
+      internalID: -1409882618492947957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman UP note instance 10007
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 3484
+        width: 499
+        height: 612
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f375ef474e63370800000000000000
+      internalID: 8302074154238558033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman UP note instance 10008
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 3484
+        width: 499
+        height: 612
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfa4fbed0cd645f0800000000000000
+      internalID: -772688333696094276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tankman UP note instance 10009
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 3484
+        width: 499
+        height: 612
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e9c239c04b9cf60800000000000000
+      internalID: 8055167374630624823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PRETTY GOOD tankman instance 10000: 1057942954933191514
+      PRETTY GOOD tankman instance 10001: 5449945921185580872
+      PRETTY GOOD tankman instance 10002: 5191672537966956194
+      PRETTY GOOD tankman instance 10003: 1164746092891570211
+      PRETTY GOOD tankman instance 10004: -5378313853165545356
+      PRETTY GOOD tankman instance 10005: 6343614745394332456
+      PRETTY GOOD tankman instance 10006: 7449331704877740210
+      PRETTY GOOD tankman instance 10007: -891120714375803696
+      PRETTY GOOD tankman instance 10008: 4626188270040382571
+      PRETTY GOOD tankman instance 10009: -8825591352902597427
+      PRETTY GOOD tankman instance 10010: -7348024705882567244
+      PRETTY GOOD tankman instance 10011: -3075064565456566223
+      PRETTY GOOD tankman instance 10012: 5572074839985091125
+      PRETTY GOOD tankman instance 10013: 5475728783626392335
+      PRETTY GOOD tankman instance 10014: 8326122515147176728
+      PRETTY GOOD tankman instance 10015: -8981721822447281513
+      PRETTY GOOD tankman instance 10016: -7793452535432635486
+      PRETTY GOOD tankman instance 10017: -2249836868400106995
+      PRETTY GOOD tankman instance 10018: 5429569734831773166
+      PRETTY GOOD tankman instance 10019: -6973976370057831692
+      PRETTY GOOD tankman instance 10020: 251872338377966949
+      PRETTY GOOD tankman instance 10021: 2267093886352178797
+      PRETTY GOOD tankman instance 10022: 5566602639021593436
+      PRETTY GOOD tankman instance 10023: 6654684201320684326
+      PRETTY GOOD tankman instance 10024: -390577734928495616
+      PRETTY GOOD tankman instance 10025: -1466368664242049045
+      PRETTY GOOD tankman instance 10026: 5072627575673683870
+      PRETTY GOOD tankman instance 10027: -7154865111526032495
+      PRETTY GOOD tankman instance 10028: -121650410591134530
+      PRETTY GOOD tankman instance 10029: 2400757020622047972
+      PRETTY GOOD tankman instance 10030: 5502610464960534843
+      PRETTY GOOD tankman instance 10031: 6442732614850269577
+      PRETTY GOOD tankman instance 10032: -1296668040426599580
+      PRETTY GOOD tankman instance 10033: -8717524009001892254
+      PRETTY GOOD tankman instance 10034: -3969419614287018224
+      PRETTY GOOD tankman instance 10035: -7925332566657111811
+      PRETTY GOOD tankman instance 10036: 5325631195451985011
+      PRETTY GOOD tankman instance 10037: -1854836244807578328
+      PRETTY GOOD tankman instance 10038: 175250690137919928
+      PRETTY GOOD tankman instance 10039: -1044825282502348597
+      PRETTY GOOD tankman instance 10040: -8211514867060801771
+      PRETTY GOOD tankman instance 10041: -2239455156728664341
+      PRETTY GOOD tankman instance 10042: -1135936346971647567
+      PRETTY GOOD tankman instance 10043: -1487617016480271496
+      PRETTY GOOD tankman instance 10044: 7588024258025347912
+      PRETTY GOOD tankman instance 10045: -1878982594879854917
+      PRETTY GOOD tankman instance 10046: -4580768138040517935
+      PRETTY GOOD tankman instance 10047: 4558718475433000521
+      PRETTY GOOD tankman instance 10048: -7504686420543510893
+      PRETTY GOOD tankman instance 10049: 4933004375159913906
+      PRETTY GOOD tankman instance 10050: 3370242137879477023
+      PRETTY GOOD tankman instance 10051: 5221413963318307401
+      PRETTY GOOD tankman instance 10052: 9107661182786563094
+      PRETTY GOOD tankman instance 10053: 9002800072571610346
+      PRETTY GOOD tankman instance 10054: 9064359276743130953
+      PRETTY GOOD tankman instance 10055: -1881638070177875640
+      PRETTY GOOD tankman instance 10056: 8834586289489023442
+      PRETTY GOOD tankman instance 10057: 814577636350574837
+      PRETTY GOOD tankman instance 10058: -9075162496425375898
+      PRETTY GOOD tankman instance 10059: 2413795283178590679
+      PRETTY GOOD tankman instance 10060: -4468886232944307170
+      PRETTY GOOD tankman instance 10061: 6713798048610383375
+      TANKMAN UGH instance 10000: 5351618714597671322
+      TANKMAN UGH instance 10001: -356645945672083415
+      TANKMAN UGH instance 10002: -4240476954272076834
+      TANKMAN UGH instance 10003: 4978815230568059635
+      TANKMAN UGH instance 10004: -2173486241955271758
+      TANKMAN UGH instance 10005: -5288970195921084080
+      TANKMAN UGH instance 10006: 4930902572407533417
+      TANKMAN UGH instance 10007: 4205332009750893863
+      TANKMAN UGH instance 10008: -8102058033019872628
+      TANKMAN UGH instance 10009: 5665247412637661797
+      TANKMAN UGH instance 10010: -4500436620308792307
+      TANKMAN UGH instance 10011: 5421403363455567107
+      TANKMAN UGH instance 10012: 3511139845095341089
+      TANKMAN UGH instance 10013: 3661688760192256365
+      TANKMAN UGH instance 10014: 2139674249968452934
+      TANKMAN UGH instance 10015: -1400366143391459820
+      Tankman DOWN note instance 10000: 1167151447611222831
+      Tankman DOWN note instance 10001: 5411355648420050105
+      Tankman DOWN note instance 10002: 3077620565845235501
+      Tankman DOWN note instance 10003: 4130405087425721685
+      Tankman DOWN note instance 10004: 7763280618107713343
+      Tankman DOWN note instance 10005: 5986867503743457588
+      Tankman DOWN note instance 10006: -36513452018158006
+      Tankman DOWN note instance 10007: 4390500952205408644
+      Tankman DOWN note instance 10008: 1245072024662184741
+      Tankman DOWN note instance 10009: -8157613350749757258
+      Tankman Idle Dance instance 10000: -8341394115645346535
+      Tankman Idle Dance instance 10001: 5194055753166639844
+      Tankman Idle Dance instance 10002: 8429783982072541339
+      Tankman Idle Dance instance 10003: 2262096354468552348
+      Tankman Idle Dance instance 10004: 5708053638536737188
+      Tankman Idle Dance instance 10005: -1939325999559510684
+      Tankman Idle Dance instance 10006: -3560574352685102645
+      Tankman Idle Dance instance 10007: -8446604895688905272
+      Tankman Idle Dance instance 10008: -7367969150639805199
+      Tankman Idle Dance instance 10009: -6722195406530193771
+      Tankman Idle Dance instance 10010: 2234868445947466086
+      Tankman Idle Dance instance 10011: -3999131198166721694
+      Tankman Idle Dance instance 10012: -4849466204974490479
+      Tankman Idle Dance instance 10013: 5348661274364242304
+      Tankman Note Left instance 10000: -8995289118505574676
+      Tankman Note Left instance 10001: 5112055438851512676
+      Tankman Note Left instance 10002: -4506735955628246432
+      Tankman Note Left instance 10003: -3350737458807280282
+      Tankman Note Left instance 10004: 1880067988615312143
+      Tankman Note Left instance 10005: 465755314601468796
+      Tankman Note Left instance 10006: 7436394750978121002
+      Tankman Note Left instance 10007: -8622847041337571984
+      Tankman Right Note instance 10000: -7330060513061348659
+      Tankman Right Note instance 10001: -1146021552981503312
+      Tankman Right Note instance 10002: -946134188324307789
+      Tankman Right Note instance 10003: -4928726158009264803
+      Tankman Right Note instance 10004: -8294021478467768508
+      Tankman Right Note instance 10005: 396625657256660648
+      Tankman Right Note instance 10006: 8349666546671474092
+      Tankman Right Note instance 10007: -2272208212139486750
+      Tankman Right Note instance 10008: -6879151343162803685
+      Tankman Right Note instance 10009: 6217207540882911230
+      Tankman UP note instance 10000: 606109806168824991
+      Tankman UP note instance 10001: 198614329077880941
+      Tankman UP note instance 10002: -7487893781186898293
+      Tankman UP note instance 10003: 8036760203634529051
+      Tankman UP note instance 10004: 215707683395905040
+      Tankman UP note instance 10005: 5766338393182470649
+      Tankman UP note instance 10006: -1409882618492947957
+      Tankman UP note instance 10007: 8302074154238558033
+      Tankman UP note instance 10008: -772688333696094276
+      Tankman UP note instance 10009: 8055167374630624823
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

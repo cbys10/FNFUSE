@@ -1,0 +1,11 @@
+{
+    "title": "DADDY DEAREST",
+    "songs":["Bopbeebo","Fresh","Dadbattle"],
+    "diffs": ["easy","normal","hard"],
+    "story":{
+        "op": "dad",
+        "bf": "bf",
+        "gf": "gf",
+        "titleImg": "1.png"
+    }
+}

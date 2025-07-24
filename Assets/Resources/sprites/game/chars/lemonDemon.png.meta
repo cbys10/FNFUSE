@@ -1,0 +1,2415 @@
+fileFormatVersion: 2
+guid: e12f5407d88b7ae44a9425bffc21615e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: monster down0000
+      rect:
+        serializedVersion: 2
+        x: 3367
+        y: 2824
+        width: 428
+        height: 571
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877027b0a12499de0800000000000000
+      internalID: -1325955935655295112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster down0001
+      rect:
+        serializedVersion: 2
+        x: 3367
+        y: 2824
+        width: 428
+        height: 571
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae12099f9cb72f20800000000000000
+      internalID: 3397891837527203501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster down0002
+      rect:
+        serializedVersion: 2
+        x: 3805
+        y: 2807
+        width: 434
+        height: 588
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e744080174cb1920800000000000000
+      internalID: 2962177169671079904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster down0003
+      rect:
+        serializedVersion: 2
+        x: 4249
+        y: 2807
+        width: 434
+        height: 588
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2228cb801c116f5d0800000000000000
+      internalID: -3029214178587147742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster down0004
+      rect:
+        serializedVersion: 2
+        x: 4693
+        y: 2807
+        width: 434
+        height: 588
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec60423a64eb97ca0800000000000000
+      internalID: -6018570216409921842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster down0005
+      rect:
+        serializedVersion: 2
+        x: 5137
+        y: 2807
+        width: 434
+        height: 588
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0684dba173c0ccc80800000000000000
+      internalID: -8301246582339319712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster down0006
+      rect:
+        serializedVersion: 2
+        x: 5581
+        y: 2807
+        width: 434
+        height: 588
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64512918b3bfd8540800000000000000
+      internalID: 5011938193328706886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster down0007
+      rect:
+        serializedVersion: 2
+        x: 6025
+        y: 2807
+        width: 434
+        height: 588
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e3df222b2735f20800000000000000
+      internalID: 3410195452266364485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster down0008
+      rect:
+        serializedVersion: 2
+        x: 6469
+        y: 2807
+        width: 434
+        height: 588
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963f157023c1b8bb0800000000000000
+      internalID: -4932817965657492631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster down0009
+      rect:
+        serializedVersion: 2
+        x: 6913
+        y: 2807
+        width: 434
+        height: 588
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0428365416f1ab950800000000000000
+      internalID: 6465514717680206400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster down0010
+      rect:
+        serializedVersion: 2
+        x: 7357
+        y: 2807
+        width: 434
+        height: 588
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cbb564ccd40368f0800000000000000
+      internalID: -548589383374750783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster down0011
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2128
+        width: 434
+        height: 588
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbb9e581cb5e38c0800000000000000
+      internalID: -4017672930834400324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster down0012
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 2128
+        width: 434
+        height: 588
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa92575e55b353650800000000000000
+      internalID: 6211936501135387055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster down0013
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 2128
+        width: 434
+        height: 588
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd258a1e59f032fa0800000000000000
+      internalID: -5826796356476841249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster down0014
+      rect:
+        serializedVersion: 2
+        x: 3805
+        y: 2807
+        width: 434
+        height: 588
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd2c3797cd726280800000000000000
+      internalID: -9051534004872008204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster down0015
+      rect:
+        serializedVersion: 2
+        x: 4249
+        y: 2807
+        width: 434
+        height: 588
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc068ea52df31acc0800000000000000
+      internalID: -3701607246020976437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster down0016
+      rect:
+        serializedVersion: 2
+        x: 4693
+        y: 2807
+        width: 434
+        height: 588
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9698e1d36e9ae12c0800000000000000
+      internalID: -4458939774717228695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster down0017
+      rect:
+        serializedVersion: 2
+        x: 5137
+        y: 2807
+        width: 434
+        height: 588
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b21dfcd4a795060800000000000000
+      internalID: 6942714775185992542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster down0018
+      rect:
+        serializedVersion: 2
+        x: 5581
+        y: 2807
+        width: 434
+        height: 588
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17d495e26d2baad0800000000000000
+      internalID: -2690006449641957603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster down0019
+      rect:
+        serializedVersion: 2
+        x: 6025
+        y: 2807
+        width: 434
+        height: 588
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276feb6699fdc7110800000000000000
+      internalID: 1260127845703677554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster down0020
+      rect:
+        serializedVersion: 2
+        x: 6469
+        y: 2807
+        width: 434
+        height: 588
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad21e228b6b2c60a0800000000000000
+      internalID: -6887081989410778406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster down0021
+      rect:
+        serializedVersion: 2
+        x: 6913
+        y: 2807
+        width: 434
+        height: 588
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b5955e0a5bd54b0800000000000000
+      internalID: -5450000271401198702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster down0022
+      rect:
+        serializedVersion: 2
+        x: 4249
+        y: 2807
+        width: 434
+        height: 588
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8e4e1e64736c2b0800000000000000
+      internalID: -5564699511992555331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster down0023
+      rect:
+        serializedVersion: 2
+        x: 4249
+        y: 2807
+        width: 434
+        height: 588
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232e4084fd0480680800000000000000
+      internalID: -8788703345083358670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster down0024
+      rect:
+        serializedVersion: 2
+        x: 6913
+        y: 2807
+        width: 434
+        height: 588
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f8152397c437990800000000000000
+      internalID: -7389478480165892299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster down0025
+      rect:
+        serializedVersion: 2
+        x: 6913
+        y: 2807
+        width: 434
+        height: 588
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd758bcd211a77b0800000000000000
+      internalID: -5225845529224315455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster down0026
+      rect:
+        serializedVersion: 2
+        x: 4249
+        y: 2807
+        width: 434
+        height: 588
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e3af60e3515d620800000000000000
+      internalID: 2798166099629850156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster down0027
+      rect:
+        serializedVersion: 2
+        x: 4249
+        y: 2807
+        width: 434
+        height: 588
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f5cb317ca02a4c0800000000000000
+      internalID: -4277844845902668008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster down0028
+      rect:
+        serializedVersion: 2
+        x: 6913
+        y: 2807
+        width: 434
+        height: 588
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fefab32756c09f90800000000000000
+      internalID: -6948836147468763402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster down0029
+      rect:
+        serializedVersion: 2
+        x: 6913
+        y: 2807
+        width: 434
+        height: 588
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1e00708c6288450800000000000000
+      internalID: 6091161136571408881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster idle0000
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 2113
+        width: 424
+        height: 603
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a777e546104584bc0800000000000000
+      internalID: -3798693920731400326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster idle0001
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 2114
+        width: 424
+        height: 602
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14532b5570abeb280800000000000000
+      internalID: -9025572062538615487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster idle0002
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 2109
+        width: 422
+        height: 607
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10526ecb4c013d400800000000000000
+      internalID: 347640033406493953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster idle0003
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 2109
+        width: 422
+        height: 607
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87ecf2f885764490800000000000000
+      internalID: -7762387676673808502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster idle0004
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 2106
+        width: 439
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c9fe8709ea50d70800000000000000
+      internalID: 9008798565152038041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster idle0005
+      rect:
+        serializedVersion: 2
+        x: 3513
+        y: 2086
+        width: 439
+        height: 630
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0cc715dc71083e0800000000000000
+      internalID: -2053615259478081300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster idle0006
+      rect:
+        serializedVersion: 2
+        x: 3962
+        y: 2056
+        width: 481
+        height: 660
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbbe7097bfd3ecb0800000000000000
+      internalID: -4835775595369546799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster idle0007
+      rect:
+        serializedVersion: 2
+        x: 4453
+        y: 2056
+        width: 481
+        height: 660
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4bd5ecdf2bfe9320800000000000000
+      internalID: 2566765020635847500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster idle0008
+      rect:
+        serializedVersion: 2
+        x: 4944
+        y: 2045
+        width: 484
+        height: 671
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c98bd59404f49e70800000000000000
+      internalID: 9121183445863336393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster idle0009
+      rect:
+        serializedVersion: 2
+        x: 5438
+        y: 2045
+        width: 484
+        height: 671
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274276e4a3085bf10800000000000000
+      internalID: 2284873373872235634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster idle0010
+      rect:
+        serializedVersion: 2
+        x: 5932
+        y: 2043
+        width: 484
+        height: 673
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713d742b5f8239040800000000000000
+      internalID: 4653107875727004439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster idle0011
+      rect:
+        serializedVersion: 2
+        x: 6426
+        y: 2043
+        width: 484
+        height: 673
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3af4952d0b9f110800000000000000
+      internalID: 1295260785333740465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster idle0012
+      rect:
+        serializedVersion: 2
+        x: 6920
+        y: 2043
+        width: 484
+        height: 673
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3820875acd0d90550800000000000000
+      internalID: 6127658414101758595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster idle0013
+      rect:
+        serializedVersion: 2
+        x: 7414
+        y: 2043
+        width: 484
+        height: 673
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2860d8e5b67a7c690800000000000000
+      internalID: -7581907368065300862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster idle0014
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1360
+        width: 484
+        height: 673
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d398cc7db0cd4940800000000000000
+      internalID: 5282089858050331600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster left note0000
+      rect:
+        serializedVersion: 2
+        x: 5077
+        y: 3421
+        width: 460
+        height: 675
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e184fc0d64abe80800000000000000
+      internalID: -8162133512010850690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster left note0001
+      rect:
+        serializedVersion: 2
+        x: 5077
+        y: 3421
+        width: 460
+        height: 675
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0ff2b28aa705530800000000000000
+      internalID: 3841705344844689582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster left note0002
+      rect:
+        serializedVersion: 2
+        x: 5547
+        y: 3427
+        width: 471
+        height: 669
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb8522c290209f50800000000000000
+      internalID: 6886039644944042994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster left note0003
+      rect:
+        serializedVersion: 2
+        x: 6028
+        y: 3427
+        width: 471
+        height: 669
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70cb9d552692daa70800000000000000
+      internalID: 8839767145922018311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster left note0004
+      rect:
+        serializedVersion: 2
+        x: 6509
+        y: 3427
+        width: 471
+        height: 669
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ac8c850d6f377f0800000000000000
+      internalID: -615877349316441514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster left note0005
+      rect:
+        serializedVersion: 2
+        x: 6990
+        y: 3427
+        width: 471
+        height: 669
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb50fea88039eb60800000000000000
+      internalID: 7775799595240545258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster left note0006
+      rect:
+        serializedVersion: 2
+        x: 7471
+        y: 3427
+        width: 471
+        height: 669
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661009806335c5b60800000000000000
+      internalID: 7736149751452664166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster left note0007
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2726
+        width: 471
+        height: 669
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d28f3985c47e620800000000000000
+      internalID: 2803293236384771398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster left note0008
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 2726
+        width: 471
+        height: 669
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78288fa7501d49030800000000000000
+      internalID: 3500652631841866375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster left note0009
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 2726
+        width: 471
+        height: 669
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c9f42d22097baf0800000000000000
+      internalID: -380677164257797090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster left note0010
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 2726
+        width: 471
+        height: 669
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e084b1e1836cfe50800000000000000
+      internalID: 6844454943184945380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster left note0011
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 2726
+        width: 471
+        height: 669
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246c5d4213d83d450800000000000000
+      internalID: 6112384361482798658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster left note0012
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 2726
+        width: 471
+        height: 669
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3cd122fa64f20140800000000000000
+      internalID: 4684575302584753215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster left note0013
+      rect:
+        serializedVersion: 2
+        x: 2886
+        y: 2726
+        width: 471
+        height: 669
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb70f6dd669322e0800000000000000
+      internalID: -2151710798451278919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster left note0014
+      rect:
+        serializedVersion: 2
+        x: 5547
+        y: 3427
+        width: 471
+        height: 669
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e3299e0a4c07cc0800000000000000
+      internalID: -3715253497188172131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster left note0015
+      rect:
+        serializedVersion: 2
+        x: 6028
+        y: 3427
+        width: 471
+        height: 669
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075e4fd6f10c87fe0800000000000000
+      internalID: -1190990860218210960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster left note0016
+      rect:
+        serializedVersion: 2
+        x: 6509
+        y: 3427
+        width: 471
+        height: 669
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66dac4ba5a4f11c20800000000000000
+      internalID: 3175588204653620582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster left note0017
+      rect:
+        serializedVersion: 2
+        x: 6990
+        y: 3427
+        width: 471
+        height: 669
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1566bcc9225aa3e0800000000000000
+      internalID: -2041729141577456355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster left note0018
+      rect:
+        serializedVersion: 2
+        x: 7471
+        y: 3427
+        width: 471
+        height: 669
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e6ea564c754b2c0800000000000000
+      internalID: -4416808833512477101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster left note0019
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2726
+        width: 471
+        height: 669
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72282fca606e90e90800000000000000
+      internalID: -7058858024580775385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Right note0000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3405
+        width: 375
+        height: 691
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c105d9f519e462590800000000000000
+      internalID: -7699380126661914596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Right note0001
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3405
+        width: 375
+        height: 691
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89cc4bcccb7b46f0800000000000000
+      internalID: -699329197611628147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Right note0002
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 3416
+        width: 381
+        height: 680
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4516379a60212f0800000000000000
+      internalID: -1003732442095201043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Right note0003
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 3417
+        width: 381
+        height: 679
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853c6744617530180800000000000000
+      internalID: -9150374264737184936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Right note0004
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 3416
+        width: 381
+        height: 680
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60912d0c4e47ce0d0800000000000000
+      internalID: -3392207893480466170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Right note0005
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 3417
+        width: 381
+        height: 679
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb160eaf7b3a57010800000000000000
+      internalID: 1186034087465345468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Right note0006
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 3416
+        width: 381
+        height: 680
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634241744e9040de0800000000000000
+      internalID: -1367957510764092362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Right note0007
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 3417
+        width: 381
+        height: 679
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5bfe1800ed05880800000000000000
+      internalID: -8624149192653163081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Right note0008
+      rect:
+        serializedVersion: 2
+        x: 2731
+        y: 3416
+        width: 381
+        height: 680
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c32a167dd28c81e0800000000000000
+      internalID: -2194235030755466303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Right note0009
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 3417
+        width: 381
+        height: 679
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de71779856cb87180800000000000000
+      internalID: -9117330301327566867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Right note0010
+      rect:
+        serializedVersion: 2
+        x: 3513
+        y: 3416
+        width: 381
+        height: 680
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52de68023063955f0800000000000000
+      internalID: -767522874431443675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Right note0011
+      rect:
+        serializedVersion: 2
+        x: 3904
+        y: 3417
+        width: 381
+        height: 679
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bd9a996473531b0800000000000000
+      internalID: -5677570978865358001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Right note0012
+      rect:
+        serializedVersion: 2
+        x: 4295
+        y: 3416
+        width: 381
+        height: 680
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587e1c600594203b0800000000000000
+      internalID: -5547791182907447419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Right note0013
+      rect:
+        serializedVersion: 2
+        x: 4686
+        y: 3417
+        width: 381
+        height: 679
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b497989b115752f20800000000000000
+      internalID: 3397250212908595531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Right note0014
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 3416
+        width: 381
+        height: 680
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4879876ea5aad7310800000000000000
+      internalID: 1404465966199904132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster up note0000
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1280
+        width: 410
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb50be071c694d40800000000000000
+      internalID: 5569101260506815420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster up note0001
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1280
+        width: 410
+        height: 753
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de1e3f783abf7140800000000000000
+      internalID: 4719695686323281620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster up note0002
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1312
+        width: 418
+        height: 721
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f19918b73635dc0800000000000000
+      internalID: -3651465490760917179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster up note0003
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 1312
+        width: 418
+        height: 721
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211fe99e73e530750800000000000000
+      internalID: 6269958700465582354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster up note0004
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 1312
+        width: 418
+        height: 721
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ebd020bd1b353d0800000000000000
+      internalID: -3219033754449363400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster up note0005
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 1312
+        width: 418
+        height: 721
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f17baf68ee595c50800000000000000
+      internalID: 6654454276815548916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster up note0006
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 1312
+        width: 418
+        height: 721
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d49c594060e2ad0800000000000000
+      internalID: -2725234107749937819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster up note0007
+      rect:
+        serializedVersion: 2
+        x: 3054
+        y: 1312
+        width: 418
+        height: 721
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de646276b7c3cd870800000000000000
+      internalID: 8708902280136902381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster up note0008
+      rect:
+        serializedVersion: 2
+        x: 3482
+        y: 1312
+        width: 418
+        height: 721
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68bf85eacd1eb5f00800000000000000
+      internalID: 1106726471383710598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster up note0009
+      rect:
+        serializedVersion: 2
+        x: 3910
+        y: 1312
+        width: 418
+        height: 721
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e908a348b216f430800000000000000
+      internalID: 3816258316861442534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster up note0010
+      rect:
+        serializedVersion: 2
+        x: 4338
+        y: 1312
+        width: 418
+        height: 721
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00d95ce6e3611500800000000000000
+      internalID: 365182888252657678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster up note0011
+      rect:
+        serializedVersion: 2
+        x: 4766
+        y: 1312
+        width: 418
+        height: 721
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13564d22e6f36ce20800000000000000
+      internalID: 3370451113396692273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster up note0012
+      rect:
+        serializedVersion: 2
+        x: 5194
+        y: 1312
+        width: 418
+        height: 721
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc276f655678a16c0800000000000000
+      internalID: -4171873235484904756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster up note0013
+      rect:
+        serializedVersion: 2
+        x: 5622
+        y: 1312
+        width: 418
+        height: 721
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1faa3587f8fbe660800000000000000
+      internalID: 7416294953371479837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster up note0014
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1312
+        width: 418
+        height: 721
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c562271ae89e8690800000000000000
+      internalID: -7597967390149548603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster up note0015
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 1312
+        width: 418
+        height: 721
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5b820c3f1de74f0800000000000000
+      internalID: -828994436558441018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster up note0016
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 1312
+        width: 418
+        height: 721
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4578e64dce0ad6580800000000000000
+      internalID: -8832226355166935212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster up note0017
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 1312
+        width: 418
+        height: 721
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0615c2830d408f410800000000000000
+      internalID: 1510962967324938592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster up note0018
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 1312
+        width: 418
+        height: 721
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe022fd50643c11c0800000000000000
+      internalID: -4531689536543907601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster up note0019
+      rect:
+        serializedVersion: 2
+        x: 3054
+        y: 1312
+        width: 418
+        height: 721
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e50f2a15fe00cd50800000000000000
+      internalID: 6755415886924809705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster up note0020
+      rect:
+        serializedVersion: 2
+        x: 3482
+        y: 1312
+        width: 418
+        height: 721
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93eb1ed00590d4d60800000000000000
+      internalID: 7875961562775797305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster up note0021
+      rect:
+        serializedVersion: 2
+        x: 3910
+        y: 1312
+        width: 418
+        height: 721
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d4cc7cc6507b580800000000000000
+      internalID: -8811568181160424084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster up note0022
+      rect:
+        serializedVersion: 2
+        x: 4338
+        y: 1312
+        width: 418
+        height: 721
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2577d0b1718b61530800000000000000
+      internalID: 3825447342875440978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster up note0023
+      rect:
+        serializedVersion: 2
+        x: 4766
+        y: 1312
+        width: 418
+        height: 721
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5920f1926bc304c0800000000000000
+      internalID: -4322387593129875107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster Right note0000: -7699380126661914596
+      Monster Right note0001: -699329197611628147
+      Monster Right note0002: -1003732442095201043
+      Monster Right note0003: -9150374264737184936
+      Monster Right note0004: -3392207893480466170
+      Monster Right note0005: 1186034087465345468
+      Monster Right note0006: -1367957510764092362
+      Monster Right note0007: -8624149192653163081
+      Monster Right note0008: -2194235030755466303
+      Monster Right note0009: -9117330301327566867
+      Monster Right note0010: -767522874431443675
+      Monster Right note0011: -5677570978865358001
+      Monster Right note0012: -5547791182907447419
+      Monster Right note0013: 3397250212908595531
+      Monster Right note0014: 1404465966199904132
+      Monster left note0000: -8162133512010850690
+      Monster left note0001: 3841705344844689582
+      Monster left note0002: 6886039644944042994
+      Monster left note0003: 8839767145922018311
+      Monster left note0004: -615877349316441514
+      Monster left note0005: 7775799595240545258
+      Monster left note0006: 7736149751452664166
+      Monster left note0007: 2803293236384771398
+      Monster left note0008: 3500652631841866375
+      Monster left note0009: -380677164257797090
+      Monster left note0010: 6844454943184945380
+      Monster left note0011: 6112384361482798658
+      Monster left note0012: 4684575302584753215
+      Monster left note0013: -2151710798451278919
+      Monster left note0014: -3715253497188172131
+      Monster left note0015: -1190990860218210960
+      Monster left note0016: 3175588204653620582
+      Monster left note0017: -2041729141577456355
+      Monster left note0018: -4416808833512477101
+      Monster left note0019: -7058858024580775385
+      monster down0000: -1325955935655295112
+      monster down0001: 3397891837527203501
+      monster down0002: 2962177169671079904
+      monster down0003: -3029214178587147742
+      monster down0004: -6018570216409921842
+      monster down0005: -8301246582339319712
+      monster down0006: 5011938193328706886
+      monster down0007: 3410195452266364485
+      monster down0008: -4932817965657492631
+      monster down0009: 6465514717680206400
+      monster down0010: -548589383374750783
+      monster down0011: -4017672930834400324
+      monster down0012: 6211936501135387055
+      monster down0013: -5826796356476841249
+      monster down0014: -9051534004872008204
+      monster down0015: -3701607246020976437
+      monster down0016: -4458939774717228695
+      monster down0017: 6942714775185992542
+      monster down0018: -2690006449641957603
+      monster down0019: 1260127845703677554
+      monster down0020: -6887081989410778406
+      monster down0021: -5450000271401198702
+      monster down0022: -5564699511992555331
+      monster down0023: -8788703345083358670
+      monster down0024: -7389478480165892299
+      monster down0025: -5225845529224315455
+      monster down0026: 2798166099629850156
+      monster down0027: -4277844845902668008
+      monster down0028: -6948836147468763402
+      monster down0029: 6091161136571408881
+      monster idle0000: -3798693920731400326
+      monster idle0001: -9025572062538615487
+      monster idle0002: 347640033406493953
+      monster idle0003: -7762387676673808502
+      monster idle0004: 9008798565152038041
+      monster idle0005: -2053615259478081300
+      monster idle0006: -4835775595369546799
+      monster idle0007: 2566765020635847500
+      monster idle0008: 9121183445863336393
+      monster idle0009: 2284873373872235634
+      monster idle0010: 4653107875727004439
+      monster idle0011: 1295260785333740465
+      monster idle0012: 6127658414101758595
+      monster idle0013: -7581907368065300862
+      monster idle0014: 5282089858050331600
+      monster up note0000: 5569101260506815420
+      monster up note0001: 4719695686323281620
+      monster up note0002: -3651465490760917179
+      monster up note0003: 6269958700465582354
+      monster up note0004: -3219033754449363400
+      monster up note0005: 6654454276815548916
+      monster up note0006: -2725234107749937819
+      monster up note0007: 8708902280136902381
+      monster up note0008: 1106726471383710598
+      monster up note0009: 3816258316861442534
+      monster up note0010: 365182888252657678
+      monster up note0011: 3370451113396692273
+      monster up note0012: -4171873235484904756
+      monster up note0013: 7416294953371479837
+      monster up note0014: -7597967390149548603
+      monster up note0015: -828994436558441018
+      monster up note0016: -8832226355166935212
+      monster up note0017: 1510962967324938592
+      monster up note0018: -4531689536543907601
+      monster up note0019: 6755415886924809705
+      monster up note0020: 7875961562775797305
+      monster up note0021: -8811568181160424084
+      monster up note0022: 3825447342875440978
+      monster up note0023: -4322387593129875107
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

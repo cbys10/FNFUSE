@@ -1,0 +1,1887 @@
+fileFormatVersion: 2
+guid: 61c658c2a969ccb44a700feeb290ff7b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hench arm spin 10000
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1903
+        width: 92
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05377b16f32dd1160800000000000000
+      internalID: 6997980565667803984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench arm spin 10001
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1903
+        width: 92
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810b82b9ced7b5730800000000000000
+      internalID: 3988920350135595032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench arm spin 10002
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1949
+        width: 140
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d39826f76fd5aa60800000000000000
+      internalID: 7684793976782099411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench arm spin 10003
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1949
+        width: 140
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f04cadbff56bb50800000000000000
+      internalID: 6608575038524493654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench arm spin 10004
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1905
+        width: 95
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7cb8f6715157c00800000000000000
+      internalID: 897646891130144681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench arm spin 10005
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1905
+        width: 95
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a672a5407524e20800000000000000
+      internalID: 3333322350411606568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench arm spin 10006
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1938
+        width: 131
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b93a0f1443fa0820800000000000000
+      internalID: 2885385985188313522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench arm spin 10007
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1938
+        width: 131
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa42cbb9a564db350800000000000000
+      internalID: 6034056430720132266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench arm spin 20000
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1913
+        width: 121
+        height: 131
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212db6de41e00a9d0800000000000000
+      internalID: -2765194688160083438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench arm spin 20001
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1913
+        width: 121
+        height: 131
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e74ac43ca49f600800000000000000
+      internalID: 502515036093447759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench arm spin 20002
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1930
+        width: 134
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785d3a79e1b7dbb80800000000000000
+      internalID: -8377404360515922553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench arm spin 20003
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1930
+        width: 134
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2a1f3b13383f010800000000000000
+      internalID: 1221464173443130060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench arm spin 20004
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1913
+        width: 121
+        height: 131
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1835cc78dd4ca15d0800000000000000
+      internalID: -3090941738491292799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench arm spin 20005
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1913
+        width: 121
+        height: 131
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e34a99d8b99aca0800000000000000
+      internalID: -6005097595651473906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench arm spin 20006
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1924
+        width: 131
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4660051715fa2d060800000000000000
+      internalID: 6976831537078601316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench arm spin 20007
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1924
+        width: 131
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399704ffab83d7030800000000000000
+      internalID: 3494011261706860947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench dancing0000
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1650
+        width: 394
+        height: 394
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7d938a3c5c9b0c0800000000000000
+      internalID: -4559395703604258911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench dancing0001
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1650
+        width: 394
+        height: 394
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155f8ffda8e155c80800000000000000
+      internalID: -8334721953567279791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench dancing0002
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 1653
+        width: 394
+        height: 391
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d912e4eacb5892820800000000000000
+      internalID: 2893991280986956189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench dancing0003
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 1653
+        width: 394
+        height: 391
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7732e45f17478eda0800000000000000
+      internalID: -5915350077755481225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench dancing0004
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 1653
+        width: 394
+        height: 391
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c7602785c8cffc0800000000000000
+      internalID: -3459736102229345181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench dancing0005
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1256
+        width: 395
+        height: 390
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6004c2e3c6ddd03a0800000000000000
+      internalID: -6697453613860765690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench dancing0006
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1256
+        width: 395
+        height: 390
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebbd140af8ce8550800000000000000
+      internalID: 6165085916053224419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench dancing0007
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1261
+        width: 389
+        height: 385
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1d6f5867217e8a0800000000000000
+      internalID: -6276027255454510684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench dancing0008
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1261
+        width: 389
+        height: 385
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16e079988bb2f960800000000000000
+      internalID: 7634370513710671386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench dancing0009
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1288
+        width: 249
+        height: 358
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b780ad8cf42d42970800000000000000
+      internalID: 8729333217864845435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench dancing0010
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1288
+        width: 249
+        height: 358
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7f2209ee6a43260800000000000000
+      internalID: 7076464458056529876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench dancing0011
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1284
+        width: 251
+        height: 362
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be19d20a0ea6f370800000000000000
+      internalID: 8356057516653223604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench dancing0012
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1284
+        width: 251
+        height: 362
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fd6ceddaff37d30800000000000000
+      internalID: 4428163980867329843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench dancing0013
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1284
+        width: 251
+        height: 362
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f6ed77711864260800000000000000
+      internalID: 7081489401881980727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench dancing0014
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1284
+        width: 251
+        height: 362
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d870ced02fa1e6d30800000000000000
+      internalID: 4426505110669756301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench dancing0015
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 1236
+        width: 404
+        height: 410
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc595b39cb1159140800000000000000
+      internalID: 4725702885624878541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench dancing0016
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 1236
+        width: 404
+        height: 410
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffdebb2d203911020800000000000000
+      internalID: 2310789724152524287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench dancing0017
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 828
+        width: 394
+        height: 404
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee06d6ce2479431e0800000000000000
+      internalID: -2218982402696584978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench dancing0018
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 828
+        width: 394
+        height: 404
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea3c7bc4b486d3d0800000000000000
+      internalID: -3182210174647780638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench dancing0019
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 828
+        width: 394
+        height: 404
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d02fef44a4e32dd0800000000000000
+      internalID: -2511912772775763760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench dancing0020
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 828
+        width: 395
+        height: 404
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b684a8bf0298fb2b0800000000000000
+      internalID: -5566579839654541205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench dancing0021
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 828
+        width: 395
+        height: 404
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c5508e4e1ab7a80800000000000000
+      internalID: -8467996669822804911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench dancing0022
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 830
+        width: 395
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1257dcca34c83ba10800000000000000
+      internalID: 1924035688107177249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench dancing0023
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 830
+        width: 395
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08df44ebb90f9e860800000000000000
+      internalID: 7559838001220877696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench dancing0024
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 871
+        width: 254
+        height: 361
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21f7f97763e83e60800000000000000
+      internalID: 7942347976435298604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench dancing0025
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 871
+        width: 254
+        height: 361
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99b6fbedf0da9160800000000000000
+      internalID: 7033163557096569243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench dancing0026
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 871
+        width: 254
+        height: 361
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b876bf4f81504e3d0800000000000000
+      internalID: -3178409832269256821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench dancing0027
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 871
+        width: 254
+        height: 361
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78534d5c2e74f6090800000000000000
+      internalID: -8039127770525846137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench dancing0028
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 871
+        width: 254
+        height: 361
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38959f13895e0acf0800000000000000
+      internalID: -242941938041792125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench dancing0029
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 871
+        width: 254
+        height: 361
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0b9c715d9d44250800000000000000
+      internalID: 5928102518776770781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench head spin 10000
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1018
+        width: 160
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09fd4cc88059e3350800000000000000
+      internalID: 5998395617658068880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench head spin 10001
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1018
+        width: 160
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a2ed4fb7bcfb590800000000000000
+      internalID: -7656177108256937319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench head spin 10002
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 657
+        width: 222
+        height: 167
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612eb6bde3221a6c0800000000000000
+      internalID: -4133985329584807402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench head spin 10003
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 657
+        width: 222
+        height: 167
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74743cffb0f8ef70800000000000000
+      internalID: 9216881344774435963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench head spin 10004
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 607
+        width: 160
+        height: 217
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f906642f701beb390800000000000000
+      internalID: -7800602856871534433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench head spin 10005
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 607
+        width: 160
+        height: 217
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25a4f10f99756430800000000000000
+      internalID: 3775557586459600170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench head spin 10006
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 650
+        width: 223
+        height: 174
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd5fc59f8fc4ef20800000000000000
+      internalID: 3451111430073310645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench head spin 10007
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 650
+        width: 223
+        height: 174
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a640486a068b4cf0800000000000000
+      internalID: -266972373641574743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench head spin 20000
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 590
+        width: 157
+        height: 234
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68eddf882d5c4e300800000000000000
+      internalID: 280566584835956358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench head spin 20001
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 590
+        width: 157
+        height: 234
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305510c5d1a80f710800000000000000
+      internalID: 1725030515985175811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench head spin 20002
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 654
+        width: 211
+        height: 170
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ceada4989123dac0800000000000000
+      internalID: -3831681918749004087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench head spin 20003
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 654
+        width: 211
+        height: 170
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3e499ed4aaeddf0800000000000000
+      internalID: -153498085675965519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench head spin 20004
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 616
+        width: 171
+        height: 208
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f4af2da90089400800000000000000
+      internalID: 331015237576314747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench head spin 20005
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 616
+        width: 171
+        height: 208
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9367ac07681be2070800000000000000
+      internalID: 8083593572152669753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench head spin 20006
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 651
+        width: 204
+        height: 173
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc2e62455c6ea890800000000000000
+      internalID: -7444894020554314566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench head spin 20007
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 651
+        width: 204
+        height: 173
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2537ceb9e7e362f0800000000000000
+      internalID: -980685302722513617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench hit 10000
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 444
+        width: 434
+        height: 380
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33afc491160b73400800000000000000
+      internalID: 303905430953589299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench hit 20000
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 136
+        width: 265
+        height: 304
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1de073b374ae280800000000000000
+      internalID: -9013313384576265788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench leg spin 10000
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 329
+        width: 158
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385e3870c20ba46f0800000000000000
+      internalID: -699553088951556733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench leg spin 10001
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 329
+        width: 158
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723d4db96a5334530800000000000000
+      internalID: 3837970297145053991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench leg spin 10002
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 276
+        width: 129
+        height: 164
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4b096ef30b668b0800000000000000
+      internalID: -5159242534608653129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench leg spin 10003
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 276
+        width: 129
+        height: 164
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7dd38f640367a300800000000000000
+      internalID: 263287973926395259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench leg spin 10004
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 314
+        width: 165
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4b24fb4f6357880800000000000000
+      internalID: -8613918287467465520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench leg spin 10005
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 314
+        width: 165
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c13964f239c9acb0800000000000000
+      internalID: -4852125902828916281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench leg spin 10006
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 274
+        width: 117
+        height: 166
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04d17b04fb92d880800000000000000
+      internalID: -8587630066975779826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench leg spin 10007
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 274
+        width: 117
+        height: 166
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4adcd81135be1a520800000000000000
+      internalID: 2711707192663068068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench leg spin 20000
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 314
+        width: 143
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c74ed3936fd195a0800000000000000
+      internalID: -6516181567052822586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench leg spin 20001
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 314
+        width: 143
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d6971a232cda000800000000000000
+      internalID: 48908693684186434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench leg spin 20002
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 297
+        width: 137
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b365eb62770c9210800000000000000
+      internalID: 1340954977067426743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench leg spin 20003
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 297
+        width: 137
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28e5dec691c468b0800000000000000
+      internalID: -5159786419600365525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench leg spin 20004
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 300
+        width: 142
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de71345d971aed00800000000000000
+      internalID: 1002639831533190864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench leg spin 20005
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 300
+        width: 142
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06c0d99ed11bd5a0800000000000000
+      internalID: -6495578389790800371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench leg spin 20006
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 298
+        width: 140
+        height: 142
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b8dae95a8951ce0800000000000000
+      internalID: -1435073069148435554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hench leg spin 20007
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 298
+        width: 140
+        height: 142
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0f1b38e06ff7da0800000000000000
+      internalID: -5944762440906313533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      hench arm spin 10000: 6997980565667803984
+      hench arm spin 10001: 3988920350135595032
+      hench arm spin 10002: 7684793976782099411
+      hench arm spin 10003: 6608575038524493654
+      hench arm spin 10004: 897646891130144681
+      hench arm spin 10005: 3333322350411606568
+      hench arm spin 10006: 2885385985188313522
+      hench arm spin 10007: 6034056430720132266
+      hench arm spin 20000: -2765194688160083438
+      hench arm spin 20001: 502515036093447759
+      hench arm spin 20002: -8377404360515922553
+      hench arm spin 20003: 1221464173443130060
+      hench arm spin 20004: -3090941738491292799
+      hench arm spin 20005: -6005097595651473906
+      hench arm spin 20006: 6976831537078601316
+      hench arm spin 20007: 3494011261706860947
+      hench dancing0000: -4559395703604258911
+      hench dancing0001: -8334721953567279791
+      hench dancing0002: 2893991280986956189
+      hench dancing0003: -5915350077755481225
+      hench dancing0004: -3459736102229345181
+      hench dancing0005: -6697453613860765690
+      hench dancing0006: 6165085916053224419
+      hench dancing0007: -6276027255454510684
+      hench dancing0008: 7634370513710671386
+      hench dancing0009: 8729333217864845435
+      hench dancing0010: 7076464458056529876
+      hench dancing0011: 8356057516653223604
+      hench dancing0012: 4428163980867329843
+      hench dancing0013: 7081489401881980727
+      hench dancing0014: 4426505110669756301
+      hench dancing0015: 4725702885624878541
+      hench dancing0016: 2310789724152524287
+      hench dancing0017: -2218982402696584978
+      hench dancing0018: -3182210174647780638
+      hench dancing0019: -2511912772775763760
+      hench dancing0020: -5566579839654541205
+      hench dancing0021: -8467996669822804911
+      hench dancing0022: 1924035688107177249
+      hench dancing0023: 7559838001220877696
+      hench dancing0024: 7942347976435298604
+      hench dancing0025: 7033163557096569243
+      hench dancing0026: -3178409832269256821
+      hench dancing0027: -8039127770525846137
+      hench dancing0028: -242941938041792125
+      hench dancing0029: 5928102518776770781
+      hench head spin 10000: 5998395617658068880
+      hench head spin 10001: -7656177108256937319
+      hench head spin 10002: -4133985329584807402
+      hench head spin 10003: 9216881344774435963
+      hench head spin 10004: -7800602856871534433
+      hench head spin 10005: 3775557586459600170
+      hench head spin 10006: 3451111430073310645
+      hench head spin 10007: -266972373641574743
+      hench head spin 20000: 280566584835956358
+      hench head spin 20001: 1725030515985175811
+      hench head spin 20002: -3831681918749004087
+      hench head spin 20003: -153498085675965519
+      hench head spin 20004: 331015237576314747
+      hench head spin 20005: 8083593572152669753
+      hench head spin 20006: -7444894020554314566
+      hench head spin 20007: -980685302722513617
+      hench hit 10000: 303905430953589299
+      hench hit 20000: -9013313384576265788
+      hench leg spin 10000: -699553088951556733
+      hench leg spin 10001: 3837970297145053991
+      hench leg spin 10002: -5159242534608653129
+      hench leg spin 10003: 263287973926395259
+      hench leg spin 10004: -8613918287467465520
+      hench leg spin 10005: -4852125902828916281
+      hench leg spin 10006: -8587630066975779826
+      hench leg spin 10007: 2711707192663068068
+      hench leg spin 20000: -6516181567052822586
+      hench leg spin 20001: 48908693684186434
+      hench leg spin 20002: 1340954977067426743
+      hench leg spin 20003: -5159786419600365525
+      hench leg spin 20004: 1002639831533190864
+      hench leg spin 20005: -6495578389790800371
+      hench leg spin 20006: -1435073069148435554
+      hench leg spin 20007: -5944762440906313533
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

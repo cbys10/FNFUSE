@@ -1,0 +1,1557 @@
+fileFormatVersion: 2
+guid: 00796ef3aaeb9d149a164a964683688f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GF Crying at Gunpoint 0000
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3466
+        width: 911
+        height: 625
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf25ff0c676f93b0800000000000000
+      internalID: -5503566505801601057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Crying at Gunpoint 0001
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3466
+        width: 911
+        height: 625
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8173ac2cd9ab886f0800000000000000
+      internalID: -682090156805966056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Crying at Gunpoint 0002
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 3462
+        width: 911
+        height: 629
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544fdb8287df0e470800000000000000
+      internalID: 8422009995704267845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Crying at Gunpoint 0003
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 3462
+        width: 911
+        height: 629
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6cfeb2aa2c9482b0800000000000000
+      internalID: -5583165931099587476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Crying at Gunpoint 0004
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 3461
+        width: 911
+        height: 630
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505a3aa9a75a23260800000000000000
+      internalID: 7075899910551479557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Crying at Gunpoint 0005
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 3461
+        width: 911
+        height: 630
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bdaec1c8d48b0600800000000000000
+      internalID: 435587855470734774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Crying at Gunpoint 0006
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 3461
+        width: 911
+        height: 630
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d945785fe395673f0800000000000000
+      internalID: -903436548299074403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Crying at Gunpoint 0007
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 3461
+        width: 911
+        height: 630
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9057a113796466960800000000000000
+      internalID: 7594835436784743689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Crying at Gunpoint 0008
+      rect:
+        serializedVersion: 2
+        x: 3669
+        y: 3461
+        width: 911
+        height: 630
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1019d9215fd5d4a0800000000000000
+      internalID: -6569098941762564066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Crying at Gunpoint 0009
+      rect:
+        serializedVersion: 2
+        x: 3669
+        y: 3461
+        width: 911
+        height: 630
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a276d65a408b06e50800000000000000
+      internalID: 6800637767424239402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Crying at Gunpoint 0010
+      rect:
+        serializedVersion: 2
+        x: 4585
+        y: 3461
+        width: 911
+        height: 630
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c917957a6b82be100800000000000000
+      internalID: 138248978521747868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Crying at Gunpoint 0011
+      rect:
+        serializedVersion: 2
+        x: 4585
+        y: 3461
+        width: 911
+        height: 630
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2292b0e277613f00800000000000000
+      internalID: 1094769927521473070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Crying at Gunpoint 0012
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 3461
+        width: 911
+        height: 630
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12af0897f6edc420800000000000000
+      internalID: 2652029706673562141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Crying at Gunpoint 0013
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 3461
+        width: 911
+        height: 630
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2eda826ffb6e17d0800000000000000
+      internalID: -2945798361639625169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Crying at Gunpoint 0014
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 3461
+        width: 911
+        height: 630
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c23096d917ef1b10800000000000000
+      internalID: 1954534861462057671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Crying at Gunpoint 0015
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 3461
+        width: 911
+        height: 630
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092d3416635de77a0800000000000000
+      internalID: -6377425592773258608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Crying at Gunpoint 0016
+      rect:
+        serializedVersion: 2
+        x: 3669
+        y: 3461
+        width: 911
+        height: 630
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50110165e7ba82440800000000000000
+      internalID: 4911363952745648389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Crying at Gunpoint 0017
+      rect:
+        serializedVersion: 2
+        x: 3669
+        y: 3461
+        width: 911
+        height: 630
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64670ebb012823890800000000000000
+      internalID: -7479773022725835194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Crying at Gunpoint 0018
+      rect:
+        serializedVersion: 2
+        x: 4585
+        y: 3461
+        width: 911
+        height: 630
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8b30c37fea6eea0800000000000000
+      internalID: -5843791089579607884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Crying at Gunpoint 0019
+      rect:
+        serializedVersion: 2
+        x: 4585
+        y: 3461
+        width: 911
+        height: 630
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0755d9866d2790f00800000000000000
+      internalID: 1083523450563024240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Crying at Gunpoint 0020
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 3461
+        width: 911
+        height: 630
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbeb414dd782bfa40800000000000000
+      internalID: 5402956698855194299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Crying at Gunpoint 0021
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 3461
+        width: 911
+        height: 630
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698f0e79fde8fd520800000000000000
+      internalID: 2729056990186764438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Crying at Gunpoint 0022
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 3461
+        width: 911
+        height: 630
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d842a2557306880800000000000000
+      internalID: -8619828847868342974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Crying at Gunpoint 0023
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 3461
+        width: 911
+        height: 630
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c85ef9e58e4c2f30800000000000000
+      internalID: 4552099660428105923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Crying at Gunpoint 0024
+      rect:
+        serializedVersion: 2
+        x: 3669
+        y: 3461
+        width: 911
+        height: 630
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5a39a83646ca860800000000000000
+      internalID: 7542513854628210092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Crying at Gunpoint 0025
+      rect:
+        serializedVersion: 2
+        x: 3669
+        y: 3461
+        width: 911
+        height: 630
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9cb9bf609176320800000000000000
+      internalID: 2551035231710464497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Crying at Gunpoint 0026
+      rect:
+        serializedVersion: 2
+        x: 4585
+        y: 3461
+        width: 911
+        height: 630
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0769ad434b5d550800000000000000
+      internalID: 6185047802361835691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Crying at Gunpoint 0027
+      rect:
+        serializedVersion: 2
+        x: 4585
+        y: 3461
+        width: 911
+        height: 630
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50751cb7016d0c30800000000000000
+      internalID: 4327221502821101658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Crying at Gunpoint 0028
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 3461
+        width: 911
+        height: 630
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4bf9ea8c094f5f70800000000000000
+      internalID: 9178134883823385422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Crying at Gunpoint 0029
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 3461
+        width: 911
+        height: 630
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32547e1b58260370800000000000000
+      internalID: 8288356536040051258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Crying at Gunpoint 0030
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 3461
+        width: 911
+        height: 630
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aad7b28ab24b7710800000000000000
+      internalID: 1692019453832190628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Crying at Gunpoint 0031
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 3461
+        width: 911
+        height: 630
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7aad36b4397d75d0800000000000000
+      internalID: -3063158904239314309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Crying at Gunpoint 0032
+      rect:
+        serializedVersion: 2
+        x: 3669
+        y: 3461
+        width: 911
+        height: 630
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c142233953baa79a0800000000000000
+      internalID: -6234482487549877220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Crying at Gunpoint 0033
+      rect:
+        serializedVersion: 2
+        x: 3669
+        y: 3461
+        width: 911
+        height: 630
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9882269deaf3671d0800000000000000
+      internalID: -3353422852326807415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Crying at Gunpoint 0034
+      rect:
+        serializedVersion: 2
+        x: 4585
+        y: 3461
+        width: 911
+        height: 630
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd139bb5bfcd1bf70800000000000000
+      internalID: 9201378485828399580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing at Gunpoint0000
+      rect:
+        serializedVersion: 2
+        x: 5501
+        y: 3457
+        width: 907
+        height: 634
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d476ec59437bda0800000000000000
+      internalID: -5929212566392320647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing at Gunpoint0001
+      rect:
+        serializedVersion: 2
+        x: 6413
+        y: 3457
+        width: 907
+        height: 634
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839b132868cc8f960800000000000000
+      internalID: 7636078046288656696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing at Gunpoint0002
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2820
+        width: 905
+        height: 632
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90275d74b1cae7c00800000000000000
+      internalID: 900346208689943049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing at Gunpoint0003
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 2820
+        width: 905
+        height: 632
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4ef81fd51c03a80800000000000000
+      internalID: -8489072688364526408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing at Gunpoint0004
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 2817
+        width: 911
+        height: 635
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74728816f976f6f0800000000000000
+      internalID: -651198998228339587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing at Gunpoint0005
+      rect:
+        serializedVersion: 2
+        x: 2741
+        y: 2817
+        width: 911
+        height: 635
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad30bc7c97b77fe0800000000000000
+      internalID: -1191281693681500761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing at Gunpoint0006
+      rect:
+        serializedVersion: 2
+        x: 3657
+        y: 2815
+        width: 911
+        height: 637
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386e194d9bd699cd0800000000000000
+      internalID: -2550887069025966461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing at Gunpoint0007
+      rect:
+        serializedVersion: 2
+        x: 4573
+        y: 2804
+        width: 911
+        height: 648
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3cd1bda07c19010800000000000000
+      internalID: 1193954225669653476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing at Gunpoint0008
+      rect:
+        serializedVersion: 2
+        x: 4573
+        y: 2804
+        width: 911
+        height: 648
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861da5c7116aaeb70800000000000000
+      internalID: 8929131805246411112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing at Gunpoint0009
+      rect:
+        serializedVersion: 2
+        x: 4573
+        y: 2804
+        width: 911
+        height: 648
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cba1e5f4ee0ce0b0800000000000000
+      internalID: -5698163051989980222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing at Gunpoint0010
+      rect:
+        serializedVersion: 2
+        x: 5489
+        y: 2804
+        width: 911
+        height: 648
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66d4bbcdb2b46e50800000000000000
+      internalID: 6801757865472480877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing at Gunpoint0011
+      rect:
+        serializedVersion: 2
+        x: 5489
+        y: 2804
+        width: 911
+        height: 648
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f54f320311475c10800000000000000
+      internalID: 2042172505933694450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing at Gunpoint0012
+      rect:
+        serializedVersion: 2
+        x: 5489
+        y: 2804
+        width: 911
+        height: 648
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: febd4ffeb4b22bde0800000000000000
+      internalID: -1318944135717790737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing at Gunpoint0013
+      rect:
+        serializedVersion: 2
+        x: 6405
+        y: 2804
+        width: 911
+        height: 648
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee382793c2c60af30800000000000000
+      internalID: 4584783357861331950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing at Gunpoint0014
+      rect:
+        serializedVersion: 2
+        x: 6405
+        y: 2804
+        width: 911
+        height: 648
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efab83763023df490800000000000000
+      internalID: -7710951996790359298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing at Gunpoint0015
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2163
+        width: 907
+        height: 636
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06687b63c04fb8cd0800000000000000
+      internalID: -2554680030307842464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing at Gunpoint0016
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 2163
+        width: 907
+        height: 636
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c123a990d519469c0800000000000000
+      internalID: -3934860345635884516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing at Gunpoint0017
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 2163
+        width: 905
+        height: 636
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080d7b0a1dbeb07a0800000000000000
+      internalID: -6409770359054675840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing at Gunpoint0018
+      rect:
+        serializedVersion: 2
+        x: 2739
+        y: 2163
+        width: 905
+        height: 636
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31218484596aff7c0800000000000000
+      internalID: -4035323581007654381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing at Gunpoint0019
+      rect:
+        serializedVersion: 2
+        x: 3649
+        y: 2162
+        width: 911
+        height: 637
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89fc3fe1c1421a90800000000000000
+      internalID: -7344735741089613430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing at Gunpoint0020
+      rect:
+        serializedVersion: 2
+        x: 4565
+        y: 2162
+        width: 911
+        height: 637
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bd962f0718d99f0800000000000000
+      internalID: -460069264818578609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing at Gunpoint0021
+      rect:
+        serializedVersion: 2
+        x: 5481
+        y: 2161
+        width: 911
+        height: 638
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35a274c2b1b8e4b0800000000000000
+      internalID: -5410879570927508166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing at Gunpoint0022
+      rect:
+        serializedVersion: 2
+        x: 6397
+        y: 2156
+        width: 911
+        height: 643
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4137c8fc7b425f50800000000000000
+      internalID: 6868635381815259466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing at Gunpoint0023
+      rect:
+        serializedVersion: 2
+        x: 6397
+        y: 2156
+        width: 911
+        height: 643
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e59c8a2feb930b00800000000000000
+      internalID: 793649410860684769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing at Gunpoint0024
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1508
+        width: 911
+        height: 643
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8441cd3ec53f48a0800000000000000
+      internalID: -6318772592261905265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing at Gunpoint0025
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1509
+        width: 911
+        height: 642
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54a3c9b9f5455b00800000000000000
+      internalID: 816635846303392859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing at Gunpoint0026
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1509
+        width: 911
+        height: 642
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95212700164af8790800000000000000
+      internalID: -7525615715786550695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing at Gunpoint0027
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 1509
+        width: 911
+        height: 642
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f2754a70bb89810800000000000000
+      internalID: 1772372094866632460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing at Gunpoint0028
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 1509
+        width: 911
+        height: 642
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a1b1aa738e67230800000000000000
+      internalID: 3636349074923002437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GF Dancing at Gunpoint0029
+      rect:
+        serializedVersion: 2
+        x: 2753
+        y: 1509
+        width: 911
+        height: 642
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9382e2c4ccb200230800000000000000
+      internalID: 3602927858347812921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GF Crying at Gunpoint 0000: -5503566505801601057
+      GF Crying at Gunpoint 0001: -682090156805966056
+      GF Crying at Gunpoint 0002: 8422009995704267845
+      GF Crying at Gunpoint 0003: -5583165931099587476
+      GF Crying at Gunpoint 0004: 7075899910551479557
+      GF Crying at Gunpoint 0005: 435587855470734774
+      GF Crying at Gunpoint 0006: -903436548299074403
+      GF Crying at Gunpoint 0007: 7594835436784743689
+      GF Crying at Gunpoint 0008: -6569098941762564066
+      GF Crying at Gunpoint 0009: 6800637767424239402
+      GF Crying at Gunpoint 0010: 138248978521747868
+      GF Crying at Gunpoint 0011: 1094769927521473070
+      GF Crying at Gunpoint 0012: 2652029706673562141
+      GF Crying at Gunpoint 0013: -2945798361639625169
+      GF Crying at Gunpoint 0014: 1954534861462057671
+      GF Crying at Gunpoint 0015: -6377425592773258608
+      GF Crying at Gunpoint 0016: 4911363952745648389
+      GF Crying at Gunpoint 0017: -7479773022725835194
+      GF Crying at Gunpoint 0018: -5843791089579607884
+      GF Crying at Gunpoint 0019: 1083523450563024240
+      GF Crying at Gunpoint 0020: 5402956698855194299
+      GF Crying at Gunpoint 0021: 2729056990186764438
+      GF Crying at Gunpoint 0022: -8619828847868342974
+      GF Crying at Gunpoint 0023: 4552099660428105923
+      GF Crying at Gunpoint 0024: 7542513854628210092
+      GF Crying at Gunpoint 0025: 2551035231710464497
+      GF Crying at Gunpoint 0026: 6185047802361835691
+      GF Crying at Gunpoint 0027: 4327221502821101658
+      GF Crying at Gunpoint 0028: 9178134883823385422
+      GF Crying at Gunpoint 0029: 8288356536040051258
+      GF Crying at Gunpoint 0030: 1692019453832190628
+      GF Crying at Gunpoint 0031: -3063158904239314309
+      GF Crying at Gunpoint 0032: -6234482487549877220
+      GF Crying at Gunpoint 0033: -3353422852326807415
+      GF Crying at Gunpoint 0034: 9201378485828399580
+      GF Dancing at Gunpoint0000: -5929212566392320647
+      GF Dancing at Gunpoint0001: 7636078046288656696
+      GF Dancing at Gunpoint0002: 900346208689943049
+      GF Dancing at Gunpoint0003: -8489072688364526408
+      GF Dancing at Gunpoint0004: -651198998228339587
+      GF Dancing at Gunpoint0005: -1191281693681500761
+      GF Dancing at Gunpoint0006: -2550887069025966461
+      GF Dancing at Gunpoint0007: 1193954225669653476
+      GF Dancing at Gunpoint0008: 8929131805246411112
+      GF Dancing at Gunpoint0009: -5698163051989980222
+      GF Dancing at Gunpoint0010: 6801757865472480877
+      GF Dancing at Gunpoint0011: 2042172505933694450
+      GF Dancing at Gunpoint0012: -1318944135717790737
+      GF Dancing at Gunpoint0013: 4584783357861331950
+      GF Dancing at Gunpoint0014: -7710951996790359298
+      GF Dancing at Gunpoint0015: -2554680030307842464
+      GF Dancing at Gunpoint0016: -3934860345635884516
+      GF Dancing at Gunpoint0017: -6409770359054675840
+      GF Dancing at Gunpoint0018: -4035323581007654381
+      GF Dancing at Gunpoint0019: -7344735741089613430
+      GF Dancing at Gunpoint0020: -460069264818578609
+      GF Dancing at Gunpoint0021: -5410879570927508166
+      GF Dancing at Gunpoint0022: 6868635381815259466
+      GF Dancing at Gunpoint0023: 793649410860684769
+      GF Dancing at Gunpoint0024: -6318772592261905265
+      GF Dancing at Gunpoint0025: 816635846303392859
+      GF Dancing at Gunpoint0026: -7525615715786550695
+      GF Dancing at Gunpoint0027: 1772372094866632460
+      GF Dancing at Gunpoint0028: 3636349074923002437
+      GF Dancing at Gunpoint0029: 3602927858347812921
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

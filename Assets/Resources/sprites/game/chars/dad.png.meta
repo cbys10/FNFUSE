@@ -1,0 +1,1808 @@
+fileFormatVersion: 2
+guid: 6b98840e9c9ae63468cfe9ca9dba908e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idle0001
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 1272
+        width: 421
+        height: 767
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05af8a22efe57ac20800000000000000
+      internalID: 3217644904375712336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle0002
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 1272
+        width: 421
+        height: 767
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de539f853d587e50800000000000000
+      internalID: 6807293321393954518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle0003
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 497
+        width: 429
+        height: 759
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364907f6a34940440800000000000000
+      internalID: 4901205273184605283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle0004
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 497
+        width: 429
+        height: 759
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d6feff22da4bd00800000000000000
+      internalID: 987604584135355787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle0005
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 506
+        width: 425
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3ec4196875c78d0800000000000000
+      internalID: -2847304628930026544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle0006
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 506
+        width: 425
+        height: 758
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9cb1eeec5a56250800000000000000
+      internalID: 5937333991934511538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle0007
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1280
+        width: 424
+        height: 759
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0578e1c8b9ff79c0800000000000000
+      internalID: -3927145778121247477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle0008
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1280
+        width: 424
+        height: 759
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82af21980e4fc97a0800000000000000
+      internalID: -6368946527799150040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle0009
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 42
+        width: 766
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0d0f1181939f070800000000000000
+      internalID: 8140600576991875299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle0010
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 42
+        width: 766
+        height: 421
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497ded07bcd58fe40800000000000000
+      internalID: 5690401257536018324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle0011
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 479
+        width: 421
+        height: 767
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b760c339ece51570800000000000000
+      internalID: 8436909963288274867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle0012
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 479
+        width: 421
+        height: 767
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb54c705199302370800000000000000
+      internalID: 8295693809899816380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle0013
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 1272
+        width: 421
+        height: 767
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b71410ad17f5b850800000000000000
+      internalID: 6392286952734070705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singDOWN0001
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 1308
+        width: 470
+        height: 731
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695c8f98e7000ba10800000000000000
+      internalID: 1923037584367863190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singDOWN0002
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 1308
+        width: 470
+        height: 731
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051d479a83af85510800000000000000
+      internalID: 1538254394015142224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singDOWN0003
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 26
+        width: 736
+        height: 464
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52bfa213ff10b680800000000000000
+      internalID: -8741451747875114401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singDOWN0004
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 26
+        width: 736
+        height: 464
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb53ab87ca99a5e0800000000000000
+      internalID: -1897815586128045081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singDOWN0005
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 26
+        width: 736
+        height: 464
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b41174de45f8650800000000000000
+      internalID: 6237297387007724425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singDOWN0006
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 26
+        width: 736
+        height: 464
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd5ea6774587df70800000000000000
+      internalID: 9211978104789949881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singDOWN0007
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 26
+        width: 736
+        height: 464
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c55bf0f2de9d7a0800000000000000
+      internalID: -6351785013046584246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singDOWN0008
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 26
+        width: 736
+        height: 464
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e5f2ae24ef39170800000000000000
+      internalID: 8184164511212592648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singDOWN0009
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 26
+        width: 736
+        height: 464
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66757d3ec51544d00800000000000000
+      internalID: 955978480310769510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singDOWN0010
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 26
+        width: 736
+        height: 464
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5394917baa26440800000000000000
+      internalID: 4927688645676709345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singDOWN0011
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 26
+        width: 736
+        height: 464
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a72ab12542268c00800000000000000
+      internalID: 902446455648298913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singDOWN0012
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 26
+        width: 736
+        height: 464
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c9a87a6a3be9d00800000000000000
+      internalID: 981419297170168878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singDOWN0013
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 26
+        width: 736
+        height: 464
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb05df8f4b9beeda0800000000000000
+      internalID: -5913585073768279873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singDOWN0014
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 26
+        width: 736
+        height: 464
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562c8da9472cb20c0800000000000000
+      internalID: -4599368788358938011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singDOWN0015
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 26
+        width: 736
+        height: 464
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395f952bd376a3c90800000000000000
+      internalID: -7189320340460669549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singDOWN0016
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 26
+        width: 736
+        height: 464
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbccc77b15acaa60800000000000000
+      internalID: 7686700201407204292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singLEFT0001
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 777
+        height: 371
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a96fd9388d7de450800000000000000
+      internalID: 6119685492706339238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singLEFT0002
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 777
+        height: 371
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb6d3221f5b9cb00800000000000000
+      internalID: 849410052002245552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singLEFT0003
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1262
+        width: 382
+        height: 777
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0122c1e77c57bc30800000000000000
+      internalID: 4375067232972185867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singLEFT0004
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1262
+        width: 382
+        height: 777
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92b7898111d703f0800000000000000
+      internalID: -934548524404067685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singLEFT0005
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 22
+        width: 777
+        height: 382
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e80acad764c7c40800000000000000
+      internalID: 5511357549575704099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singLEFT0006
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 22
+        width: 777
+        height: 382
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e839d4926b451650800000000000000
+      internalID: 6202946948548868321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singLEFT0007
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1262
+        width: 382
+        height: 777
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f3969017f14b5d0800000000000000
+      internalID: -3047776477473325232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singLEFT0008
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1262
+        width: 382
+        height: 777
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1e5d56745ce8a80800000000000000
+      internalID: -8462609739340717622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singLEFT0009
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 22
+        width: 777
+        height: 382
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293336328823bae80800000000000000
+      internalID: -8166377939015617646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singLEFT0010
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 22
+        width: 777
+        height: 382
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09099f026e2560e0800000000000000
+      internalID: -2277363037862557430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singLEFT0011
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1262
+        width: 382
+        height: 777
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174d81e88e763bd00800000000000000
+      internalID: 987246991838336113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singLEFT0012
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1262
+        width: 382
+        height: 777
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1726e85b356e04c70800000000000000
+      internalID: 8953409306415227505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singLEFT0013
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 22
+        width: 777
+        height: 382
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5b871d7cddc2be0800000000000000
+      internalID: -1500580725538638420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singLEFT0014
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 22
+        width: 777
+        height: 382
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e217cac8f3b705e20800000000000000
+      internalID: 3337302836754805038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singLEFT0015
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1262
+        width: 382
+        height: 777
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279a63a37c9cd96d0800000000000000
+      internalID: -2982005520737064590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singLEFT0016
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1262
+        width: 382
+        height: 777
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8282c163415ef1ae0800000000000000
+      internalID: -1576289469586462680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singRIGHT0001
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 438
+        width: 466
+        height: 792
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d5e6a66dc067960800000000000000
+      internalID: 7599275536282443027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singRIGHT0002
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 438
+        width: 466
+        height: 792
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2630e720defd1a00800000000000000
+      internalID: 729018884679546413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singRIGHT0003
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1246
+        width: 453
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dff5ced200f2e140800000000000000
+      internalID: 4747620852320042961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singRIGHT0004
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1246
+        width: 453
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad751f8b379bfed0800000000000000
+      internalID: -2379141696075760216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singRIGHT0005
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 420
+        width: 453
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c73b15706ccfea0800000000000000
+      internalID: -5837573282241217503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singRIGHT0006
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 420
+        width: 453
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9522e75497014c110800000000000000
+      internalID: 1280166307123044953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singRIGHT0007
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1246
+        width: 453
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7bbcfedee12bdc0800000000000000
+      internalID: -3624800742800640006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singRIGHT0008
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1246
+        width: 453
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6fa86ec72639800800000000000000
+      internalID: 617945862463223519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singRIGHT0009
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 420
+        width: 453
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc18a8c3fdf6d440800000000000000
+      internalID: 4960431263080520905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singRIGHT0010
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 420
+        width: 453
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79223507e3b703f0800000000000000
+      internalID: -934580592850097797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singRIGHT0011
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1246
+        width: 453
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d63b52e059e64100800000000000000
+      internalID: 92017376011957972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singRIGHT0012
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1246
+        width: 453
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5dbce2b57a8e9410800000000000000
+      internalID: 1485777165196508508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singRIGHT0013
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 420
+        width: 453
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5086295040b4ae20800000000000000
+      internalID: 3361005012345323614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singRIGHT0014
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 420
+        width: 453
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8187ea0ef752356e0800000000000000
+      internalID: -1850093790758537192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singRIGHT0015
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1246
+        width: 453
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b33b6116e4f51cd0800000000000000
+      internalID: -2587893141882588236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singRIGHT0016
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1246
+        width: 453
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a22a035af0a4b0c0800000000000000
+      internalID: -4560843525624028508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singUP0001
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1221
+        width: 408
+        height: 818
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9563429cdca4b50800000000000000
+      internalID: 6578296469507693009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singUP0002
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1221
+        width: 408
+        height: 818
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b90c8d446132c40800000000000000
+      internalID: 5486253256017484693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singUP0003
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1229
+        width: 408
+        height: 810
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21227cf7867169f70800000000000000
+      internalID: 9193561426911240722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singUP0004
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1229
+        width: 408
+        height: 810
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59804980541b56a0800000000000000
+      internalID: -6459546904400197282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singUP0005
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 395
+        width: 408
+        height: 810
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a60cb3523e1a5c0800000000000000
+      internalID: -4205830827931571681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singUP0006
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 395
+        width: 408
+        height: 810
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293de147429f9b5b0800000000000000
+      internalID: -5351972747190807662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singUP0007
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1229
+        width: 408
+        height: 810
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6f0860bb7994540800000000000000
+      internalID: 4992688491440699108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singUP0008
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1229
+        width: 408
+        height: 810
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8260b3a18939b3800800000000000000
+      internalID: 593230057413740072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singUP0009
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 395
+        width: 408
+        height: 810
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed33415c9a93d5760800000000000000
+      internalID: 7448172760059360222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singUP0010
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 395
+        width: 408
+        height: 810
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476f545c5c68a2e10800000000000000
+      internalID: 2173697954136061556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singUP0011
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1229
+        width: 408
+        height: 810
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfe36ea13ab4c530800000000000000
+      internalID: 3874426301987418044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singUP0012
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1229
+        width: 408
+        height: 810
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8330e15514e47190800000000000000
+      internalID: -7965491060692470901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singUP0013
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 395
+        width: 408
+        height: 810
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714c6420cc0688c10800000000000000
+      internalID: 2055999659222418455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singUP0014
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 395
+        width: 408
+        height: 810
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86490e2a62e9f320800000000000000
+      internalID: 2592352006195201675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singUP0015
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1229
+        width: 408
+        height: 810
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b67632683967e790800000000000000
+      internalID: -7500910963475450185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singUP0016
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1229
+        width: 408
+        height: 810
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59bd2cb37e796600800000000000000
+      internalID: 462039472325638493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      idle0001: 3217644904375712336
+      idle0002: 6807293321393954518
+      idle0003: 4901205273184605283
+      idle0004: 987604584135355787
+      idle0005: -2847304628930026544
+      idle0006: 5937333991934511538
+      idle0007: -3927145778121247477
+      idle0008: -6368946527799150040
+      idle0009: 8140600576991875299
+      idle0010: 5690401257536018324
+      idle0011: 8436909963288274867
+      idle0012: 8295693809899816380
+      idle0013: 6392286952734070705
+      singDOWN0001: 1923037584367863190
+      singDOWN0002: 1538254394015142224
+      singDOWN0003: -8741451747875114401
+      singDOWN0004: -1897815586128045081
+      singDOWN0005: 6237297387007724425
+      singDOWN0006: 9211978104789949881
+      singDOWN0007: -6351785013046584246
+      singDOWN0008: 8184164511212592648
+      singDOWN0009: 955978480310769510
+      singDOWN0010: 4927688645676709345
+      singDOWN0011: 902446455648298913
+      singDOWN0012: 981419297170168878
+      singDOWN0013: -5913585073768279873
+      singDOWN0014: -4599368788358938011
+      singDOWN0015: -7189320340460669549
+      singDOWN0016: 7686700201407204292
+      singLEFT0001: 6119685492706339238
+      singLEFT0002: 849410052002245552
+      singLEFT0003: 4375067232972185867
+      singLEFT0004: -934548524404067685
+      singLEFT0005: 5511357549575704099
+      singLEFT0006: 6202946948548868321
+      singLEFT0007: -3047776477473325232
+      singLEFT0008: -8462609739340717622
+      singLEFT0009: -8166377939015617646
+      singLEFT0010: -2277363037862557430
+      singLEFT0011: 987246991838336113
+      singLEFT0012: 8953409306415227505
+      singLEFT0013: -1500580725538638420
+      singLEFT0014: 3337302836754805038
+      singLEFT0015: -2982005520737064590
+      singLEFT0016: -1576289469586462680
+      singRIGHT0001: 7599275536282443027
+      singRIGHT0002: 729018884679546413
+      singRIGHT0003: 4747620852320042961
+      singRIGHT0004: -2379141696075760216
+      singRIGHT0005: -5837573282241217503
+      singRIGHT0006: 1280166307123044953
+      singRIGHT0007: -3624800742800640006
+      singRIGHT0008: 617945862463223519
+      singRIGHT0009: 4960431263080520905
+      singRIGHT0010: -934580592850097797
+      singRIGHT0011: 92017376011957972
+      singRIGHT0012: 1485777165196508508
+      singRIGHT0013: 3361005012345323614
+      singRIGHT0014: -1850093790758537192
+      singRIGHT0015: -2587893141882588236
+      singRIGHT0016: -4560843525624028508
+      singUP0001: 6578296469507693009
+      singUP0002: 5486253256017484693
+      singUP0003: 9193561426911240722
+      singUP0004: -6459546904400197282
+      singUP0005: -4205830827931571681
+      singUP0006: -5351972747190807662
+      singUP0007: 4992688491440699108
+      singUP0008: 593230057413740072
+      singUP0009: 7448172760059360222
+      singUP0010: 2173697954136061556
+      singUP0011: 3874426301987418044
+      singUP0012: -7965491060692470901
+      singUP0013: 2055999659222418455
+      singUP0014: 2592352006195201675
+      singUP0015: -7500910963475450185
+      singUP0016: 462039472325638493
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

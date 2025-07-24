@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: d65153a6a4045d345a395cc8a20fb4c3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SmokeRight instance 10000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2314
+        width: 533
+        height: 885
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44aed54869c49df80800000000000000
+      internalID: -8081343846990091708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeRight instance 10001
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 3225
+        width: 510
+        height: 871
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e70594fe6246f40800000000000000
+      internalID: 5720740235836423702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeRight instance 10002
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 3225
+        width: 510
+        height: 871
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9759e24d2baea480800000000000000
+      internalID: -8885976803870943334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeRight instance 10003
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 3225
+        width: 510
+        height: 871
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ddcaa5ba0c5feb0800000000000000
+      internalID: -4686627995015914143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeRight instance 10004
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1433
+        width: 501
+        height: 871
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be74ed9005648f490800000000000000
+      internalID: -7712337052295084053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeRight instance 10005
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1433
+        width: 501
+        height: 871
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d5a34fee88086d0800000000000000
+      internalID: -2990239592692949628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeRight instance 10006
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1433
+        width: 501
+        height: 871
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7b921b203ea6ab0800000000000000
+      internalID: -5013945634421885000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeRight instance 10007
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 2321
+        width: 524
+        height: 876
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca96c236ebdfb3ae0800000000000000
+      internalID: -1568381051059017300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeRight instance 10008
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 2321
+        width: 524
+        height: 876
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83afd64a7b1ba770800000000000000
+      internalID: 8623016123519968138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeRight instance 10009
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 2321
+        width: 524
+        height: 876
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9b81a6b4e2c1b70800000000000000
+      internalID: 8871016267450464761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeRight instance 10010
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 2315
+        width: 534
+        height: 882
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7066266f54575f0800000000000000
+      internalID: -759624037626935335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeRight instance 10011
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 2315
+        width: 534
+        height: 882
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409225d71476d10d0800000000000000
+      internalID: -3450488208522860284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeRight instance 10012
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 2315
+        width: 534
+        height: 882
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e632d77d5fcf44720800000000000000
+      internalID: 2829664598708003694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeRight instance 10013
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3209
+        width: 542
+        height: 887
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df011421a312ad40800000000000000
+      internalID: 5594055269963337688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeRight instance 10014
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3209
+        width: 542
+        height: 887
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e23da1c4da408250800000000000000
+      internalID: 5944833785771930341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeRight instance 10015
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3209
+        width: 542
+        height: 887
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14071c9f98b492770800000000000000
+      internalID: 8586477220531368001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeRight instance 10016
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 3207
+        width: 538
+        height: 889
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826c0306edfab1520800000000000000
+      internalID: 2673924173405931048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeRight instance 10017
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 3207
+        width: 538
+        height: 889
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2bcd5de69114ca0800000000000000
+      internalID: -6034514061874646293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeRight instance 10018
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 3207
+        width: 538
+        height: 889
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7c72ff333cb76b0800000000000000
+      internalID: -5297425908579710988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeRight instance 10019
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 2385
+        width: 535
+        height: 830
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62af3fed578da79b0800000000000000
+      internalID: -5081511228770878938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeRight instance 10020
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 2385
+        width: 535
+        height: 830
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c42869dea3a4560800000000000000
+      internalID: 7298710938214091816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeRight instance 10021
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 2385
+        width: 535
+        height: 830
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad872c66a7cabd410800000000000000
+      internalID: 1502984542368200922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeRight instance 10022
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 1541
+        width: 526
+        height: 834
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bb95177ab31ca80800000000000000
+      internalID: -8448405835623056606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeRight instance 10023
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 1541
+        width: 526
+        height: 834
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d2940c70d2e3980800000000000000
+      internalID: -8557352730643321508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeRight instance 10024
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 1541
+        width: 526
+        height: 834
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75785db9275ecbb60800000000000000
+      internalID: 7763332138083387223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeRight instance 10025
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1489
+        width: 525
+        height: 815
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37feae53747f84bb0800000000000000
+      internalID: -4951435905074532493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeRight instance 10026
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1489
+        width: 525
+        height: 815
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f674aa0775107d0800000000000000
+      internalID: -2953983739173572779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeRight instance 10027
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1489
+        width: 525
+        height: 815
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec2ad81c260f8590800000000000000
+      internalID: -7669904853923386133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeRight instance 10028
+      rect:
+        serializedVersion: 2
+        x: 2157
+        y: 1637
+        width: 515
+        height: 738
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9387cb234305c50800000000000000
+      internalID: 6651874042141227493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeRight instance 10029
+      rect:
+        serializedVersion: 2
+        x: 2157
+        y: 1637
+        width: 515
+        height: 738
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f65ab407a30947c0800000000000000
+      internalID: -4086731170988271881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeRight instance 10030
+      rect:
+        serializedVersion: 2
+        x: 2157
+        y: 1637
+        width: 515
+        height: 738
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb36ab3f135e9570800000000000000
+      internalID: 8475302942367693774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeRight instance 10031
+      rect:
+        serializedVersion: 2
+        x: 2668
+        y: 2655
+        width: 443
+        height: 676
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33a9e1baf0a09260800000000000000
+      internalID: 7102353610950419259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeRight instance 10032
+      rect:
+        serializedVersion: 2
+        x: 2668
+        y: 2655
+        width: 443
+        height: 676
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a8c73bc7ca37e80800000000000000
+      internalID: -8182006446414853562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeRight instance 10033
+      rect:
+        serializedVersion: 2
+        x: 2668
+        y: 2655
+        width: 443
+        height: 676
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52751352d71ed1d60800000000000000
+      internalID: 7862688452069906213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeRight instance 10034
+      rect:
+        serializedVersion: 2
+        x: 2668
+        y: 3341
+        width: 481
+        height: 755
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa6280448b7b35d0800000000000000
+      internalID: -3081733712056784134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeRight instance 10035
+      rect:
+        serializedVersion: 2
+        x: 2668
+        y: 3341
+        width: 481
+        height: 755
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26eefdb4b0558de0800000000000000
+      internalID: -1331569377606179283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeRight instance 10036
+      rect:
+        serializedVersion: 2
+        x: 2668
+        y: 3341
+        width: 481
+        height: 755
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4885c941a55006680800000000000000
+      internalID: -8763998990411999100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeRight instance 10037
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1503
+        width: 508
+        height: 802
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae2b5e29bc06b4d0800000000000000
+      internalID: -3119291702421279060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeRight instance 10038
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1503
+        width: 508
+        height: 802
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d0520d04794aed0800000000000000
+      internalID: -2403629996483211884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeRight instance 10039
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1503
+        width: 508
+        height: 802
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10cd91bcb08d93040800000000000000
+      internalID: 4627967637263604737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeRight instance 10040
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 3245
+        width: 519
+        height: 851
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6db4375a0d55f8e0800000000000000
+      internalID: -1660318588622029459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeRight instance 10041
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 3245
+        width: 519
+        height: 851
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8df9a022183cbf0800000000000000
+      internalID: -305258366523942732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeRight instance 10042
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 3245
+        width: 519
+        height: 851
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfb4c44b4e434790800000000000000
+      internalID: -7547102465359560759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeRight instance 10043
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 3218
+        width: 509
+        height: 878
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164603bc301862e80800000000000000
+      internalID: -8203727817914948511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeRight instance 10044
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 3218
+        width: 509
+        height: 878
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5822b9ddd29d920800000000000000
+      internalID: 3015491855315011041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeRight instance 10045
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 3218
+        width: 509
+        height: 878
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b308482a4bd8d6000800000000000000
+      internalID: 30836579421683771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeRight instance 10046
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2314
+        width: 533
+        height: 885
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdaf701d5c58f430800000000000000
+      internalID: 3816902238975012345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmokeRight instance 10047
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2314
+        width: 533
+        height: 885
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0b367713c3be390800000000000000
+      internalID: -7788064947453054768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SmokeRight instance 10000: -8081343846990091708
+      SmokeRight instance 10001: 5720740235836423702
+      SmokeRight instance 10002: -8885976803870943334
+      SmokeRight instance 10003: -4686627995015914143
+      SmokeRight instance 10004: -7712337052295084053
+      SmokeRight instance 10005: -2990239592692949628
+      SmokeRight instance 10006: -5013945634421885000
+      SmokeRight instance 10007: -1568381051059017300
+      SmokeRight instance 10008: 8623016123519968138
+      SmokeRight instance 10009: 8871016267450464761
+      SmokeRight instance 10010: -759624037626935335
+      SmokeRight instance 10011: -3450488208522860284
+      SmokeRight instance 10012: 2829664598708003694
+      SmokeRight instance 10013: 5594055269963337688
+      SmokeRight instance 10014: 5944833785771930341
+      SmokeRight instance 10015: 8586477220531368001
+      SmokeRight instance 10016: 2673924173405931048
+      SmokeRight instance 10017: -6034514061874646293
+      SmokeRight instance 10018: -5297425908579710988
+      SmokeRight instance 10019: -5081511228770878938
+      SmokeRight instance 10020: 7298710938214091816
+      SmokeRight instance 10021: 1502984542368200922
+      SmokeRight instance 10022: -8448405835623056606
+      SmokeRight instance 10023: -8557352730643321508
+      SmokeRight instance 10024: 7763332138083387223
+      SmokeRight instance 10025: -4951435905074532493
+      SmokeRight instance 10026: -2953983739173572779
+      SmokeRight instance 10027: -7669904853923386133
+      SmokeRight instance 10028: 6651874042141227493
+      SmokeRight instance 10029: -4086731170988271881
+      SmokeRight instance 10030: 8475302942367693774
+      SmokeRight instance 10031: 7102353610950419259
+      SmokeRight instance 10032: -8182006446414853562
+      SmokeRight instance 10033: 7862688452069906213
+      SmokeRight instance 10034: -3081733712056784134
+      SmokeRight instance 10035: -1331569377606179283
+      SmokeRight instance 10036: -8763998990411999100
+      SmokeRight instance 10037: -3119291702421279060
+      SmokeRight instance 10038: -2403629996483211884
+      SmokeRight instance 10039: 4627967637263604737
+      SmokeRight instance 10040: -1660318588622029459
+      SmokeRight instance 10041: -305258366523942732
+      SmokeRight instance 10042: -7547102465359560759
+      SmokeRight instance 10043: -8203727817914948511
+      SmokeRight instance 10044: 3015491855315011041
+      SmokeRight instance 10045: 30836579421683771
+      SmokeRight instance 10046: 3816902238975012345
+      SmokeRight instance 10047: -7788064947453054768
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

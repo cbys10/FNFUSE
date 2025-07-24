@@ -1,0 +1,633 @@
+fileFormatVersion: 2
+guid: f9c82f32348f0cb4299a0eb2f0c892bb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: halloweem bg0000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7117
+        width: 2114
+        height: 1075
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293399ec3b58270d0800000000000000
+      internalID: -3426529359163739246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloweem bg lightning strike0000
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 7117
+        width: 2114
+        height: 1075
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfd1653bad9a3bd0800000000000000
+      internalID: -2649632072093540414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloweem bg lightning strike0001
+      rect:
+        serializedVersion: 2
+        x: 4248
+        y: 7192
+        width: 2114
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3264354864b1ef0800000000000000
+      internalID: -136437829557935168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloweem bg lightning strike0002
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6017
+        width: 2114
+        height: 1090
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a686b03c7c0353a0800000000000000
+      internalID: -6677980094927567191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloweem bg lightning strike0003
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 6026
+        width: 2114
+        height: 1081
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c612ba37d8129d10800000000000000
+      internalID: 2130792886381450951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloweem bg lightning strike0004
+      rect:
+        serializedVersion: 2
+        x: 4248
+        y: 6026
+        width: 2114
+        height: 1081
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ed1d50d8730e160800000000000000
+      internalID: 7052698095289753197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloweem bg lightning strike0005
+      rect:
+        serializedVersion: 2
+        x: 4248
+        y: 6026
+        width: 2114
+        height: 1081
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1aafee499e04690800000000000000
+      internalID: -7619833743637044765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloweem bg lightning strike0006
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4926
+        width: 2114
+        height: 1081
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0786f8b0999d9e0800000000000000
+      internalID: -1596076317996453690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloweem bg lightning strike0007
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 4926
+        width: 2114
+        height: 1081
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74085af9c0fef060800000000000000
+      internalID: 6989288422004753532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloweem bg lightning strike0008
+      rect:
+        serializedVersion: 2
+        x: 4248
+        y: 4927
+        width: 2114
+        height: 1080
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c39c17ca64d4f0b0800000000000000
+      internalID: -5695694073644674104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloweem bg lightning strike0009
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3836
+        width: 2114
+        height: 1080
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34634895e7eeca5e0800000000000000
+      internalID: -1896879116594694589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloweem bg lightning strike0010
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 3836
+        width: 2114
+        height: 1080
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802d018c462482ac0800000000000000
+      internalID: -3879778078358973944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloweem bg lightning strike0011
+      rect:
+        serializedVersion: 2
+        x: 4248
+        y: 3836
+        width: 2114
+        height: 1080
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d46581e02e6e750800000000000000
+      internalID: 6333998476108909895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloweem bg lightning strike0012
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2746
+        width: 2114
+        height: 1080
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb51cfd2f0d58370800000000000000
+      internalID: 8324289227818884071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloweem bg lightning strike0013
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 2746
+        width: 2114
+        height: 1080
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a94dae178b02a70800000000000000
+      internalID: 8800236471292566169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloweem bg lightning strike0014
+      rect:
+        serializedVersion: 2
+        x: 4248
+        y: 2746
+        width: 2114
+        height: 1080
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c3322290bb03ff0800000000000000
+      internalID: -58341147253982208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloweem bg lightning strike0015
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1657
+        width: 2114
+        height: 1079
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437a2916194f9da50800000000000000
+      internalID: 6546532438604162868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloweem bg lightning strike0016
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 1657
+        width: 2114
+        height: 1079
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843dfefbd46eb5fc0800000000000000
+      internalID: -3504954663370763448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloweem bg lightning strike0017
+      rect:
+        serializedVersion: 2
+        x: 4248
+        y: 1657
+        width: 2114
+        height: 1079
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67646f2109c499e00800000000000000
+      internalID: 1051956169644852854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloweem bg lightning strike0018
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 568
+        width: 2114
+        height: 1079
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688440ed2839abf00800000000000000
+      internalID: 1133380446516955270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloweem bg lightning strike0019
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 569
+        width: 2114
+        height: 1078
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e3a8fa67f00a9e0800000000000000
+      internalID: -1612271664173007211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloweem bg lightning strike0020
+      rect:
+        serializedVersion: 2
+        x: 4248
+        y: 569
+        width: 2114
+        height: 1078
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27174519a49081610800000000000000
+      internalID: 1592032684145930610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloweem bg lightning strike0029
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7117
+        width: 2114
+        height: 1075
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d0d1e247267a2c0800000000000000
+      internalID: -4420456258111468138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      halloweem bg lightning strike0000: -2649632072093540414
+      halloweem bg lightning strike0001: -136437829557935168
+      halloweem bg lightning strike0002: -6677980094927567191
+      halloweem bg lightning strike0003: 2130792886381450951
+      halloweem bg lightning strike0004: 7052698095289753197
+      halloweem bg lightning strike0005: -7619833743637044765
+      halloweem bg lightning strike0006: -1596076317996453690
+      halloweem bg lightning strike0007: 6989288422004753532
+      halloweem bg lightning strike0008: -5695694073644674104
+      halloweem bg lightning strike0009: -1896879116594694589
+      halloweem bg lightning strike0010: -3879778078358973944
+      halloweem bg lightning strike0011: 6333998476108909895
+      halloweem bg lightning strike0012: 8324289227818884071
+      halloweem bg lightning strike0013: 8800236471292566169
+      halloweem bg lightning strike0014: -58341147253982208
+      halloweem bg lightning strike0015: 6546532438604162868
+      halloweem bg lightning strike0016: -3504954663370763448
+      halloweem bg lightning strike0017: 1051956169644852854
+      halloweem bg lightning strike0018: 1133380446516955270
+      halloweem bg lightning strike0019: -1612271664173007211
+      halloweem bg lightning strike0020: 1592032684145930610
+      halloweem bg lightning strike0029: -4420456258111468138
+      halloweem bg0000: -3426529359163739246
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

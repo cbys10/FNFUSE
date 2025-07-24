@@ -1,0 +1,11 @@
+{
+    "title": "PICO",
+    "songs":["Pico","Philly Nice", "Blammed"],
+    "diffs": ["easy","normal","hard"],
+    "story":{
+        "op": "pico",
+        "bf": "bf",
+        "gf": "gf",
+        "titleImg": "3.png"
+    }
+}
